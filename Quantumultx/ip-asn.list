@@ -1,0 +1,74 @@
+ip-asn,714 , direct
+#🇺🇸Apple Inc.
+ip-asn,2914, direct
+#🇺🇸NTT America, Inc.#filebox-douban.vercel.app
+ip-asn,3462, direct
+#🇼🇸Data Communication Business Group
+ip-asn,4230, direct
+#🇧🇷CLARO S.A.
+ip-asn,8068, direct
+#🇺🇸Microsoft Corporation
+ip-asn,8075, direct
+#🇺🇸Microsoft Corporation
+#ip-asn,9009, direct
+#🇷🇴M247 Europe SRL#mail.cock.li
+ip-asn,13333, direct
+#🇺🇸Consolidated Communications, Inc.
+ip-asn, 13335, DNS
+#🇺🇸Cloudflare, Inc.
+ip-asn,13414, direct
+#🇺🇸Twitter Inc.
+ip-asn,14061, direct
+#🇺🇸DigitalOcean, LLC
+ip-asn,14618, direct
+#🇺🇸Amazon.com, Inc.
+ip-asn,15133, direct
+#🇺🇸EdgeCast Networks Inc.
+ip-asn, 15169, MICROSOFT
+#🇺🇸Google LLC
+ip-asn,16509, direct
+#🇺🇸Amazon.com, Inc.
+ip-asn,16625, direct
+#🇺🇸Akamai Technologies, Inc.
+ip-asn,19679, direct
+#🇺🇸Dropbox, Inc.
+ip-asn,20940, direct
+#🇳🇱Akamai International B.V.
+ip-asn,24940, direct
+#🇩🇪Hetzner Online GmbH
+ip-asn,29423, direct
+#🇩🇪gridscale GmbH
+ip-asn,32934, direct
+#🇺🇸Facebook, Inc.#filebox-douban.vercel.app, direct
+ip-asn,36351, direct
+#🇺🇸SoftLayer Technologies Inc.#gdb.voanews.com
+ip-asn,40065, direct
+#🇺🇸CNSERVERS LLC
+ip-asn,48447, direct
+#🇬🇧Sectigo Limited
+ip-asn,54113, direct
+#🇺🇸Fastly, Inc.
+ip-asn,54600, direct
+#🇺🇸PEG TECH INC
+ip-asn,54994, direct
+#🇺🇸QUANTIL NETWORKS INC
+ip-asn,58722, direct
+#🇸🇬51 JALAN LANJUT
+ip-asn,59507, direct
+#🇩🇪terralink networks GmbH
+ip-asn,60068, direct
+#🇬🇧Datacamp Limited#p.lngtdv.com
+ip-asn,63949, direct
+#🇸🇬Akamai Connected Cloud
+ip-asn,64050, direct
+#🇸🇬BGPNET Global ASN
+ip-asn,136907, direct
+#🇭🇰HUAWEI CLOUDS
+ip-asn,142403, direct
+#🇭🇰YISU CLOUD LTD
+ip-asn,197019, direct
+#🇨🇿WEDOS Internet, a.s.#appraven.net
+ip-asn,200019, direct
+#🇲🇩ALEXHOST SRL#zlib
+ip-asn,396982, direct
+#🇺🇸Google LLC
