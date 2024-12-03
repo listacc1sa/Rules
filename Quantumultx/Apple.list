@@ -1,0 +1,89 @@
+# NAME: AppleProxy
+HOST,api-glb-sea.smoot.apple.com,IPhone PROXY
+HOST,apple.comscoreresearch.com,IPhone PROXY
+HOST,books.itunes.apple.com,IPhone PROXY
+HOST,cdn.apple-cloudkit.com,IPhone PROXY
+HOST,cvws.icloud-content.com,IPhone PROXY
+HOST,developer.apple.com,IPhone PROXY
+HOST,devimages-cdn.apple.com,IPhone PROXY
+HOST,devstreaming-cdn.apple.com,IPhone PROXY
+HOST,docs-assets.developer.apple.com,IPhone PROXY
+HOST,gspe1-ssl.ls.apple.com,IPhone PROXY
+HOST,hls-svod.itunes.apple.com,IPhone PROXY
+HOST,hls.itunes.apple.com,IPhone PROXY
+HOST,itunes.apple.com,IPhone PROXY
+HOST,js-cdn.music.apple.com,IPhone PROXY
+HOST,lookup-api.apple.com,IPhone PROXY
+HOST,mask-api.fe.apple-dns.net,IPhone PROXY
+HOST,mask-api.icloud.com,IPhone PROXY
+HOST,mask-h2.icloud.com,IPhone PROXY
+HOST,mask-t.apple-dns.net,IPhone PROXY
+HOST,mask.apple-dns.net,IPhone PROXY
+HOST,mask.icloud.com,IPhone PROXY
+HOST,news-assets.apple.com,IPhone PROXY
+HOST,news-client.apple.com,IPhone PROXY
+HOST,news-edge.apple.com,IPhone PROXY
+HOST,news-events.apple.com,IPhone PROXY
+HOST,np-edge.itunes.apple.com,IPhone PROXY
+HOST,play-edge.itunes.apple.com,IPhone PROXY
+HOST,sandbox.itunes.apple.com,IPhone PROXY
+HOST,testflight.apple.com,IPhone PROXY
+HOST,tv.applemusic.com,IPhone PROXY
+HOST,uts-api.itunes.apple.com,IPhone PROXY
+HOST-SUFFIX,apple-dns.net,IPhone PROXY
+HOST-SUFFIX,apple.news,IPhone PROXY
+HOST-SUFFIX,apps.apple.com,IPhone PROXY
+HOST-SUFFIX,appsto.re,IPhone PROXY
+HOST-SUFFIX,audio-ssl.itunes.apple.com,IPhone PROXY
+HOST-SUFFIX,blobstore.apple.com,IPhone PROXY
+HOST-SUFFIX,cdn-apple.com,IPhone PROXY
+HOST-SUFFIX,digicert.com,IPhone PROXY
+HOST-SUFFIX,hls-amt.itunes.apple.com,IPhone PROXY
+HOST-SUFFIX,hls.itunes.apple.com,IPhone PROXY
+HOST-SUFFIX,ocsp.apple.com,IPhone PROXY
+HOST-SUFFIX,tv.apple.com,IPhone PROXY
+USER-AGENT,AppleNews*,IPhone PROXY
+USER-AGENT,AppleTV*,IPhone PROXY
+USER-AGENT,com.apple.news*,IPhone PROXY
+USER-AGENT,com.apple.trustd*,IPhone PROXY
+USER-AGENT,com.apple.tv*,IPhone PROXY
+# >> Apple DIRECT
+DOMAIN-SUFFIX,aaplimg.com,apple
+DOMAIN-SUFFIX,akadns.net,apple
+DOMAIN-SUFFIX,apple-cloudkit.com,apple
+DOMAIN-SUFFIX,apple-livephotoskit.com,apple
+DOMAIN-SUFFIX,apple-mapkit.com,apple
+DOMAIN-SUFFIX,apple.co,apple
+DOMAIN-SUFFIX,apple.com,apple
+DOMAIN-SUFFIX,apple.com.edgekey.net,apple
+DOMAIN-SUFFIX,applemusic.com,apple
+DOMAIN-SUFFIX,appstore.com,apple
+DOMAIN-SUFFIX,apzones.com,apple
+DOMAIN-SUFFIX,cdn-apple.com,apple
+DOMAIN-SUFFIX,icloud-content.com,apple
+DOMAIN-SUFFIX,icloud.com,apple
+DOMAIN-SUFFIX,itunes.com,apple
+DOMAIN-SUFFIX,me.com,apple
+DOMAIN-SUFFIX,mzstatic.com,apple
+DOMAIN-SUFFIX,smoot.apple.com,apple
+host,safebrowsing.urlsec.qq.com,apple
+host,safebrowsing.googleapis.com,apple
+user-agent,com.apple.appstored*,apple
+user-agent,AppStore*,apple
+host-suffix,mzstatic.com,apple
+host-suffix,itunes.apple.com,apple
+host-suffix,icloud.com,apple
+host-suffix,icloud-content.com,apple
+user-agent,cloudd*,apple
+host-suffix,me.com,apple
+host-suffix,aaplimg.com,apple
+host-suffix,cdn20.com,apple
+host-suffix,cdn-apple.com,apple
+host-suffix,akadns.net,apple
+host-suffix,akamaiedge.net,apple
+host-suffix,edgekey.net,apple
+host-suffix,mwcloudcdn.com,apple
+host-suffix,mwcname.com,apple
+host-suffix,apple.com,apple
+host-suffix,apple-cloudkit.com,apple
+host-suffix,apple-mapkit.com,apple
