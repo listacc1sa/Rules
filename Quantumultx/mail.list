@@ -1,0 +1,28 @@
+# Gmail
+HOST,imap.gmail.com
+HOST,smtp.gmail.com
+HOST,pop.gmail.com
+# Outlook
+HOST-SUFFIX,m.hotmail.com
+HOST,outlook.office365.com
+HOST,imap-mail.outlook.com
+HOST,smtp-mail.outlook.com
+HOST,smtp.office365.com
+# yahoo
+HOST,apple.imap.mail.yahoo.com
+HOST,apple.smtp.mail.yahoo.com
+# yandex
+HOST-SUFFIX,imap.yandex.com
+HOST-SUFFIX,smtp.yandex.com
+# Spark
+HOST-SUFFIX,amplitude.com
+HOST-SUFFIX,firebaseio.com
+HOST-SUFFIX,hockeyapp.net
+HOST-SUFFIX,readdle.com
+HOST-SUFFIX,smartmailcloud.com
+#proton mail
+HOST-SUFFIX,protonmail.com
+HOST-SUFFIX,proton.me
+HOST-SUFFIX,protonstatus.com
+HOST-SUFFIX,protonmail.com
+HOST-SUFFIX,mail.proton.me
