@@ -99,7 +99,6 @@ HOST-SUFFIX,openaiapi-site.azureedge.net
 HOST-SUFFIX,openaicom.imgix.net
 HOST-SUFFIX,segment.io
 HOST-SUFFIX,sentry.io
-HOST-SUFFIX,stripe.com
 HOST-SUFFIX,turn.livekit.cloud
 HOST-KEYWORD,openai
 IP-ASN,20473,no-resolve
