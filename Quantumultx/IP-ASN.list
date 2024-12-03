@@ -1,0 +1,74 @@
+ip-asn,714,DIRECT
+# 🇺🇸Apple Inc.
+ip-asn,2914,DIRECT
+# 🇺🇸NTT America, Inc.#filebox-douban.vercel.app
+ip-asn,3462,DIRECT
+# 🇼🇸Data Communication Business Group
+ip-asn,4230 ,DIRECT
+# 🇧🇷CLARO S.A.
+ip-asn,8068,MICROSOFT
+# 🇺🇸Microsoft Corporation
+ip-asn,8075,MICROSOFT
+# 🇺🇸Microsoft Corporation
+#ip-asn,9009,DIRECT
+# 🇷🇴M247 Europe SRL#mail.cock.li
+ip-asn,13333 ,DIRECT
+# 🇺🇸Consolidated Communications, Inc.
+ip-asn,13335,AMAZON
+# 🇺🇸Cloudflare, Inc.
+ip-asn,13414,DIRECT
+# 🇺🇸Twitter Inc.
+ip-asn,14061 ,AMAZON
+# 🇺🇸DigitalOcean, LLC
+ip-asn,14618,AMAZON
+# 🇺🇸Amazon.com, Inc.
+ip-asn,15133 ,DIRECT
+# 🇺🇸EdgeCast Networks Inc.
+ip-asn,15169,GOOGLE
+# 🇺🇸Google LLC
+ip-asn,16509,AMAZON
+# 🇺🇸Amazon.com, Inc.
+ip-asn,16625 ,AMAZON
+# 🇺🇸Akamai Technologies, Inc.
+ip-asn,19679 ,DIRECT
+# 🇺🇸Dropbox, Inc.
+ip-asn,20940,DIRECT
+# 🇳🇱Akamai International B.V.
+ip-asn,24940,DIRECT
+# 🇩🇪Hetzner Online GmbH
+ip-asn,29423,DIRECT
+# 🇩🇪gridscale GmbH
+ip-asn,32934,DIRECT
+# 🇺🇸Facebook, Inc.#filebox-douban.vercel.app
+ip-asn,36351,DIRECT
+# 🇺🇸SoftLayer Technologies Inc.#gdb.voanews.com
+ip-asn,40065,DIRECT
+# 🇺🇸CNSERVERS LLC
+ip-asn,48447,DIRECT
+# 🇬🇧Sectigo Limited
+ip-asn,54113 ,DIRECT
+# 🇺🇸Fastly, Inc.
+ip-asn,54600 ,DIRECT
+# 🇺🇸PEG TECH INC
+ip-asn,54994,DIRECT
+# 🇺🇸QUANTIL NETWORKS INC
+ip-asn,58722,DIRECT
+# 🇸🇬51 JALAN LANJUT
+ip-asn,59507,DIRECT
+# 🇩🇪terralink networks GmbH
+ip-asn,60068 ,DIRECT
+# 🇬🇧Datacamp Limited#p.lngtdv.com
+ip-asn,63949,DIRECT
+# 🇸🇬Akamai Connected Cloud
+ip-asn,64050,DIRECT
+# 🇸🇬BGPNET Global ASN
+ip-asn,136907,DIRECT
+# 🇭🇰HUAWEI CLOUDS
+ip-asn,142403 ,DIRECT
+# 🇭🇰YISU CLOUD LTD
+ip-asn,197019,DIRECT
+# 🇨🇿WEDOS Internet, a.s.#appraven.net
+ip-asn,200019,DIRECT
+# 🇲🇩ALEXHOST SRL#zlib
+ip-asn,396982,GOOGLE
+# 🇺🇸Google LLC
