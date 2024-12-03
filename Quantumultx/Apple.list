@@ -27,7 +27,7 @@ HOST,news-events.apple.com,IPhone PROXY
 HOST,np-edge.itunes.apple.com,IPhone PROXY
 HOST,play-edge.itunes.apple.com,IPhone PROXY
 HOST,sandbox.itunes.apple.com,IPhone PROXY
-HOST,testflight.apple.com,IPhone PROXY
+HOST,testflight.apple.com,TESTFLIGHT
 HOST,tv.applemusic.com,IPhone PROXY
 HOST,uts-api.itunes.apple.com,IPhone PROXY
 HOST-SUFFIX,apple-dns.net,IPhone PROXY
