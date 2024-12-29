@@ -102,7 +102,6 @@ host-suffix,repo.new,DIRECT
 HOST,pop.gmail.com
 HOST,imap.gmail.com
 HOST,smtp.gmail.com
-host-suffix, stripe.com
 .s3.amazonaws.com
 # Outlook
 HOST,outlook.office365.com
@@ -277,21 +276,7 @@ HOST-SUFFIX,rawgit.com
 HOST-SUFFIX,rawgithub.com
 HOST-SUFFIX,repo.new
 HOST-SUFFIX,thegithubshop.com
-# > Tiktok
-# Stripe IAP revenuecat
-HOST,js.stripe.com 
-HOST,m.stripe.com
-HOST,r.stripe.com
-HOST,api.stripe.com
-HOST,m.stripe.network
-HOST,b.stripecdn.com
-HOST,merchant-ui-api.stripe.com
-HOST,stripe-camo.global.ssl.fastly.net
-HOST-SUFFIX,stripe.com
-HOST,hcaptcha.com
-HOST,api2.hcaptcha.com
-HOST-SUFFIX,hcaptcha.com
-HOST,api.revenuecat.com
+
 HOST,p16-tiktokcdn-com.akamaized.net,PROXY
 HOST-SUFFIX,amemv.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
