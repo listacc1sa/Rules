@@ -6,6 +6,206 @@ DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap.com
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,snapkit.co
+DOMAIN-SUFFIX,ads-twitter.com,DIRECT
+DOMAIN-SUFFIX,cms-twdigitalassets.com,DIRECT
+DOMAIN-SUFFIX,periscope.tv,DIRECT
+DOMAIN-SUFFIX,pscp.tv,DIRECT
+DOMAIN-SUFFIX,t.co,DIRECT
+DOMAIN-SUFFIX,tellapart.com,DIRECT
+DOMAIN-SUFFIX,tweetdeck.com,DIRECT
+DOMAIN-SUFFIX,twimg.co,DIRECT
+DOMAIN-SUFFIX,twimg.com,DIRECT
+DOMAIN-SUFFIX,twimg.org,DIRECT
+DOMAIN-SUFFIX,twitpic.com,DIRECT
+DOMAIN-SUFFIX,twitter.biz,DIRECT
+DOMAIN-SUFFIX,twitter.com,DIRECT
+DOMAIN-SUFFIX,twitter.jp,DIRECT
+DOMAIN-SUFFIX,twittercommunity.com,DIRECT
+DOMAIN-SUFFIX,twitterflightschool.com,DIRECT
+DOMAIN-SUFFIX,twitterinc.com,DIRECT
+DOMAIN-SUFFIX,twitteroauth.com,DIRECT
+DOMAIN-SUFFIX,twitterstat.us,DIRECT
+DOMAIN-SUFFIX,twtrdns.net,DIRECT
+DOMAIN-SUFFIX,twttr.com,DIRECT
+DOMAIN-SUFFIX,twttr.net,DIRECT
+DOMAIN-SUFFIX,twvid.com,DIRECT
+DOMAIN-SUFFIX,vine.co,DIRECT
+DOMAIN-SUFFIX,x.com,DIRECT
+DOMAIN-KEYWORD,twitter,DIRECT
+IP-CIDR,192.133.76.0/22,no-resolve,DIRECT
+IP-CIDR,199.59.148.0/22,no-resolve,DIRECT
+IP-CIDR,199.96.56.0/21,no-resolve,DIRECT
+IP-CIDR,202.160.128.0/22,no-resolve,DIRECT
+IP-CIDR,209.237.192.0/19,no-resolve,DIRECT
+IP-CIDR,69.195.160.0/19,no-resolve,DIRECT
+IP-CIDR,199.16.158.0/22,no-resolve,DIRECT
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/21,no-resolve
+IP-CIDR,91.108.16.0/21,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,95.161.64.0/20,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve
+host-suffix,rochat.ai
+host-suffix,api.rochat.ai
+host-keyword,github,DIRECT
+host-suffix,github.blog,DIRECT
+host-suffix,github.com,DIRECT
+host-suffix,github.community,DIRECT
+host-suffix,githubstatus.com,DIRECT
+host-suffix,githubuniverse.com,DIRECT
+HOST-SUFFIX,perplexity.ai,DIRECT
+HOST,apple.imap.mail.yahoo.com,DIRECT
+HOST,apple.smtp.mail.yahoo.com,DIRECT
+HOST,imap-mail.outlook.com,DIRECT
+HOST,imap.gmail.com,DIRECT
+HOST,outlook.office365.com,DIRECT
+HOST,pop.gmail.com,DIRECT
+HOST,smtp-mail.outlook.com,DIRECT
+HOST,smtp.gmail.com,DIRECT
+HOST,smtp.office365.com,DIRECT
+HOST-SUFFIX,imap.yandex.com,DIRECT
+HOST-SUFFIX,m.hotmail.com,DIRECT
+HOST-SUFFIX,smtp.yandex.com,DIRECT
+# >> Github Assets
+host-suffix,githubusercontent.com,DIRECT
+host-suffix,githubassets.com,DIRECT
+
+# >> Github Features
+host-suffix,dependabot.com,DIRECT
+host-suffix,atom.io,DIRECT
+host-suffix,ghcr.io,DIRECT
+host-suffix,git.io,DIRECT
+host-suffix,github.io,DIRECT
+host-suffix,github.dev,DIRECT
+host-suffix,githubapp.com,DIRECT
+host-suffix,githubpreview.dev,DIRECT
+
+# >> Github CDN
+host-suffix,github-atom-io-herokuapp-com.freetls.fastly.net,DIRECT
+host-suffix,github-avatars.oss-cn-hongkong.aliyuncs.com,DIRECT
+host-suffix,github-cloud.s3.amazonaws.com,DIRECT
+# >> Github Other
+host-suffix,thegithubshop.com,DIRECT
+host-suffix,githubuniverse.com,DIRECT
+host-suffix,githubnext.com,DIRECT
+host-suffix,githubhackathon.com,DIRECT
+host-suffix,myoctocat.com,DIRECT
+host-suffix,opensource.guide,DIRECT
+host-suffix,repo.new,DIRECT
+# Gmail
+HOST,pop.gmail.com
+HOST,imap.gmail.com
+HOST,smtp.gmail.com
+host-suffix, stripe.com
+.s3.amazonaws.com
+# Outlook
+HOST,outlook.office365.com
+HOST,smtp.office365.com
+HOST,imap-mail.outlook.com
+HOST,smtp-mail.outlook.com
+
+# Yahool
+HOST,pop.mail.yahoo.com
+HOST,imap.mail.yahoo.com
+HOST,smtp.mail.yahoo.com
+HOST-SUFFIX,docs.google.com
+HOST-SUFFIX,drive.google.com
+HOST-SUFFIX,googledrive.com
+HOST-SUFFIX,googleusercontent.com
+USER-AGENT,*com.google.Drive*
+USER-AGENT,Google.Drive*
+IP-CIDR,172.110.32.0/21
+IP-CIDR,216.73.80.0/20
+IP-CIDR6,2620:120:e000::/40
+PROCESS-NAME,BackupandSync
+ip-asn, 906, direct
+;ip-asn, 15169, GOOGLE
+;ip-asn, 8068, direct
+IP-ASN,174,reject
+IP-ASN,139057
+IP-ASN,37963
+HOST-KEYWORD,DEEPL,DIRECT 
+host-suffix,deepl.com,DIRECT 
+host-suffix,api.,DIRECT 
+HOST,ios.bugly.qq.com,DIRECT 
+HOST-KEYWORD,GitHub,DIRECT
+HOST-KEYWORD,git,DIRECT 
+# Dropbox
+HOST-SUFFIX,dropbox.com
+HOST-SUFFIX,dropboxapi.com
+HOST-SUFFIX,dropboxusercontent.com
+host-suffix,greasyfork.org
+# Gitlab
+DOMAIN-SUFFIX,gitlab.com
+IP-ASN,212238,reject
+HOST-suffix,dropbox.com,DIRECT 
+# Claude
+HOST-SUFFIX, anthropic.com
+HOST-SUFFIX, claude.ai
+IP-CIDR, 160.79.104.0/23, no-resolve
+IP-CIDR6, 2607:6bc0::/48, no-resolve
+
+
+# Discord
+DHOST-SUFFIX,immersivetranslate
+# Gmail
+HOST,imap.gmail.com
+HOST,smtp.gmail.com
+# Outlook
+HOST-SUFFIX,hotmail.com
+HOST,outlook.office365.com
+HOST,imap-mail.outlook.com
+HOST,smtp-mail.outlook.com
+HOST-KEYWORD,facebook
+HOST-KEYWORD,twitter
+HOST-KEYWORD,youtube
+HOST-KEYWORD,instagram
+HOST-KEYWORD,whatsapp
+HOST-KEYWORD,telegram
+HOST-KEYWORD,dropbox
+HOST-KEYWORD,gmail
+HOST-KEYWORD,outlook
+DOMAIN-SUFFIX,discord.com
+
+
+#Instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagram.com
+
+# Twitter
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-KEYWORD,twitter
+IP-CIDR,104.244.42.0/21,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.16.156.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
 IP-ASN,31898
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,o33249.ingest.sentry.io
