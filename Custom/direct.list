@@ -161,15 +161,6 @@ HOST-SUFFIX,hotmail.com
 HOST,outlook.office365.com
 HOST,imap-mail.outlook.com
 HOST,smtp-mail.outlook.com
-HOST-KEYWORD,facebook
-HOST-KEYWORD,twitter
-HOST-KEYWORD,youtube
-HOST-KEYWORD,instagram
-HOST-KEYWORD,whatsapp
-HOST-KEYWORD,telegram
-HOST-KEYWORD,dropbox
-HOST-KEYWORD,gmail
-HOST-KEYWORD,outlook
 HOST-SUFFIX,discord.com
 
 
@@ -364,7 +355,6 @@ HOST-SUFFIX,pscp.tv
 HOST,outlook.office365.com
 HOST,smtp.office365.com
 HOST,imap-mail.outlook.com
-HOST,www.googleapis.com
 HOST-SUFFIX,docs.google.com
 HOST-SUFFIX,drive.google.com
 HOST-SUFFIX,googledrive.com
