@@ -34,3 +34,11 @@ HOST,mask-t.apple-dns.net,PROXY
 HOST,mask.apple-dns.net,PROXY
 HOST-SUFFIX,mask-h2.icloud.com,PROXY
 HOST-SUFFIX,mask.icloud.com,PROXY
+HOST,mask.icloud.com,PROXY
+HOST,mask-canary.icloud.com,PROXY
+HOST,mask-h2.icloud.com,PROXY
+HOST,mask-api.icloud.com,PROXY
+HOST,mask.apple-dns.net,PROXY
+HOST,canary.mask.apple-dns.net,PROXY
+HOST,mask-api.fe.apple-dns.net,PROXY
+HOST,mask-t.apple-dns.net,PROXY
