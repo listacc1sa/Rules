@@ -1,0 +1,36 @@
+# Apple 推送通知 - 当使用 Apple 推送通知服务 (APNS) 时，Apple 设备需要访问以下主机。
+
+HOST-SUFFIX, push.apple.com,DIRECT //推送通知
+HOST, identity.apple.com,DIRECT //APNs 证书请求门户
+IP-CIDR, 17.249.0.0/16,DIRECT
+IP-CIDR, 17.252.0.0/16,DIRECT
+IP-CIDR, 17.57.144.0/22,DIRECT
+IP-CIDR, 17.188.128.0/18,DIRECT
+IP-CIDR, 17.188.20.0/23,DIRECT
+IP-CIDR6, 2620:149:a44::/48,DIRECT
+IP-CIDR6, 2403:300:a42::/48,DIRECT
+IP-CIDR6, 2403:300:a51::/48,DIRECT
+IP-CIDR6, 2a01:b740:a42::/48,DIRECT
+HOST, appleid.apple.com,DIRECT //“设置”和“系统偏好设置”中的 Apple ID 认证
+HOST, appleid.cdn-apple.com,DIRECT //“设置”和“系统偏好设置”中的 Apple ID 认证
+HOST, idmsa.apple.com,DIRECT //Apple ID 认证
+HOST, gsa.apple.com,DIRECT //Apple ID 认证
+HOST-SUFFIX, itunes.apple.com,DIRECT //商店内容，如 App、图书和音乐
+HOST-SUFFIX, apps.apple.com,DIRECT //商店内容，如 App、图书和音乐
+HOST-SUFFIX, mzstatic.com,DIRECT //商店内容，如 App、图书和音乐
+HOST, itunes.apple.com,DIRECT
+HOST, ppq.apple.com,DIRECT //企业 App 验证
+# > General,PROXY
+IP-ASN,63707,PROXY
+IP-ASN,6185,PROXY
+IP-ASN,2709,PROXY
+IP-ASN,63707,PROXY
+HOST-SUFFIX,apple.com,DIRECT 
+HOST-SUFFIX,icloud.com,PROXY
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST,mask-api.fe.apple-dns.net,PROXY
+HOST,mask-api.icloud.com,PROXY
+HOST,mask-t.apple-dns.net,PROXY
+HOST,mask.apple-dns.net,PROXY
+HOST-SUFFIX,mask-h2.icloud.com,PROXY
+HOST-SUFFIX,mask.icloud.com,PROXY
