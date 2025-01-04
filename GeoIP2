@@ -1,0 +1,112 @@
+HOST,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,sub-store.vercel.app,DIRECT
+HOST-KEYWORD,sub-store.vercel.app,DIRECT
+# > geoip countries
+geoip,n/a,DIRECT
+geoip,IR,IP-ASN 
+geoip,CN,IP-ASN 
+geoip,JP,IP-ASN 
+geoip,HK,IP-ASN 
+geoip,SG,IP-ASN 
+geoip,TW,IP-ASN 
+geoip,KR,IP-ASN 
+geoip,TH,IP-ASN 
+geoip,IN,IP-ASN 
+geoip,PH,IP-ASN
+geoip,AS,IP-ASN 
+geoip,TR,IP-ASN 
+geoip,AE,IP-ASN 
+geoip,BH,IP-ASN 
+geoip,IR,IP-ASN 
+geoip,IQ,IP-ASN 
+geoip,IL,IP-ASN 
+geoip,JO,IP-ASN 
+geoip,KW,IP-ASN 
+geoip,LB,IP-ASN 
+geoip,OM,IP-ASN 
+geoip,QA,IP-ASN 
+geoip,SA,IP-ASN 
+geoip,SY,IP-ASN 
+geoip,PS,IP-ASN 
+geoip,AF,IP-ASN 
+geoip,AM,IP-ASN 
+geoip,AZ,IP-ASN 
+geoip,BD,IP-ASN 
+geoip,BN,IP-ASN 
+geoip,BT,IP-ASN 
+geoip,CC,IP-ASN 
+geoip,GE,IP-ASN 
+geoip,ID,IP-ASN 
+geoip,IO,IP-ASN 
+geoip,KG,IP-ASN 
+geoip,KH,IP-ASN 
+geoip,KP,IP-ASN 
+geoip,KZ,IP-ASN 
+geoip,LA,IP-ASN 
+geoip,LK,IP-ASN 
+geoip,MM,IP-ASN 
+geoip,MN,IP-ASN 
+geoip,MO,IP-ASN 
+geoip,MV,IP-ASN 
+geoip,MY,IP-ASN 
+geoip,NP,IP-ASN 
+geoip,PK,IP-ASN 
+geoip,TJ,IP-ASN 
+geoip,TM,IP-ASN 
+geoip,UZ,IP-ASN 
+geoip,VN,IP-ASN 
+geoip,YE,IP-ASN 
+GEOIP,GFW,IP-ASN 
+# GEOIP SITE
+ip-asn,714,DIRECT //🇺🇸Apple Inc.
+ip-asn,2914,DIRECT //🇺🇸NTT America, Inc
+ip-asn,3462,DIRECT //🇼🇸Data Communication 
+ip-asn,4230,DIRECT //🇧🇷CLARO S.A.
+ip-asn,8068,MICROSOFT //🇺🇸Microsoft 
+ip-asn,8075,MICROSOFT //🇺🇸Microsoft 
+ip-asn,9009,IP-ASN //🇷🇴M247 Europe
+ip-asn,13333,Cloudflare //🇺🇸Consolidated 
+ip-asn,13335,Cloudflare //🇺🇸Cloudflare
+ip-asn,13414,DIRECT //🇺🇸Twitter Inc.
+ip-asn,14061,Cloudflare //🇺🇸DigitalOcean
+ip-asn,14618,AMAZON //🇺🇸Amazon.com, Inc.
+ip-asn,15133,DIRECT //🇺🇸EdgeCast  Inc.
+ip-asn,15169,GOOGLE //🇺🇸Google LLC
+ip-asn,16509,AMAZON //🇺🇸Amazon.com, Inc.
+ip-asn,16625,IP-ASN //🇺🇸Akamai , Inc.
+ip-asn,19679,DIRECT //🇺🇸Dropbox, Inc.
+ip-asn,20940,DIRECT //🇳🇱Akamai  B.V.
+ip-asn,24940,DIRECT //🇩🇪Hetzner Online 
+ip-asn,29423,DIRECT //🇩🇪gridscale GmbH
+ip-asn,32934,DIRECT //🇺🇸whatsapp, Inc.
+ip-asn,36351,DIRECT //🇺🇸SoftLayer  Inc.
+ip-asn,40065,DIRECT //🇺🇸CNSERVERS LLC
+ip-asn,48447,DIRECT //🇬🇧Sectigo Limited
+ip-asn,54113,IP-ASN //🇺🇸Fastly, Inc.
+ip-asn,54600,IP-ASN //🇺🇸PEG TECH INC
+ip-asn,54994,IP-ASN //🇺🇸QUANTIL  INC
+ip-asn,58722,DIRECT //🇸🇬51 JALAN LANJUT
+ip-asn,59507,DIRECT //🇩🇪terralink  GmbH
+ip-asn,60068,DIRECT //🇬🇧Datacamp Limited
+ip-asn,63949,IP-ASN//🇸🇬Akamai  Cloud
+ip-asn,64050,DIRECT //🇸🇬BGPNET Global ASN
+ip-asn,136907,DIRECT //🇭🇰HUAWEI CLOUDS
+ip-asn,142403,DIRECT //🇭🇰YISU CLOUD LTD
+ip-asn,197019,DIRECT //🇨🇿WEDOS Internet
+ip-asn,200019,DIRECT //🇲🇩ALEXHOST SRL#
+ip-asn,396982,GOOGLE //🇺🇸Google LLC
+IP-ASN,35819,DIRECT //🇸🇦itthad ittisalalt
+IP-ASN,53334,IP-ASN
+IP-ASN,31898, IP-ASN
+GEOIP,FACEBOOK,DIRECT 
+Geoip,Cloudfront,Cloudflare
+GEOIP,private,IP-ASN
+GEOIP,GOOGLE,PROXY 
+GEOIP,twitter,DIRECT 
+GEOIP,cloudflare,Cloudflare
+geoip,telegram,DIRECT 
+GEOIP,FACEBOOK,DIRECT 
+geoip,FASTLY,IP-ASN
+GEOIP,Lan,DIRECT 
+Geoip,MICROSOFT,IP-ASN
+Geoip,MSN,IP-ASN
