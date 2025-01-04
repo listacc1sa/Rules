@@ -854,7 +854,6 @@ HOST,cdn.winget.microsoft.com
 HOST,cdn.zoom.us
 HOST,ciscobinary.openh264.org
 HOST,client.hikarifield.co.jp
-HOST,codeload.github.com
 HOST,componentupdater.brave.com
 HOST,content-origin.steampowered.com
 HOST,ctldl.windowsupdate.com
@@ -988,7 +987,6 @@ HOST,mirrors.xtom.nl
 HOST,mirrors.xtom.sg
 HOST,mirrors.xtom.us
 HOST,nobara-images.nobaraproject.org
-HOST,objects.githubusercontent.com
 HOST,officecdn-microsoft-com.akamaized.net
 HOST,officecdnmac.microsoft.com
 HOST,origin-a.akamaihd.net
@@ -999,7 +997,6 @@ HOST,packages.microsoft.com
 HOST,packages.virtfusion.net
 HOST,packagespc.xboxlive.com
 HOST,pf-cdn-content-prod.azureedge.net
-HOST,pkg-containers.githubusercontent.com
 HOST,pkgs.tailscale.com
 HOST,playwright.azureedge.net
 HOST,ppa.launchpad.net
