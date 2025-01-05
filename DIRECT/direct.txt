@@ -1,0 +1,321 @@
+#Number of rules:9
+# > infinity home page extension
+HOST-SUFFIX,infinitypro-img.infinitynewtab.com,DIRECT
+HOST-SUFFIX,infinity-permanent.infinitynewtab.com,DIRECT
+HOST-SUFFIX,m.inftab.com,DIRECT
+host-SUFFIX,immersivetranslate.com,DIRECT
+HOST-SUFFIX,inftab.com,DIRECT
+HOST-SUFFIX,infinitynewtab.com,DIRECT
+HOST-SUFFIX,infinityicon.infinitynewtab.com,DIRECT
+HOST-SUFFIX,ws.infinitynewtab.com,DIRECT
+HOST-SUFFIX,api.infinitynewtab.com,DIRECT
+HOST-SUFFIX,s3.amazonaws.com,DIRECT
+HOST-WILDCARD,exa.ai,DIRECT
+#Snapchat
+HOST-WILDCARD,accounts.snapchat.com,DIRECT
+HOST-WILDCARD,api-kit.snapchat.com,DIRECT
+HOST-WILDCARD,app-analytics-v2.snapchat.com,DIRECT
+HOST-WILDCARD,app.snapchat.com,DIRECT
+HOST-WILDCARD,asia-southeast1-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,aws.api.snapchat.com,DIRECT
+HOST-WILDCARD,aws-cf.api.snapchat.com,DIRECT
+HOST-WILDCARD,aws.duplex.snapchat.com,DIRECT
+HOST-WILDCARD,aws-proxy-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,bitmoji.api.snapchat.com,DIRECT
+HOST-WILDCARD,chat-gateway-prod.chat.snapchat.com,DIRECT
+HOST-WILDCARD,click.snapchat.com,DIRECT
+HOST-WILDCARD,direct-response-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,europe-west1-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,help.snapchat.com,DIRECT
+HOST-WILDCARD,hoops.games.snapchat.com,DIRECT
+HOST-WILDCARD,intg.snapchat.com,DIRECT
+HOST-WILDCARD,jaguar-prod.snapchat.com,DIRECT
+HOST-WILDCARD,lens.games.snapchat.com,DIRECT
+HOST-WILDCARD,lens.snapchat.com,DIRECT
+HOST-WILDCARD,link.snapchat.com,DIRECT
+HOST-WILDCARD,mvm.snapchat.com,DIRECT
+HOST-WILDCARD,premium-stories.snapchat.com,DIRECT
+HOST-WILDCARD,pro-accounts.snapchat.com,DIRECT
+HOST-WILDCARD,pro-stories.snapchat.com,DIRECT
+HOST-WILDCARD,share.snapchat.com,DIRECT
+HOST-WILDCARD,shows.snapchat.com,DIRECT
+HOST-WILDCARD,sks.snapchat.com,DIRECT
+HOST-WILDCARD,snapchat.com,DIRECT
+HOST-WILDCARD,staging-us-east1-aws.api.snapchat.com,DIRECT
+HOST-WILDCARD,static.snapchat.com,DIRECT
+HOST-WILDCARD,story.snapchat.com,DIRECT
+HOST-WILDCARD,support.snapchat.com,DIRECT
+HOST-WILDCARD,topic-sticker-vending.snapchat.com,DIRECT
+HOST-WILDCARD,tr6.snapchat.com,DIRECT
+HOST-WILDCARD,tr.snapchat.com,DIRECT
+HOST-WILDCARD,t.snapchat.com,DIRECT
+HOST-WILDCARD,usc1-gcp-v61.api.snapchat.com,DIRECT
+HOST-WILDCARD,usc1-gcp-v62.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-central1-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,use4-gcp-v4.api.snapchat.com,DIRECT
+HOST-WILDCARD,use4-gcp-v6.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east1-aws-acc.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east1-aws-acc-test.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east1-aws.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east1-aws-cf.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east1-aws.gateway.snapchat.com,DIRECT
+HOST-WILDCARD,us-east-1-bitmoji.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east4-gcp.api.snapchat.com,DIRECT
+HOST-WILDCARD,us-east4-gcp-ineg.api.snapchat.com,DIRECT
+HOST-WILDCARD,webattachments.snapchat.com,DIRECT
+HOST-WILDCARD,web.snapchat.com,DIRECT
+HOST-WILDCARD,www.snapchat.com,DIRECT
+# Telegram第三方客户端
+# Nicegram
+HOST-KEYWORD,nicegram,DIRECT 
+# iMe
+HOST,api.mixpanel.com,DIRECT 
+HOST-SUFFIX,imem.app,DIRECT 
+# Swiftgram
+HOST-SUFFIX,swiftgram.app,DIRECT 
+# Turrit
+HOST-SUFFIX,iturrit.com,DIRECT 
+IP-CIDR,8.25.194.0/23,DIRECT
+IP-CIDR,8.25.196.0/23,DIRECT
+IP-CIDR,64.63.0.0/18,DIRECT
+IP-CIDR,69.12.56.0/21,DIRECT
+IP-CIDR,69.195.160.0/19,DIRECT
+IP-CIDR,103.252.112.0/22,DIRECT
+IP-CIDR,104.244.40.0/23,DIRECT
+IP-CIDR,104.244.42.0/24,DIRECT
+IP-CIDR,104.244.44.0/22,DIRECT
+IP-CIDR,185.45.4.0/22,DIRECT
+IP-CIDR,188.64.224.0/21,DIRECT
+IP-CIDR,192.48.236.0/23,DIRECT
+IP-CIDR,192.133.76.0/22,DIRECT
+IP-CIDR,199.16.156.0/22,DIRECT
+IP-CIDR,199.59.148.0/22,DIRECT
+IP-CIDR,199.96.56.0/23,DIRECT
+IP-CIDR,202.160.128.0/22,DIRECT
+IP-CIDR,209.237.192.0/19,DIRECT
+IP6-CIDR,2400:6680:f000::/36,DIRECT
+IP6-CIDR,2606:1f80:f000::/36,DIRECT
+IP6-CIDR,2a04:9d40:f000::/36,DIRECT
+HOST-SUFFIX,store.apple.com,DIRECT 
+HOST-SUFFIX,ls.apple.com,DIRECT 
+# >> Microsoft Overseas
+HOST-SUFFIX,office365.com,DIRECT
+HOST-SUFFIX,windows.net,DIRECT
+HOST,hcaptcha.com,DIRECT
+HOST,api2.hcaptcha.com,DIRECT
+HOST-SUFFIX,hcaptcha.com,DIRECT
+HOST,api.revenuecat.com,DIRECT
+# 数量：29条
+HOST,apple.comscoreresearch.com,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,apple-cloudkit.com,DIRECT
+HOST-SUFFIX,apple-dns.net,DIRECT
+HOST-SUFFIX,apple-mapkit.com,DIRECT
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,apple.com.cn,DIRECT
+HOST-SUFFIX,apple.news,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,icloud.com.cn,DIRECT
+HOST-SUFFIX,itunes.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+IP-CIDR,17.0.0.0/8,DIRECT
+IP-CIDR,63.92.224.0/19,DIRECT
+IP-CIDR,65.199.22.0/23,DIRECT
+IP-CIDR,139.178.128.0/18,DIRECT
+IP-CIDR,144.178.0.0/19,DIRECT
+IP-CIDR,144.178.36.0/22,DIRECT
+IP-CIDR,144.178.48.0/20,DIRECT
+IP-CIDR,192.35.50.0/24,DIRECT
+IP-CIDR,198.183.17.0/24,DIRECT
+IP-CIDR,205.180.175.0/24,DIRECT
+
+# Github
+# 数量：6条
+HOST-KEYWORD,github, DIRECT
+HOST-SUFFIX,github.com, DIRECT
+HOST-SUFFIX,github.io, DIRECT
+HOST-SUFFIX,githubapp.com, DIRECT
+HOST-SUFFIX,githubassets.com, DIRECT
+HOST-SUFFIX,githubusercontent.com, DIRECT
+
+# Gitlab
+HOST-SUFFIX,gitlab.com, DIRECT
+HOST-SUFFIX,gitlab.io, DIRECT
+
+# Instagram
+# 数量：4条
+HOST-KEYWORD,instagram, DIRECT 
+HOST-SUFFIX,cdninstagram.com, DIRECT
+HOST-SUFFIX,instagr.am, DIRECT
+HOST-SUFFIX,instagram.com, DIRECT
+# Telegram
+# 数量：11条
+HOST-KEYWORD,telegram,DIRECT
+HOST-SUFFIX,t.me,DIRECT
+HOST-SUFFIX,tdesktop.com,DIRECT
+HOST-SUFFIX,telegra.ph,DIRECT
+HOST-SUFFIX,telegram.me,DIRECT
+HOST-SUFFIX,telegram.org,DIRECT
+HOST-SUFFIX,telesco.pe,DIRECT
+# Telegram
+HOST-SUFFIX,comments.app,DIRECT
+HOST-SUFFIX,contest.com,DIRECT
+HOST-SUFFIX,graph.org,DIRECT
+HOST-SUFFIX,legra.ph,DIRECT
+HOST-SUFFIX,mbrx.app,DIRECT
+HOST-SUFFIX,quiz.directory,DIRECT
+HOST-SUFFIX,stel.com,DIRECT
+HOST-SUFFIX,t.me,DIRECT
+HOST-SUFFIX,tdesktop.com,DIRECT
+HOST-SUFFIX,telega.one,DIRECT
+HOST-SUFFIX,telegra.ph,DIRECT
+HOST-SUFFIX,telegram-cdn.org,DIRECT
+HOST-SUFFIX,cdn-telegram.org,DIRECT
+HOST-SUFFIX,telegram.dog,DIRECT
+HOST-SUFFIX,telegram.me,DIRECT
+HOST-SUFFIX,telegram.org,DIRECT
+HOST-SUFFIX,telegram.space,DIRECT
+HOST-SUFFIX,telegramdownload.com,DIRECT
+HOST-SUFFIX,telesco.pe,DIRECT
+HOST-SUFFIX,tg.dev,DIRECT
+HOST-SUFFIX,tx.me,DIRECT
+HOST-SUFFIX,usercontent.dev,DIRECT
+HOST-KEYWORD,telegram,DIRECT
+HOST,events-gateway.ncdev.site,DIRECT
+HOST-SUFFIX,walletbot.me,DIRECT
+# Nicegram
+HOST-KEYWORD,nicegram,DIRECT
+# iMe
+HOST,api.mixpanel.com,DIRECT
+HOST-SUFFIX,imem.app,DIRECT
+# Swiftgram
+HOST-SUFFIX,swiftgram.app,DIRECT
+# Turrit
+HOST-SUFFIX,iturrit.com,DIRECT
+# > Americas
+IP-ASN,59930,DIRECT
+IP-CIDR,91.108.12.0/22,DIRECT
+IP6-CIDR,2a0a:f280::/32,DIRECT
+IP-ASN,211157,DIRECT
+IP-CIDR,91.105.192.0/23,DIRECT
+IP-CIDR,185.76.151.0/24,DIRECT
+IP-ASN,62014,DIRECT
+IP-CIDR,149.154.160.0/20,DIRECT
+IP-CIDR,91.108.4.0/22,DIRECT
+IP-CIDR,91.108.8.0/22,DIRECT
+IP6-CIDR,2001:b28:f23d::/48,DIRECT
+IP6-CIDR,2001:67c:4e8::/48,DIRECT
+IP-ASN,62014,DIRECT
+IP-CIDR,91.108.16.0/22,DIRECT
+IP-CIDR,91.108.56.0/22,DIRECT
+IP6-CIDR,2001:b28:f23f::/48,DIRECT
+IP-ASN,44907,DIRECT
+IP-CIDR,91.108.20.0/22,DIRECT
+IP6-CIDR,2001:b28:f23c::/48,DIRECT
+IP-CIDR,95.161.76.101/32,DIRECT
+IP-CIDR,5.28.192.0/18,DIRECT
+# TikTok
+# 数量：11条
+USER-AGENT,TikTok*,DIRECT
+HOST-KEYWORD,tiktokcdn,DIRECT
+HOST-SUFFIX,byteoversea.com,DIRECT
+HOST-SUFFIX,ibytedtos.com,DIRECT
+HOST-SUFFIX,ipstatp.com,DIRECT
+HOST-SUFFIX,muscdn.com,DIRECT
+HOST-SUFFIX,musical.ly,DIRECT
+HOST-SUFFIX,tik-tokapi.com,DIRECT
+HOST-SUFFIX,tiktok.com,DIRECT
+HOST-SUFFIX,tiktokcdn.com,DIRECT
+HOST-SUFFIX,tiktokv.com,DIRECT
+
+# Twitter
+# 数量：12条
+DOMAIN-KEYWORD,twitter,DIRECT
+HOST-SUFFIX,periscope.tv,DIRECT
+HOST-SUFFIX,pscp.tv,DIRECT
+HOST-SUFFIX,t.co,DIRECT
+HOST-SUFFIX,twimg.co,DIRECT
+HOST-SUFFIX,twimg.com,DIRECT
+HOST-SUFFIX,twimg.org,DIRECT
+HOST-SUFFIX,twitpic.com,DIRECT
+HOST-SUFFIX,twitter.com,DIRECT
+HOST-SUFFIX,twitter.jp,DIRECT
+HOST-SUFFIX,vine.co,DIRECT
+HOST-SUFFIX,x.com,DIRECT
+# > GitHub
+host-suffix, github.blog, DIRECT
+host-suffix, github.com, DIRECT
+host-suffix, github.io, DIRECT
+host-suffix, githubapp.com, DIRECT
+host-suffix, rawgithub.com, DIRECT
+host-suffix, githubassets.com, DIRECT
+host-suffix, githubusercontent.com, DIRECT
+host-keyword, github, DIRECT
+HOST-SUFFIX,s3.us-west-2.amazonaws.com,DIRECT 
+HOST-SUFFIX,s3-accelerate.amazonaws.com,DIRECT 
+# > Gitlab
+host-suffix, gitlab.io, DIRECT
+host-suffix, gitlab.com, DIRECT
+host-suffix, gitlab.net, DIRECT
+
+
+
+
+# > Tutanota
+host-suffix, tuta.com, DIRECT
+host-suffix, tutanota.com, DIRECT
+
+# > Proton
+host-suffix, pm.me, DIRECT
+host-suffix, protonmail.com, DIRECT
+host-suffix, proton.me, DIRECT
+
+# > Deepl
+host-suffix, deepl.com, DIRECT
+host-wildcard, deepl.com, DIRECT
+# > Mail
+host, s.uicdn.com, DIRECT
+host, cdn.cookielaw.org, DIRECT
+host-suffix, mail.com, DIRECT
+host-suffix, ui-portal.de, DIRECT
+
+# > Yahoo
+host-suffix, oath.com, DIRECT
+host-suffix, yahoo.com, DIRECT
+HOST-SUFFIX,s3.amazonaws.com,DIRECT 
+HOST,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,sub-store.vercel.app,DIRECT
+HOST-KEYWORD,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,apis.google.com,DIRECT 
+HOST,fonts.gstatic.com,DIRECT
+HOST-SUFFIX,googleapis.com,DIRECT
+HOST-SUFFIX,gstatic.com,DIRECT
+HOST-SUFFIX,googleusercontent.com,DIRECT
+HOST-SUFFIX,ggpht.com,PROXY
+HOST-SUFFIX,bitmoji.com,SNAPCHAT
+HOST-SUFFIX,feelinsonice.com,SNAPCHAT
+HOST-SUFFIX,sc-cdn.net,SNAPCHAT
+HOST-SUFFIX,sc-gw.com,SNAPCHAT
+HOST-SUFFIX,sc-jpl.com,SNAPCHAT
+HOST-SUFFIX,sc-prod.ne,SNAPCHAT
+HOST-SUFFIX,sc-prod.net,SNAPCHAT
+HOST-SUFFIX,sc-static.net,SNAPCHAT
+HOST-SUFFIX,snap.com,SNAPCHAT
+HOST-SUFFIX,snapads.com,SNAPCHAT
+HOST-SUFFIX,snapchat.com,SNAPCHAT
+HOST-SUFFIX,snapkit.com,SNAPCHAT
+host-wildcard, *.sa, direct
+host-wildcard, *.cn, direct
+GEOIP,twitter,DIRECT 
+GEOIP,FACEBOOK,DIRECT 
+GEOIP,cloudflare,Cloudflare
+geoip,telegram,DIRECT 
+GEOIP,FACEBOOK,DIRECT 
