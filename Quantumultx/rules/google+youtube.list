@@ -1,0 +1,937 @@
+# GOOGLE
+# Update: 2024-04-12
+
+#🔶 GOOGLE Basic
+  HOST,clientservices.googleapis.com,GOOGLE
+  HOST,crl.pki.goog,GOOGLE
+  HOST,fonts.googleapis.com,GOOGLE
+  HOST,fonts.gstatic.com,GOOGLE
+  HOST,mtalk.google.com,GOOGLE
+  HOST,ocsp.pki.goog,GOOGLE
+  HOST,redirector.c.bigcache.googleapis.com,GOOGLE
+  HOST,redirector.gvt1.com,GOOGLE
+  HOST,safebrowsing-cache.google.com,GOOGLE
+  HOST,safebrowsing.googleapis.com,GOOGLE
+  HOST,translate.googleapis.com,GOOGLE
+  HOST,voice.telephony.goog,GOOGLE
+  HOST,www.googleapis.com,GOOGLE
+  HOST,lens.l.google.com,GOOGLE
+  HOST-SUFFIX,0emm.com,GOOGLE
+  HOST-SUFFIX,1e100.net,GOOGLE
+  HOST-SUFFIX,1ucrs.com,GOOGLE
+  HOST-SUFFIX,265.com,GOOGLE
+  HOST-SUFFIX,2mdn-cn.net,GOOGLE
+  HOST-SUFFIX,2mdn.net,GOOGLE
+  HOST-SUFFIX,466453.com,GOOGLE
+  HOST-SUFFIX,abc.xyz,GOOGLE
+  HOST-SUFFIX,adgoogle.net,GOOGLE
+  HOST-SUFFIX,admeld.com,GOOGLE
+  HOST-SUFFIX,admob-cn.com,GOOGLE
+  HOST-SUFFIX,admob.com,GOOGLE
+  HOST-SUFFIX,adsense.com,GOOGLE
+  HOST-SUFFIX,adsensecustomsearchads.com,GOOGLE
+  HOST-SUFFIX,adsenseformobileapps.com,GOOGLE
+  HOST-SUFFIX,advertisercommunity.com,GOOGLE
+  HOST-SUFFIX,advertiserscommunity.com,GOOGLE
+  HOST-SUFFIX,adwords-community.com,GOOGLE
+  HOST-SUFFIX,adwords.com,GOOGLE
+  HOST-SUFFIX,adwordsexpress.com,GOOGLE
+  HOST-SUFFIX,ai.ytimg.com,GOOGLE
+  HOST-SUFFIX,amp.dev,GOOGLE
+  HOST-SUFFIX,ampproject.com,GOOGLE
+  HOST-SUFFIX,ampproject.net,GOOGLE
+  HOST-SUFFIX,ampproject.org,GOOGLE
+  HOST-SUFFIX,android.com,GOOGLE
+  HOST-SUFFIX,androidify.com,GOOGLE
+  HOST-SUFFIX,androidtv.com,GOOGLE
+  HOST-SUFFIX,angulardart.org,GOOGLE
+  HOST-SUFFIX,api.ai,GOOGLE
+  HOST-SUFFIX,apigee.com,GOOGLE
+  HOST-SUFFIX,app-measurement-cn.com,GOOGLE
+  HOST-SUFFIX,app-measurement.com,GOOGLE
+  HOST-SUFFIX,app-measurement.net,GOOGLE
+  HOST-SUFFIX,appbridge.ca,GOOGLE
+  HOST-SUFFIX,appbridge.io,GOOGLE
+  HOST-SUFFIX,appbridge.it,GOOGLE
+  HOST-SUFFIX,apps5.oingo.com,GOOGLE
+  HOST-SUFFIX,appspot.com,GOOGLE
+  HOST-SUFFIX,apture.com,GOOGLE
+  HOST-SUFFIX,area120.com,GOOGLE
+  HOST-SUFFIX,asp-cc.com,GOOGLE
+  HOST-SUFFIX,autodraw.com,GOOGLE
+  HOST-SUFFIX,avail.googleflights.net,GOOGLE
+  HOST-SUFFIX,bandpage.com,GOOGLE
+  HOST-SUFFIX,baselinestudy.com,GOOGLE
+  HOST-SUFFIX,baselinestudy.org,GOOGLE
+  HOST-SUFFIX,bazel.build,GOOGLE
+  HOST-SUFFIX,bdn.dev,GOOGLE
+  HOST-SUFFIX,beacons.gvt2.com,GOOGLE
+  HOST-SUFFIX,beacons2.gvt2.com,GOOGLE
+  HOST-SUFFIX,beacons3.gvt2.com,GOOGLE
+  HOST-SUFFIX,beatthatquote.com,GOOGLE
+  HOST-SUFFIX,blink.org,GOOGLE
+  HOST-SUFFIX,blog.google,GOOGLE
+  HOST-SUFFIX,blogblog.com,GOOGLE
+  HOST-SUFFIX,blogger.com,GOOGLE
+  HOST-SUFFIX,blogspot.ae,GOOGLE
+  HOST-SUFFIX,blogspot.al,GOOGLE
+  HOST-SUFFIX,blogspot.am,GOOGLE
+  HOST-SUFFIX,blogspot.ba,GOOGLE
+  HOST-SUFFIX,blogspot.be,GOOGLE
+  HOST-SUFFIX,blogspot.bg,GOOGLE
+  HOST-SUFFIX,blogspot.bj,GOOGLE
+  HOST-SUFFIX,blogspot.ca,GOOGLE
+  HOST-SUFFIX,blogspot.cf,GOOGLE
+  HOST-SUFFIX,blogspot.ch,GOOGLE
+  HOST-SUFFIX,blogspot.cl,GOOGLE
+  HOST-SUFFIX,blogspot.co.at,GOOGLE
+  HOST-SUFFIX,blogspot.co.id,GOOGLE
+  HOST-SUFFIX,blogspot.co.il,GOOGLE
+  HOST-SUFFIX,blogspot.co.ke,GOOGLE
+  HOST-SUFFIX,blogspot.co.nz,GOOGLE
+  HOST-SUFFIX,blogspot.co.uk,GOOGLE
+  HOST-SUFFIX,blogspot.co.za,GOOGLE
+  HOST-SUFFIX,blogspot.com,GOOGLE
+  HOST-SUFFIX,blogspot.com.ar,GOOGLE
+  HOST-SUFFIX,blogspot.com.au,GOOGLE
+  HOST-SUFFIX,blogspot.com.br,GOOGLE
+  HOST-SUFFIX,blogspot.com.by,GOOGLE
+  HOST-SUFFIX,blogspot.com.co,GOOGLE
+  HOST-SUFFIX,blogspot.com.cy,GOOGLE
+  HOST-SUFFIX,blogspot.com.ee,GOOGLE
+  HOST-SUFFIX,blogspot.com.eg,GOOGLE
+  HOST-SUFFIX,blogspot.com.es,GOOGLE
+  HOST-SUFFIX,blogspot.com.mt,GOOGLE
+  HOST-SUFFIX,blogspot.com.ng,GOOGLE
+  HOST-SUFFIX,blogspot.com.tr,GOOGLE
+  HOST-SUFFIX,blogspot.com.uy,GOOGLE
+  HOST-SUFFIX,blogspot.cv,GOOGLE
+  HOST-SUFFIX,blogspot.cz,GOOGLE
+  HOST-SUFFIX,blogspot.de,GOOGLE
+  HOST-SUFFIX,blogspot.dk,GOOGLE
+  HOST-SUFFIX,blogspot.fi,GOOGLE
+  HOST-SUFFIX,blogspot.fr,GOOGLE
+  HOST-SUFFIX,blogspot.gr,GOOGLE
+  HOST-SUFFIX,blogspot.hk,GOOGLE
+  HOST-SUFFIX,blogspot.hr,GOOGLE
+  HOST-SUFFIX,blogspot.hu,GOOGLE
+  HOST-SUFFIX,blogspot.ie,GOOGLE
+  HOST-SUFFIX,blogspot.in,GOOGLE
+  HOST-SUFFIX,blogspot.is,GOOGLE
+  HOST-SUFFIX,blogspot.it,GOOGLE
+  HOST-SUFFIX,blogspot.jp,GOOGLE
+  HOST-SUFFIX,blogspot.kr,GOOGLE
+  HOST-SUFFIX,blogspot.li,GOOGLE
+  HOST-SUFFIX,blogspot.lt,GOOGLE
+  HOST-SUFFIX,blogspot.lu,GOOGLE
+  HOST-SUFFIX,blogspot.md,GOOGLE
+  HOST-SUFFIX,blogspot.mk,GOOGLE
+  HOST-SUFFIX,blogspot.mx,GOOGLE
+  HOST-SUFFIX,blogspot.my,GOOGLE
+  HOST-SUFFIX,blogspot.nl,GOOGLE
+  HOST-SUFFIX,blogspot.no,GOOGLE
+  HOST-SUFFIX,blogspot.pe,GOOGLE
+  HOST-SUFFIX,blogspot.pt,GOOGLE
+  HOST-SUFFIX,blogspot.qa,GOOGLE
+  HOST-SUFFIX,blogspot.re,GOOGLE
+  HOST-SUFFIX,blogspot.ro,GOOGLE
+  HOST-SUFFIX,blogspot.rs,GOOGLE
+  HOST-SUFFIX,blogspot.ru,GOOGLE
+  HOST-SUFFIX,blogspot.se,GOOGLE
+  HOST-SUFFIX,blogspot.sg,GOOGLE
+  HOST-SUFFIX,blogspot.si,GOOGLE
+  HOST-SUFFIX,blogspot.sk,GOOGLE
+  HOST-SUFFIX,blogspot.sn,GOOGLE
+  HOST-SUFFIX,blogspot.td,GOOGLE
+  HOST-SUFFIX,blogspot.tw,GOOGLE
+  HOST-SUFFIX,blogspot.ug,GOOGLE
+  HOST-SUFFIX,blogspot.vn,GOOGLE
+  HOST-SUFFIX,brocaproject.com,GOOGLE
+  HOST-SUFFIX,brotli.org,GOOGLE
+  HOST-SUFFIX,bumpshare.com,GOOGLE
+  HOST-SUFFIX,bumptop.ca,GOOGLE
+  HOST-SUFFIX,bumptop.com,GOOGLE
+  HOST-SUFFIX,bumptop.net,GOOGLE
+  HOST-SUFFIX,bumptop.org,GOOGLE
+  HOST-SUFFIX,bumptunes.com,GOOGLE
+  HOST-SUFFIX,campuslondon.com,GOOGLE
+  HOST-SUFFIX,capitalg.com,GOOGLE
+  HOST-SUFFIX,certificate-transparency.dev,GOOGLE
+  HOST-SUFFIX,certificate-transparency.org,GOOGLE
+  HOST-SUFFIX,charlestonroadregistry.com,GOOGLE
+  HOST-SUFFIX,chat.gle,GOOGLE
+  HOST-SUFFIX,chrome.com,GOOGLE
+  HOST-SUFFIX,chromebook.com,GOOGLE
+  HOST-SUFFIX,chromecast.com,GOOGLE
+  HOST-SUFFIX,chromeexperiments.com,GOOGLE
+  HOST-SUFFIX,chromeos.dev,GOOGLE
+  HOST-SUFFIX,chromercise.com,GOOGLE
+  HOST-SUFFIX,chromestatus.com,GOOGLE
+  HOST-SUFFIX,chromium.org,GOOGLE
+  HOST-SUFFIX,chronicle.security,GOOGLE
+  HOST-SUFFIX,chroniclesec.com,GOOGLE
+  HOST-SUFFIX,clickserve.cc-dt.com,GOOGLE
+  HOST-SUFFIX,clickserver.googleads.com,GOOGLE
+  HOST-SUFFIX,cloudburstresearch.com,GOOGLE
+  HOST-SUFFIX,cloudfunctions.net,GOOGLE
+  HOST-SUFFIX,cloudproxy.app,GOOGLE
+  HOST-SUFFIX,cloudrobotics.com,GOOGLE
+  HOST-SUFFIX,cobrasearch.com,GOOGLE
+  HOST-SUFFIX,codespot.com,GOOGLE
+  HOST-SUFFIX,conscrypt.com,GOOGLE
+  HOST-SUFFIX,conscrypt.org,GOOGLE
+  HOST-SUFFIX,cookiechoices.org,GOOGLE
+  HOST-SUFFIX,coova.com,GOOGLE
+  HOST-SUFFIX,coova.net,GOOGLE
+  HOST-SUFFIX,coova.org,GOOGLE
+  HOST-SUFFIX,crashlytics.com,GOOGLE
+  HOST-SUFFIX,crbug.com,GOOGLE
+  HOST-SUFFIX,creativelab5.com,GOOGLE
+  HOST-SUFFIX,crossmediapanel.com,GOOGLE
+  HOST-SUFFIX,crr.com,GOOGLE
+  HOST-SUFFIX,crrev.com,GOOGLE
+  HOST-SUFFIX,cs4hs.com,GOOGLE
+  HOST-SUFFIX,dart.dev,GOOGLE
+  HOST-SUFFIX,dartlang.org,GOOGLE
+  HOST-SUFFIX,dartpad.dev,GOOGLE
+  HOST-SUFFIX,dartsearch-cn.net,GOOGLE
+  HOST-SUFFIX,dartsearch.net,GOOGLE
+  HOST-SUFFIX,data-vocabulary.org,GOOGLE
+  HOST-SUFFIX,dataliberation.org,GOOGLE
+  HOST-SUFFIX,debug.com,GOOGLE
+  HOST-SUFFIX,debugproject.com,GOOGLE
+  HOST-SUFFIX,deepmind.com,GOOGLE
+  HOST-SUFFIX,deja.com,GOOGLE
+  HOST-SUFFIX,deps.dev,GOOGLE
+  HOST-SUFFIX,deps.info,GOOGLE
+  HOST-SUFFIX,devsitetest.how,GOOGLE
+  HOST-SUFFIX,dialogflow.com,GOOGLE
+  HOST-SUFFIX,digisfera.com,GOOGLE
+  HOST-SUFFIX,digitalassetlinks.org,GOOGLE
+  HOST-SUFFIX,digitalattackmap.com,GOOGLE
+  HOST-SUFFIX,distribution.qatp1.net,GOOGLE
+  HOST-SUFFIX,distribution.qcpp1.net,GOOGLE
+  HOST-SUFFIX,distribution.qpdp1.net,GOOGLE
+  HOST-SUFFIX,doubleclick-cn.net,GOOGLE
+  HOST-SUFFIX,doubleclick.com,GOOGLE
+  HOST-SUFFIX,doubleclick.net,GOOGLE
+  HOST-SUFFIX,download.qatp1.net,GOOGLE
+  HOST-SUFFIX,download.qcpp1.net,GOOGLE
+  HOST-SUFFIX,download.qpdp1.net,GOOGLE
+  HOST-SUFFIX,episodic.com,GOOGLE
+  HOST-SUFFIX,fastlane.ci,GOOGLE
+  HOST-SUFFIX,fastlane.tools,GOOGLE
+  HOST-SUFFIX,feedburner.com,GOOGLE
+  HOST-SUFFIX,fflick.com,GOOGLE
+  HOST-SUFFIX,financeleadsonline.com,GOOGLE
+  HOST-SUFFIX,firebaseapp.com,GOOGLE
+  HOST-SUFFIX,firebaseio.com,GOOGLE
+  HOST-SUFFIX,flutter.dev,GOOGLE
+  HOST-SUFFIX,flutterapp.com,GOOGLE
+  HOST-SUFFIX,foofle.com,GOOGLE
+  HOST-SUFFIX,froogle.com,GOOGLE
+  HOST-SUFFIX,fuchsia.dev,GOOGLE
+  HOST-SUFFIX,g-tun.com,GOOGLE
+  HOST-SUFFIX,g.cn,GOOGLE
+  HOST-SUFFIX,g.co,GOOGLE
+  HOST-SUFFIX,g.dev,GOOGLE
+  HOST-SUFFIX,g.page,GOOGLE
+  HOST-SUFFIX,gateway.dev,GOOGLE
+  HOST-SUFFIX,gcp.gvt2.com,GOOGLE
+  HOST-SUFFIX,gcr.io,GOOGLE
+  HOST-SUFFIX,gerritcodereview.com,GOOGLE
+  HOST-SUFFIX,get.app,GOOGLE
+  HOST-SUFFIX,get.dev,GOOGLE
+  HOST-SUFFIX,get.how,GOOGLE
+  HOST-SUFFIX,get.page,GOOGLE
+  HOST-SUFFIX,getbumptop.com,GOOGLE
+  HOST-SUFFIX,getmdl.io,GOOGLE
+  HOST-SUFFIX,getoutline.org,GOOGLE
+  HOST-SUFFIX,ggoogle.com,GOOGLE
+  HOST-SUFFIX,gipscorp.com,GOOGLE
+  HOST-SUFFIX,gkecnapps.cn,GOOGLE
+  HOST-SUFFIX,globaledu.org,GOOGLE
+  HOST-SUFFIX,gmail.com,GOOGLE
+  HOST-SUFFIX,gmodules.com,GOOGLE
+  HOST-SUFFIX,go-lang.com,GOOGLE
+  HOST-SUFFIX,go-lang.net,GOOGLE
+  HOST-SUFFIX,go-lang.org,GOOGLE
+  HOST-SUFFIX,go.dev,GOOGLE
+  HOST-SUFFIX,godoc.org,GOOGLE
+  HOST-SUFFIX,gogle.com,GOOGLE
+  HOST-SUFFIX,gogole.com,GOOGLE
+  HOST-SUFFIX,golang.com,GOOGLE
+  HOST-SUFFIX,golang.net,GOOGLE
+  HOST-SUFFIX,golang.org,GOOGLE
+  HOST-SUFFIX,gonglchuangl.net,GOOGLE
+  HOST-SUFFIX,gongyichuangyi.net,GOOGLE
+  HOST-SUFFIX,goo.gl,GOOGLE
+  HOST-SUFFIX,googel.com,GOOGLE
+  HOST-SUFFIX,googil.com,GOOGLE
+  HOST-SUFFIX,googl.com,GOOGLE
+  HOST-SUFFIX,google-analytics-cn.com,GOOGLE
+  HOST-SUFFIX,google-analytics.com,GOOGLE
+  HOST-SUFFIX,google-syndication.com,GOOGLE
+  HOST-SUFFIX,google.ad,GOOGLE
+  HOST-SUFFIX,google.ae,GOOGLE
+  HOST-SUFFIX,google.al,GOOGLE
+  HOST-SUFFIX,google.am,GOOGLE
+  HOST-SUFFIX,google.as,GOOGLE
+  HOST-SUFFIX,google.at,GOOGLE
+  HOST-SUFFIX,google.az,GOOGLE
+  HOST-SUFFIX,google.ba,GOOGLE
+  HOST-SUFFIX,google.be,GOOGLE
+  HOST-SUFFIX,google.berlin,GOOGLE
+  HOST-SUFFIX,google.bf,GOOGLE
+  HOST-SUFFIX,google.bg,GOOGLE
+  HOST-SUFFIX,google.bi,GOOGLE
+  HOST-SUFFIX,google.bj,GOOGLE
+  HOST-SUFFIX,google.bs,GOOGLE
+  HOST-SUFFIX,google.bt,GOOGLE
+  HOST-SUFFIX,google.by,GOOGLE
+  HOST-SUFFIX,google.ca,GOOGLE
+  HOST-SUFFIX,google.cat,GOOGLE
+  HOST-SUFFIX,google.cd,GOOGLE
+  HOST-SUFFIX,google.cf,GOOGLE
+  HOST-SUFFIX,google.cg,GOOGLE
+  HOST-SUFFIX,google.ch,GOOGLE
+  HOST-SUFFIX,google.ci,GOOGLE
+  HOST-SUFFIX,google.cl,GOOGLE
+  HOST-SUFFIX,google.cm,GOOGLE
+  HOST-SUFFIX,google.cn,GOOGLE
+  HOST-SUFFIX,google.co.ao,GOOGLE
+  HOST-SUFFIX,google.co.bw,GOOGLE
+  HOST-SUFFIX,google.co.ck,GOOGLE
+  HOST-SUFFIX,google.co.cr,GOOGLE
+  HOST-SUFFIX,google.co.id,GOOGLE
+  HOST-SUFFIX,google.co.il,GOOGLE
+  HOST-SUFFIX,google.co.in,GOOGLE
+  HOST-SUFFIX,google.co.jp,GOOGLE
+  HOST-SUFFIX,google.co.ke,GOOGLE
+  HOST-SUFFIX,google.co.kr,GOOGLE
+  HOST-SUFFIX,google.co.ls,GOOGLE
+  HOST-SUFFIX,google.co.ma,GOOGLE
+  HOST-SUFFIX,google.co.mz,GOOGLE
+  HOST-SUFFIX,google.co.nz,GOOGLE
+  HOST-SUFFIX,google.co.th,GOOGLE
+  HOST-SUFFIX,google.co.tz,GOOGLE
+  HOST-SUFFIX,google.co.ug,GOOGLE
+  HOST-SUFFIX,google.co.uk,GOOGLE
+  HOST-SUFFIX,google.co.uz,GOOGLE
+  HOST-SUFFIX,google.co.ve,GOOGLE
+  HOST-SUFFIX,google.co.vi,GOOGLE
+  HOST-SUFFIX,google.co.za,GOOGLE
+  HOST-SUFFIX,google.co.zm,GOOGLE
+  HOST-SUFFIX,google.co.zw,GOOGLE
+  HOST-SUFFIX,google.com,GOOGLE
+  HOST-SUFFIX,google.com.af,GOOGLE
+  HOST-SUFFIX,google.com.ag,GOOGLE
+  HOST-SUFFIX,google.com.ai,GOOGLE
+  HOST-SUFFIX,google.com.ar,GOOGLE
+  HOST-SUFFIX,google.com.au,GOOGLE
+  HOST-SUFFIX,google.com.bd,GOOGLE
+  HOST-SUFFIX,google.com.bh,GOOGLE
+  HOST-SUFFIX,google.com.bn,GOOGLE
+  HOST-SUFFIX,google.com.bo,GOOGLE
+  HOST-SUFFIX,google.com.br,GOOGLE
+  HOST-SUFFIX,google.com.bz,GOOGLE
+  HOST-SUFFIX,google.com.co,GOOGLE
+  HOST-SUFFIX,google.com.cu,GOOGLE
+  HOST-SUFFIX,google.com.cy,GOOGLE
+  HOST-SUFFIX,google.com.do,GOOGLE
+  HOST-SUFFIX,google.com.ec,GOOGLE
+  HOST-SUFFIX,google.com.eg,GOOGLE
+  HOST-SUFFIX,google.com.et,GOOGLE
+  HOST-SUFFIX,google.com.fj,GOOGLE
+  HOST-SUFFIX,google.com.gh,GOOGLE
+  HOST-SUFFIX,google.com.gi,GOOGLE
+  HOST-SUFFIX,google.com.gt,GOOGLE
+  HOST-SUFFIX,google.com.hk,GOOGLE
+  HOST-SUFFIX,google.com.jm,GOOGLE
+  HOST-SUFFIX,google.com.kh,GOOGLE
+  HOST-SUFFIX,google.com.kw,GOOGLE
+  HOST-SUFFIX,google.com.lb,GOOGLE
+  HOST-SUFFIX,google.com.ly,GOOGLE
+  HOST-SUFFIX,google.com.mm,GOOGLE
+  HOST-SUFFIX,google.com.mt,GOOGLE
+  HOST-SUFFIX,google.com.mx,GOOGLE
+  HOST-SUFFIX,google.com.my,GOOGLE
+  HOST-SUFFIX,google.com.na,GOOGLE
+  HOST-SUFFIX,google.com.ng,GOOGLE
+  HOST-SUFFIX,google.com.ni,GOOGLE
+  HOST-SUFFIX,google.com.np,GOOGLE
+  HOST-SUFFIX,google.com.om,GOOGLE
+  HOST-SUFFIX,google.com.pa,GOOGLE
+  HOST-SUFFIX,google.com.pe,GOOGLE
+  HOST-SUFFIX,google.com.pg,GOOGLE
+  HOST-SUFFIX,google.com.ph,GOOGLE
+  HOST-SUFFIX,google.com.pk,GOOGLE
+  HOST-SUFFIX,google.com.pr,GOOGLE
+  HOST-SUFFIX,google.com.py,GOOGLE
+  HOST-SUFFIX,google.com.qa,GOOGLE
+  HOST-SUFFIX,google.com.sa,GOOGLE
+  HOST-SUFFIX,google.com.sb,GOOGLE
+  HOST-SUFFIX,google.com.sg,GOOGLE
+  HOST-SUFFIX,google.com.sl,GOOGLE
+  HOST-SUFFIX,google.com.sv,GOOGLE
+  HOST-SUFFIX,google.com.tj,GOOGLE
+  HOST-SUFFIX,google.com.tr,GOOGLE
+  HOST-SUFFIX,google.com.tw,GOOGLE
+  HOST-SUFFIX,google.com.ua,GOOGLE
+  HOST-SUFFIX,google.com.uy,GOOGLE
+  HOST-SUFFIX,google.com.vc,GOOGLE
+  HOST-SUFFIX,google.com.vn,GOOGLE
+  HOST-SUFFIX,google.cv,GOOGLE
+  HOST-SUFFIX,google.cz,GOOGLE
+  HOST-SUFFIX,google.de,GOOGLE
+  HOST-SUFFIX,google.dev,GOOGLE
+  HOST-SUFFIX,google.dj,GOOGLE
+  HOST-SUFFIX,google.dk,GOOGLE
+  HOST-SUFFIX,google.dm,GOOGLE
+  HOST-SUFFIX,google.dz,GOOGLE
+  HOST-SUFFIX,google.ee,GOOGLE
+  HOST-SUFFIX,google.es,GOOGLE
+  HOST-SUFFIX,google.fi,GOOGLE
+  HOST-SUFFIX,google.fm,GOOGLE
+  HOST-SUFFIX,google.fr,GOOGLE
+  HOST-SUFFIX,google.ga,GOOGLE
+  HOST-SUFFIX,google.ge,GOOGLE
+  HOST-SUFFIX,google.gg,GOOGLE
+  HOST-SUFFIX,google.gl,GOOGLE
+  HOST-SUFFIX,google.gm,GOOGLE
+  HOST-SUFFIX,google.gr,GOOGLE
+  HOST-SUFFIX,google.gy,GOOGLE
+  HOST-SUFFIX,google.hn,GOOGLE
+  HOST-SUFFIX,google.hr,GOOGLE
+  HOST-SUFFIX,google.ht,GOOGLE
+  HOST-SUFFIX,google.hu,GOOGLE
+  HOST-SUFFIX,google.ie,GOOGLE
+  HOST-SUFFIX,google.im,GOOGLE
+  HOST-SUFFIX,google.iq,GOOGLE
+  HOST-SUFFIX,google.is,GOOGLE
+  HOST-SUFFIX,google.it,GOOGLE
+  HOST-SUFFIX,google.je,GOOGLE
+  HOST-SUFFIX,google.jo,GOOGLE
+  HOST-SUFFIX,google.kg,GOOGLE
+  HOST-SUFFIX,google.ki,GOOGLE
+  HOST-SUFFIX,google.kz,GOOGLE
+  HOST-SUFFIX,google.la,GOOGLE
+  HOST-SUFFIX,google.li,GOOGLE
+  HOST-SUFFIX,google.lk,GOOGLE
+  HOST-SUFFIX,google.lt,GOOGLE
+  HOST-SUFFIX,google.lu,GOOGLE
+  HOST-SUFFIX,google.lv,GOOGLE
+  HOST-SUFFIX,google.md,GOOGLE
+  HOST-SUFFIX,google.me,GOOGLE
+  HOST-SUFFIX,google.mg,GOOGLE
+  HOST-SUFFIX,google.mk,GOOGLE
+  HOST-SUFFIX,google.ml,GOOGLE
+  HOST-SUFFIX,google.mn,GOOGLE
+  HOST-SUFFIX,google.ms,GOOGLE
+  HOST-SUFFIX,google.mu,GOOGLE
+  HOST-SUFFIX,google.mv,GOOGLE
+  HOST-SUFFIX,google.mw,GOOGLE
+  HOST-SUFFIX,google.ne,GOOGLE
+  HOST-SUFFIX,google.net,GOOGLE
+  HOST-SUFFIX,google.nl,GOOGLE
+  HOST-SUFFIX,google.no,GOOGLE
+  HOST-SUFFIX,google.nr,GOOGLE
+  HOST-SUFFIX,google.nu,GOOGLE
+  HOST-SUFFIX,google.org,GOOGLE
+  HOST-SUFFIX,google.pl,GOOGLE
+  HOST-SUFFIX,google.pn,GOOGLE
+  HOST-SUFFIX,google.ps,GOOGLE
+  HOST-SUFFIX,google.pt,GOOGLE
+  HOST-SUFFIX,google.ro,GOOGLE
+  HOST-SUFFIX,google.rs,GOOGLE
+  HOST-SUFFIX,google.ru,GOOGLE
+  HOST-SUFFIX,google.rw,GOOGLE
+  HOST-SUFFIX,google.sc,GOOGLE
+  HOST-SUFFIX,google.se,GOOGLE
+  HOST-SUFFIX,google.sh,GOOGLE
+  HOST-SUFFIX,google.si,GOOGLE
+  HOST-SUFFIX,google.sk,GOOGLE
+  HOST-SUFFIX,google.sm,GOOGLE
+  HOST-SUFFIX,google.sn,GOOGLE
+  HOST-SUFFIX,google.so,GOOGLE
+  HOST-SUFFIX,google.sr,GOOGLE
+  HOST-SUFFIX,google.st,GOOGLE
+  HOST-SUFFIX,google.td,GOOGLE
+  HOST-SUFFIX,google.tg,GOOGLE
+  HOST-SUFFIX,google.tl,GOOGLE
+  HOST-SUFFIX,google.tm,GOOGLE
+  HOST-SUFFIX,google.tn,GOOGLE
+  HOST-SUFFIX,google.to,GOOGLE
+  HOST-SUFFIX,google.tt,GOOGLE
+  HOST-SUFFIX,google.ventures,GOOGLE
+  HOST-SUFFIX,google.vg,GOOGLE
+  HOST-SUFFIX,google.vu,GOOGLE
+  HOST-SUFFIX,google.ws,GOOGLE
+  HOST-SUFFIX,googleacquisitionmigration.com,GOOGLE
+  HOST-SUFFIX,googleadapis.com,GOOGLE
+  HOST-SUFFIX,googleadservices-cn.com,GOOGLE
+  HOST-SUFFIX,googleadservices.com,GOOGLE
+  HOST-SUFFIX,googleanalytics.com,GOOGLE
+  HOST-SUFFIX,googleapis-cn.com,GOOGLE
+  HOST-SUFFIX,googleapis.cn,GOOGLE
+  HOST-SUFFIX,googleapis.com,GOOGLE
+  HOST-SUFFIX,googleapps-cn.com,GOOGLE
+  HOST-SUFFIX,googleapps.com,GOOGLE
+  HOST-SUFFIX,googlearth.com,GOOGLE
+  HOST-SUFFIX,googleblog.com,GOOGLE
+  HOST-SUFFIX,googlebot.com,GOOGLE
+  HOST-SUFFIX,googlecapital.com,GOOGLE
+  HOST-SUFFIX,googlecert.net,GOOGLE
+  HOST-SUFFIX,googlecnapps.cn,GOOGLE
+  HOST-SUFFIX,googlecode.com,GOOGLE
+  HOST-SUFFIX,googlecommerce.com,GOOGLE
+  HOST-SUFFIX,googlecompare.co.uk,GOOGLE
+  HOST-SUFFIX,googledanmark.com,GOOGLE
+  HOST-SUFFIX,googledomains.com,GOOGLE
+  HOST-SUFFIX,googlee.com,GOOGLE
+  HOST-SUFFIX,googleearth.com,GOOGLE
+  HOST-SUFFIX,googlefiber.com,GOOGLE
+  HOST-SUFFIX,googlefiber.net,GOOGLE
+  HOST-SUFFIX,googlefinland.com,GOOGLE
+  HOST-SUFFIX,googleflights-cn.net,GOOGLE
+  HOST-SUFFIX,googlemail.com,GOOGLE
+  HOST-SUFFIX,googlemaps.com,GOOGLE
+  HOST-SUFFIX,googlemashups.com,GOOGLE
+  HOST-SUFFIX,googleoptimize-cn.com,GOOGLE
+  HOST-SUFFIX,googleoptimize.com,GOOGLE
+  HOST-SUFFIX,googlepagecreator.com,GOOGLE
+  HOST-SUFFIX,googlephotos.com,GOOGLE
+  HOST-SUFFIX,googleplay.com,GOOGLE
+  HOST-SUFFIX,googleplex.com,GOOGLE
+  HOST-SUFFIX,googleplus.com,GOOGLE
+  HOST-SUFFIX,googlescholar.com,GOOGLE
+  HOST-SUFFIX,googlesource.com,GOOGLE
+  HOST-SUFFIX,googlestore.com,GOOGLE
+  HOST-SUFFIX,googlesverige.com,GOOGLE
+  HOST-SUFFIX,googlesyndication-cn.com,GOOGLE
+  HOST-SUFFIX,googlesyndication.com,GOOGLE
+  HOST-SUFFIX,googletagmanager-cn.com,GOOGLE
+  HOST-SUFFIX,googletagmanager.com,GOOGLE
+  HOST-SUFFIX,googletagservices-cn.com,GOOGLE
+  HOST-SUFFIX,googletagservices.com,GOOGLE
+  HOST-SUFFIX,googletraveladservices-cn.com,GOOGLE
+  HOST-SUFFIX,googletraveladservices.com,GOOGLE
+  HOST-SUFFIX,googlevads-cn.com,GOOGLE
+  HOST-SUFFIX,googleventures.com,GOOGLE
+  HOST-SUFFIX,googlr.com,GOOGLE
+  HOST-SUFFIX,goolge.com,GOOGLE
+  HOST-SUFFIX,gooogle.com,GOOGLE
+  HOST-SUFFIX,gridaware.app,GOOGLE
+  HOST-SUFFIX,gsrc.io,GOOGLE
+  HOST-SUFFIX,gstatic-cn.com,GOOGLE
+  HOST-SUFFIX,gstatic.cn,GOOGLE
+  HOST-SUFFIX,gstatic.com,GOOGLE
+  HOST-SUFFIX,gstaticcnapps.cn,GOOGLE
+  HOST-SUFFIX,gsuite.com,GOOGLE
+  HOST-SUFFIX,gv.com,GOOGLE
+  HOST-SUFFIX,gvt0.com,GOOGLE
+  HOST-SUFFIX,gvt1-cn.com,GOOGLE
+  HOST-SUFFIX,gvt2-cn.com,GOOGLE
+  HOST-SUFFIX,gvt3.com,GOOGLE
+  HOST-SUFFIX,gvt5.com,GOOGLE
+  HOST-SUFFIX,gvt6.com,GOOGLE
+  HOST-SUFFIX,gvt7.com,GOOGLE
+  HOST-SUFFIX,gvt9.com,GOOGLE
+  HOST-SUFFIX,gwtproject.org,GOOGLE
+  HOST-SUFFIX,hdrplusdata.org,GOOGLE
+  HOST-SUFFIX,hey.gle,GOOGLE
+  HOST-SUFFIX,hindiweb.com,GOOGLE
+  HOST-SUFFIX,howtogetmo.co.uk,GOOGLE
+  HOST-SUFFIX,html5rocks.com,GOOGLE
+  HOST-SUFFIX,hwgo.com,GOOGLE
+  HOST-SUFFIX,iam.soy,GOOGLE
+  HOST-SUFFIX,iamremarkable.org,GOOGLE
+  HOST-SUFFIX,igoogle.com,GOOGLE
+  HOST-SUFFIX,impermium.com,GOOGLE
+  HOST-SUFFIX,itasoftware.com,GOOGLE
+  HOST-SUFFIX,j2objc.org,GOOGLE
+  HOST-SUFFIX,jibemobile.com,GOOGLE
+  HOST-SUFFIX,kaggle.com,GOOGLE
+  HOST-SUFFIX,kaggle.io,GOOGLE
+  HOST-SUFFIX,keyhole.com,GOOGLE
+  HOST-SUFFIX,keytransparency.com,GOOGLE
+  HOST-SUFFIX,keytransparency.foo,GOOGLE
+  HOST-SUFFIX,keytransparency.org,GOOGLE
+  HOST-SUFFIX,lanternal.com,GOOGLE
+  HOST-SUFFIX,like.com,GOOGLE
+  HOST-SUFFIX,madewithcode.com,GOOGLE
+  HOST-SUFFIX,material.io,GOOGLE
+  HOST-SUFFIX,mdialog.com,GOOGLE
+  HOST-SUFFIX,meet.new,GOOGLE
+  HOST-SUFFIX,mfg-inspector.com,GOOGLE
+  HOST-SUFFIX,mobileview.page,GOOGLE
+  HOST-SUFFIX,monitoring.qatp1.net,GOOGLE
+  HOST-SUFFIX,monitoring.qcpp1.net,GOOGLE
+  HOST-SUFFIX,monitoring.qpdp1.net,GOOGLE
+  HOST-SUFFIX,moodstocks.com,GOOGLE
+  HOST-SUFFIX,near.by,GOOGLE
+  HOST-SUFFIX,nest.com,GOOGLE
+  HOST-SUFFIX,neverware.com,GOOGLE
+  HOST-SUFFIX,nomulus.foo,GOOGLE
+  HOST-SUFFIX,oasisfeng.com,GOOGLE
+  HOST-SUFFIX,oauthz.com,GOOGLE
+  HOST-SUFFIX,ok.gle,GOOGLE
+  HOST-SUFFIX,on.here,GOOGLE
+  HOST-SUFFIX,on2.com,GOOGLE
+  HOST-SUFFIX,onefifteen.net,GOOGLE
+  HOST-SUFFIX,onefifteen.org,GOOGLE
+  HOST-SUFFIX,oneworldmanystories.com,GOOGLE
+  HOST-SUFFIX,opensourceinsight.dev,GOOGLE
+  HOST-SUFFIX,opensourceinsights.dev,GOOGLE
+  HOST-SUFFIX,openthread.io,GOOGLE
+  HOST-SUFFIX,openweave.io,GOOGLE
+  HOST-SUFFIX,orbitera.com,GOOGLE
+  HOST-SUFFIX,page.link,GOOGLE
+  HOST-SUFFIX,pagespeedmobilizer.com,GOOGLE
+  HOST-SUFFIX,pageview.mobi,GOOGLE
+  HOST-SUFFIX,panoramio.com,GOOGLE
+  HOST-SUFFIX,partylikeits1986.org,GOOGLE
+  HOST-SUFFIX,paxlicense.org,GOOGLE
+  HOST-SUFFIX,picasa.com,GOOGLE
+  HOST-SUFFIX,picasaweb.com,GOOGLE
+  HOST-SUFFIX,picasaweb.net,GOOGLE
+  HOST-SUFFIX,picasaweb.org,GOOGLE
+  HOST-SUFFIX,picnik.com,GOOGLE
+  HOST-SUFFIX,pittpatt.com,GOOGLE
+  HOST-SUFFIX,pixate.com,GOOGLE
+  HOST-SUFFIX,pki.goog,GOOGLE
+  HOST-SUFFIX,plus.codes,GOOGLE
+  HOST-SUFFIX,polymer-project.org,GOOGLE
+  HOST-SUFFIX,polymerproject.org,GOOGLE
+  HOST-SUFFIX,postini.com,GOOGLE
+  HOST-SUFFIX,privacysandbox.com,GOOGLE
+  HOST-SUFFIX,prod-controlbe.floonet.goog,GOOGLE
+  HOST-SUFFIX,prod-databe.floonet.goog,GOOGLE
+  HOST-SUFFIX,prod.databe.floonet.goog,GOOGLE
+  HOST-SUFFIX,projectara.com,GOOGLE
+  HOST-SUFFIX,projectbaseline.com,GOOGLE
+  HOST-SUFFIX,publishproxy.com,GOOGLE
+  HOST-SUFFIX,qagpublic.qatp1.net,GOOGLE
+  HOST-SUFFIX,qagpublic.qcpp1.net,GOOGLE
+  HOST-SUFFIX,qagpublic.qpdp1.net,GOOGLE
+  HOST-SUFFIX,qgadmin.qatp1.net,GOOGLE
+  HOST-SUFFIX,qgadmin.qcpp1.net,GOOGLE
+  HOST-SUFFIX,qgadmin.qpdp1.net,GOOGLE
+  HOST-SUFFIX,qiao-cn.com,GOOGLE
+  HOST-SUFFIX,qpx.googleflights.net,GOOGLE
+  HOST-SUFFIX,qualysapi.qatp1.net,GOOGLE
+  HOST-SUFFIX,qualysapi.qcpp1.net,GOOGLE
+  HOST-SUFFIX,qualysapi.qpdp1.net,GOOGLE
+  HOST-SUFFIX,qualysguard.qatp1.net,GOOGLE
+  HOST-SUFFIX,qualysguard.qcpp1.net,GOOGLE
+  HOST-SUFFIX,qualysguard.qpdp1.net,GOOGLE
+  HOST-SUFFIX,questvisual.com,GOOGLE
+  HOST-SUFFIX,quickoffice.com,GOOGLE
+  HOST-SUFFIX,quiksee.com,GOOGLE
+  HOST-SUFFIX,recaptcha-cn.net,GOOGLE
+  HOST-SUFFIX,recaptcha.net,GOOGLE
+  HOST-SUFFIX,redhotlabs.com,GOOGLE
+  HOST-SUFFIX,redirector.gcpcdn.gvt1.com,GOOGLE
+  HOST-SUFFIX,redirector.gvt1.com,GOOGLE
+  HOST-SUFFIX,redirector.offline-maps.gvt1.com,GOOGLE
+  HOST-SUFFIX,redirector.snap.gvt1.com,GOOGLE
+  HOST-SUFFIX,registry.google,GOOGLE
+  HOST-SUFFIX,revolv.com,GOOGLE
+  HOST-SUFFIX,ridepenguin.com,GOOGLE
+  HOST-SUFFIX,run.app,GOOGLE
+  HOST-SUFFIX,savethedate.foo,GOOGLE
+  HOST-SUFFIX,saynow.com,GOOGLE
+  HOST-SUFFIX,scanservice1.qatp1.net,GOOGLE
+  HOST-SUFFIX,scanservice1.qcpp1.net,GOOGLE
+  HOST-SUFFIX,scanservice1.qpdp1.net,GOOGLE
+  HOST-SUFFIX,schema.org,GOOGLE
+  HOST-SUFFIX,schemer.com,GOOGLE
+  HOST-SUFFIX,screenwisetrends.com,GOOGLE
+  HOST-SUFFIX,screenwisetrendspanel.com,GOOGLE
+  HOST-SUFFIX,shattered.io,GOOGLE
+  HOST-SUFFIX,snapseed.com,GOOGLE
+  HOST-SUFFIX,solveforx.com,GOOGLE
+  HOST-SUFFIX,stadia.dev,GOOGLE
+  HOST-SUFFIX,staging-controlbe.floonet.goog,GOOGLE
+  HOST-SUFFIX,staging-databe.floonet.goog,GOOGLE
+  HOST-SUFFIX,staging.databe.floonet.goog,GOOGLE
+  HOST-SUFFIX,stcroixmosquito.com,GOOGLE
+  HOST-SUFFIX,stcroixmosquitoproject.com,GOOGLE
+  HOST-SUFFIX,studywatchbyverily.com,GOOGLE
+  HOST-SUFFIX,studywatchbyverily.org,GOOGLE
+  HOST-SUFFIX,stxmosquito.com,GOOGLE
+  HOST-SUFFIX,stxmosquitoproject.com,GOOGLE
+  HOST-SUFFIX,stxmosquitoproject.net,GOOGLE
+  HOST-SUFFIX,stxmosquitoproject.org,GOOGLE
+  HOST-SUFFIX,synergyse.com,GOOGLE
+  HOST-SUFFIX,teachparentstech.org,GOOGLE
+  HOST-SUFFIX,tensorflow.org,GOOGLE
+  HOST-SUFFIX,tfhub.dev,GOOGLE
+  HOST-SUFFIX,thecleversense.com,GOOGLE
+  HOST-SUFFIX,thegooglestore.com,GOOGLE
+  HOST-SUFFIX,thinkquarterly.co.uk,GOOGLE
+  HOST-SUFFIX,thinkquarterly.com,GOOGLE
+  HOST-SUFFIX,thinkwithgoogle.com,GOOGLE
+  HOST-SUFFIX,tiltbrush.com,GOOGLE
+  HOST-SUFFIX,txcloud.net,GOOGLE
+  HOST-SUFFIX,txvia.com,GOOGLE
+  HOST-SUFFIX,unfiltered.news,GOOGLE
+  HOST-SUFFIX,urchin.com,GOOGLE
+  HOST-SUFFIX,useplannr.com,GOOGLE
+  HOST-SUFFIX,usvimosquito.com,GOOGLE
+  HOST-SUFFIX,usvimosquitoproject.com,GOOGLE
+  HOST-SUFFIX,v8.dev,GOOGLE
+  HOST-SUFFIX,v8project.org,GOOGLE
+  HOST-SUFFIX,velostrata.com,GOOGLE
+  HOST-SUFFIX,verily.com,GOOGLE
+  HOST-SUFFIX,verilylifesciences.com,GOOGLE
+  HOST-SUFFIX,verilystudyhub.com,GOOGLE
+  HOST-SUFFIX,verilystudywatch.com,GOOGLE
+  HOST-SUFFIX,verilystudywatch.org,GOOGLE
+  HOST-SUFFIX,wallet.com,GOOGLE
+  HOST-SUFFIX,waveprotocol.org,GOOGLE
+  HOST-SUFFIX,waymo.com,GOOGLE
+  HOST-SUFFIX,waze.com,GOOGLE
+  HOST-SUFFIX,web.app,GOOGLE
+  HOST-SUFFIX,web.dev,GOOGLE
+  HOST-SUFFIX,webappfieldguide.com,GOOGLE
+  HOST-SUFFIX,webmproject.org,GOOGLE
+  HOST-SUFFIX,webpkgcache.com,GOOGLE
+  HOST-SUFFIX,webrtc.org,GOOGLE
+  HOST-SUFFIX,weltweitwachsen.de,GOOGLE
+  HOST-SUFFIX,whatbrowser.org,GOOGLE
+  HOST-SUFFIX,widevine.com,GOOGLE
+  HOST-SUFFIX,withgoogle.com,GOOGLE
+  HOST-SUFFIX,womenwill.com,GOOGLE
+  HOST-SUFFIX,womenwill.com.br,GOOGLE
+  HOST-SUFFIX,womenwill.id,GOOGLE
+  HOST-SUFFIX,womenwill.in,GOOGLE
+  HOST-SUFFIX,womenwill.mx,GOOGLE
+  HOST-SUFFIX,www.destinationurl.com,GOOGLE
+  HOST-SUFFIX,www.pxcc.com,GOOGLE
+  HOST-SUFFIX,x.company,GOOGLE
+  HOST-SUFFIX,x.team,GOOGLE
+  HOST-SUFFIX,xn--9kr7l.com,GOOGLE
+  HOST-SUFFIX,xn--9trs65b.com,GOOGLE
+  HOST-SUFFIX,xn--flw351e.com,GOOGLE
+  HOST-SUFFIX,xn--ggle-55da.com,GOOGLE
+  HOST-SUFFIX,xn--gogl-0nd52e.com,GOOGLE
+  HOST-SUFFIX,xn--gogl-1nd42e.com,GOOGLE
+  HOST-SUFFIX,xn--ngstr-lra8j.com,GOOGLE
+  HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,GOOGLE
+  HOST-SUFFIX,xplr.co,GOOGLE
+  HOST-SUFFIX,zukunftswerkstatt.de,GOOGLE
+  HOST-SUFFIX,zynamics.com,GOOGLE
+  HOST-SUFFIX,googledrive.com,GOOGLE
+  HOST-SUFFIX,googleusercontent.com,GOOGLE
+  HOST-KEYWORD,appspot,GOOGLE
+  HOST-KEYWORD,blogspot,GOOGLE
+  HOST-KEYWORD,gmail,GOOGLE
+  HOST-KEYWORD,google,GOOGLE
+  HOST-KEYWORD,recaptcha,GOOGLE
+  USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,GOOGLE
+  USER-AGENT,*com.google.Drive*,GOOGLE
+  USER-AGENT,GOOGLE.Drive*,GOOGLE
+  IP-CIDR,172.110.32.0/21,GOOGLE
+  IP-CIDR,173.194.0.0/16,GOOGLE
+  IP-CIDR,216.73.80.0/20,GOOGLE
+  IP-CIDR,74.125.0.0/16,GOOGLE
+  IP6-CIDR,2620:120:e000::/40,GOOGLE
+
+#🔶 YouTube PREMIUM
+  HOST,music.youtube.com,YouTube PREMIUM
+  HOST,youtubei.googleapis.com,YouTube PREMIUM
+  HOST,yt3.ggpht.com,YouTube PREMIUM
+  HOST-SUFFIX,ggpht.cn,YouTube PREMIUM
+  HOST-SUFFIX,ggpht.com,YouTube PREMIUM
+  HOST-SUFFIX,googlevideo.com,YouTube PREMIUM
+  HOST-SUFFIX,gvt1.com,YouTube PREMIUM
+  HOST-SUFFIX,gvt2.com,YouTube PREMIUM
+  HOST-SUFFIX,video.google.com,YouTube PREMIUM
+  HOST-SUFFIX,wide-youtube.l.google.com,YouTube PREMIUM
+  HOST-SUFFIX,withyoutube.com,YouTube PREMIUM
+  HOST-SUFFIX,youtu.be,YouTube PREMIUM
+  HOST-SUFFIX,youtube,YouTube PREMIUM
+  HOST-SUFFIX,youtube-nocookie.com,YouTube PREMIUM
+  HOST-SUFFIX,youtube-ui.l.google.com,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ae,YouTube PREMIUM
+  HOST-SUFFIX,youtube.al,YouTube PREMIUM
+  HOST-SUFFIX,youtube.am,YouTube PREMIUM
+  HOST-SUFFIX,youtube.at,YouTube PREMIUM
+  HOST-SUFFIX,youtube.az,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ba,YouTube PREMIUM
+  HOST-SUFFIX,youtube.be,YouTube PREMIUM
+  HOST-SUFFIX,youtube.bg,YouTube PREMIUM
+  HOST-SUFFIX,youtube.bh,YouTube PREMIUM
+  HOST-SUFFIX,youtube.bo,YouTube PREMIUM
+  HOST-SUFFIX,youtube.by,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ca,YouTube PREMIUM
+  HOST-SUFFIX,youtube.cat,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ch,YouTube PREMIUM
+  HOST-SUFFIX,youtube.cl,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.ae,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.at,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.cr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.hu,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.id,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.il,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.in,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.jp,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.ke,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.kr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.ma,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.nz,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.th,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.tz,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.ug,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.uk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.ve,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.za,YouTube PREMIUM
+  HOST-SUFFIX,youtube.co.zw,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ar,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.au,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.az,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.bd,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.bh,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.bo,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.br,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.by,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.co,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.do,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ec,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ee,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.eg,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.es,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.gh,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.gr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.gt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.hk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.hn,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.hr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.jm,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.jo,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.kw,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.lb,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.lv,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ly,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.mk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.mt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.mx,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.my,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ng,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ni,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.om,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.pa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.pe,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ph,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.pk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.pt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.py,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.qa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ro,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.sa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.sg,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.sv,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.tn,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.tr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.tw,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ua,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.uy,YouTube PREMIUM
+  HOST-SUFFIX,youtube.com.ve,YouTube PREMIUM
+  HOST-SUFFIX,youtube.cr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.cz,YouTube PREMIUM
+  HOST-SUFFIX,youtube.de,YouTube PREMIUM
+  HOST-SUFFIX,youtube.dk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ee,YouTube PREMIUM
+  HOST-SUFFIX,youtube.es,YouTube PREMIUM
+  HOST-SUFFIX,youtube.fi,YouTube PREMIUM
+  HOST-SUFFIX,youtube.fr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ge,YouTube PREMIUM
+  HOST-SUFFIX,youtube.googleapis.com,YouTube PREMIUM
+  HOST-SUFFIX,youtube.gr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.gt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.hk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.hr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.hu,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ie,YouTube PREMIUM
+  HOST-SUFFIX,youtube.in,YouTube PREMIUM
+  HOST-SUFFIX,youtube.iq,YouTube PREMIUM
+  HOST-SUFFIX,youtube.is,YouTube PREMIUM
+  HOST-SUFFIX,youtube.it,YouTube PREMIUM
+  HOST-SUFFIX,youtube.jo,YouTube PREMIUM
+  HOST-SUFFIX,youtube.jp,YouTube PREMIUM
+  HOST-SUFFIX,youtube.kr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.kz,YouTube PREMIUM
+  HOST-SUFFIX,youtube.la,YouTube PREMIUM
+  HOST-SUFFIX,youtube.lk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.lt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.lu,YouTube PREMIUM
+  HOST-SUFFIX,youtube.lv,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ly,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ma,YouTube PREMIUM
+  HOST-SUFFIX,youtube.md,YouTube PREMIUM
+  HOST-SUFFIX,youtube.me,YouTube PREMIUM
+  HOST-SUFFIX,youtube.mk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.mn,YouTube PREMIUM
+  HOST-SUFFIX,youtube.mx,YouTube PREMIUM
+  HOST-SUFFIX,youtube.my,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ng,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ni,YouTube PREMIUM
+  HOST-SUFFIX,youtube.nl,YouTube PREMIUM
+  HOST-SUFFIX,youtube.no,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pe,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ph,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pl,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pr,YouTube PREMIUM
+  HOST-SUFFIX,youtube.pt,YouTube PREMIUM
+  HOST-SUFFIX,youtube.qa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ro,YouTube PREMIUM
+  HOST-SUFFIX,youtube.rs,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ru,YouTube PREMIUM
+  HOST-SUFFIX,youtube.sa,YouTube PREMIUM
+  HOST-SUFFIX,youtube.se,YouTube PREMIUM
+  HOST-SUFFIX,youtube.sg,YouTube PREMIUM
+  HOST-SUFFIX,youtube.si,YouTube PREMIUM
+  HOST-SUFFIX,youtube.sk,YouTube PREMIUM
+  HOST-SUFFIX,youtube.sn,YouTube PREMIUM
+  HOST-SUFFIX,youtube.soy,YouTube PREMIUM
+  HOST-SUFFIX,youtube.sv,YouTube PREMIUM
+  HOST-SUFFIX,youtube.tn,YouTube PREMIUM
+  HOST-SUFFIX,youtube.tv,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ua,YouTube PREMIUM
+  HOST-SUFFIX,youtube.ug,YouTube PREMIUM
+  HOST-SUFFIX,youtube.uy,YouTube PREMIUM
+  HOST-SUFFIX,youtube.vn,YouTube PREMIUM
+  HOST-SUFFIX,youtubeeducation.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubefanfest.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubegaming.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.co.id,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.co.in,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.com.br,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.id,YouTube PREMIUM
+  HOST-SUFFIX,youtubego.in,YouTube PREMIUM
+  HOST-SUFFIX,youtubei.googleapis.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubekids.com,YouTube PREMIUM
+  HOST-SUFFIX,youtubemobilesupport.com,YouTube PREMIUM
+  HOST-SUFFIX,yt.be,YouTube PREMIUM
+  HOST-SUFFIX,ytimg.com,YouTube PREMIUM
+  HOST-WILDCARD,youtube.*,YouTube PREMIUM
+  HOST-WILDCARD,youtube.*.*,YouTube PREMIUM
+  HOST-WILDCARD,youtube.com.*,YouTube PREMIUM
+  HOST-KEYWORD,youtube,YouTube PREMIUM
+  USER-AGENT,*YouTubeMusic*,YouTube PREMIUM
+  USER-AGENT,*com.google.ios.youtubemusic*,YouTube PREMIUM
+  USER-AGENT,*youtube*,YouTube PREMIUM
+  USER-AGENT,YouTube PREMIUM*,YouTube PREMIUM
+  USER-AGENT,YouTubeMusic*,YouTube PREMIUM
+  USER-AGENT,com.google.ios.youtube*,YouTube PREMIUM
+  USER-AGENT,com.google.ios.youtubemusic*,YouTube PREMIUM
+  IP-CIDR,172.110.32.0/21,YouTube PREMIUM
+  IP-CIDR,216.73.80.0/20,YouTube PREMIUM
+  IP6-CIDR,2620:120:e000::/40,YouTube PREMIUM
