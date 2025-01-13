@@ -1,34 +1,32 @@
-# > Twitter
-IP-ASN,8945
-IP-ASN,63179
-IP-ASN,54888
-HOST-KEYWORD,twitter
-HOST-SUFFIX,periscope.tv
-HOST-SUFFIX,pscp.tv
-HOST-SUFFIX,t.co
-HOST-SUFFIX,twimg.co
-HOST-SUFFIX,twimg.com
-HOST-SUFFIX,twimg.org
-HOST-SUFFIX,twitpic.com
-HOST-SUFFIX,twitter.com
-HOST-SUFFIX,twitter.jp
-HOST-SUFFIX,vine.co
-# > TikTok
-USER-AGENT,TikTok*
-HOST-KEYWORD,-tiktokcdn-com
-HOST-KEYWORD,tiktok
-HOST,p16-tiktokcdn-com.akamaized.net
-HOST-SUFFIX,byteoversea.com
-HOST-SUFFIX,ibytedtos.com
-HOST-SUFFIX,ibyteimg.com
-HOST-SUFFIX,ipstatp.com
-HOST-SUFFIX,muscdn.com
-HOST-SUFFIX,musical.ly
-HOST-SUFFIX,sgpstatp.com
-HOST-SUFFIX,tik-tokapi.com
-HOST-SUFFIX,tiktok.com
-HOST-SUFFIX,tiktokcdn.com
-HOST-SUFFIX,tiktokv.com
+# Microsoft Office and OneDrive
+# These have been include in the Microsoft
+HOST-SUFFIX,assets-yammer.com
+HOST-SUFFIX,footprintdns.com
+HOST-SUFFIX,microsoft.com
+HOST-SUFFIX,live.com
+HOST-SUFFIX,live.com.au
+HOST-SUFFIX,live.eu
+HOST-SUFFIX,live.net
+HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,livefilestore.com
+HOST-SUFFIX,microsoftonline.com
+HOST-SUFFIX,microsoftonline-p.com
+HOST-SUFFIX,o365filtering.com
+HOST-SUFFIX,msocsp.com
+HOST-SUFFIX,msocdn.com
+HOST-SUFFIX,office.com
+HOST-SUFFIX,office.de
+HOST-SUFFIX,office.microsoft
+HOST-SUFFIX,office.net
+HOST-SUFFIX,office365.com
+HOST-SUFFIX,office365.us
+HOST-SUFFIX,office365love.com
+HOST-SUFFIX,office365tw.com
+HOST-SUFFIX,officedev.cn
+HOST-SUFFIX,renovacionoffice.com
+HOST-SUFFIX,onmicrosoft.com
+HOST-SUFFIX,svc.ms
+HOST-SUFFIX,yammer.com
 # > whaysapp
 HOST,graph.facebook.com
 HOST-SUFFIX,bintray.com
@@ -81,86 +79,79 @@ HOST-SUFFIX,cdninstagram.com
 HOST-SUFFIX,instagr.am
 HOST-SUFFIX,instagram.com
 HOST-KEYWORD,instagram
-# > Telegram
-# https://core.telegram.org/resources/cidr.txt
-PROCESS-NAME,nekox.messenger
-PROCESS-NAME,org.telegram.messenger
-PROCESS-NAME,telegram-desktop
-HOST,api.swiftgram.app
-HOST-SUFFIX,comments.app
-HOST-SUFFIX,contest.com
-HOST-SUFFIX,graph.org
-HOST-SUFFIX,legra.ph
-HOST-SUFFIX,mbrx.app
-HOST-SUFFIX,quiz.directory
-HOST-SUFFIX,stel.com
-HOST-SUFFIX,t.me
-HOST-SUFFIX,tdesktop.com
-HOST-SUFFIX,telega.one
-HOST-SUFFIX,telegra.ph
-HOST-SUFFIX,telegram-cdn.org
-HOST-SUFFIX,telegram.dog
-HOST-SUFFIX,telegram.me
-HOST-SUFFIX,telegram.org
-HOST-SUFFIX,telegram.space
-HOST-SUFFIX,telegramdownload.com
-HOST-SUFFIX,telesco.pe
-HOST-SUFFIX,tg.dev
-HOST-SUFFIX,tx.me
-HOST-SUFFIX,usercontent.dev
-HOST-KEYWORD,nicegram
-# DC5
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.56.0/23,no-resolve
-IP-CIDR,149.154.168.0/22,no-resolve
-# DC4
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.58.0/23,no-resolve
-IP-CIDR,149.154.160.0/22,no-resolve
-IP-CIDR,149.154.164.0/22,no-resolve
-# DC1
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,149.154.172.0/22,no-resolve
-# DC2
-IP-CIDR,91.108.20.0/22,no-resolve
-# DC3
-IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,185.76.151.0/24,no-resolve
-# DC5-V6
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-# DC4-V6
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-# DC1-V6
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-# DC2-V6
-IP-CIDR6,2001:b28:f23c::/48,no-resolve
-# DC3-V6
-IP-CIDR6,2a0a:f280::/32,no-resolve
-# > America's DC1
-IP-ASN,59930,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR6,2a0a:f280::/32,no-resolve
-# > Finland DC3
-IP-ASN,211157,no-resolve
-IP-CIDR,91.105.192.0/23,no-resolve
-IP-CIDR,185.76.151.0/24,no-resolve
-# > Europe DC4
-IP-ASN,62041,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-# > Singapore DC5
-IP-ASN,62014,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-# > India DC2
-IP-ASN,44907,no-resolve
-IP-CIDR,91.108.20.0/22,no-resolve
-IP-CIDR6,2001:b28:f23c::/48,no-resolve
+# > Github 服务
+HOST-KEYWORD,github
+HOST-SUFFIX,atom.io
+HOST-SUFFIX,dependabot.com
+HOST-SUFFIX,ghcr.io
+HOST-SUFFIX,git.io
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+HOST-SUFFIX,github-cloud.s3.amazonaws.com
+HOST-SUFFIX,github.blog
+HOST-SUFFIX,github.com
+HOST-SUFFIX,github.community
+HOST-SUFFIX,github.dev
+HOST-SUFFIX,github.io
+HOST-SUFFIX,githubapp.com
+HOST-SUFFIX,githubassets.com
+HOST-SUFFIX,githubhackathon.com
+HOST-SUFFIX,githubpreview.dev
+HOST-SUFFIX,githubstatus.com
+HOST-SUFFIX,githubuniverse.com
+HOST-SUFFIX,githubusercontent.com
+HOST-SUFFIX,myoctocat.com
+HOST-SUFFIX,npm.community
+HOST-SUFFIX,npmjs.com
+HOST-SUFFIX,npmjs.org
+HOST-SUFFIX,rawgit.com
+HOST-SUFFIX,rawgithub.com
+HOST-SUFFIX,thegithubshop.com
+# Facebook
+HOST-SUFFIX,acconunkit.com
+HOST-SUFFIX,atdmt.com
+HOST-SUFFIX,atlassolutions.com
+HOST-SUFFIX,facebook.com
+HOST-SUFFIX,facebook.net
+HOST-SUFFIX,facebookmail.com
+HOST-SUFFIX,fb.com
+HOST-SUFFIX,fb.gg
+HOST-SUFFIX,fbcdn.net
+HOST-SUFFIX,fb.watch
+HOST-SUFFIX,fbsbx.com
+HOST-SUFFIX,fbwat.ch
+HOST-SUFFIX,parse.com
+# > Twitter
+IP-ASN,8945
+IP-ASN,63179
+IP-ASN,54888
+HOST-KEYWORD,twitter
+HOST-SUFFIX,periscope.tv
+HOST-SUFFIX,pscp.tv
+HOST-SUFFIX,t.co
+HOST-SUFFIX,twimg.co
+HOST-SUFFIX,twimg.com
+HOST-SUFFIX,twimg.org
+HOST-SUFFIX,twitpic.com
+HOST-SUFFIX,twitter.com
+HOST-SUFFIX,twitter.jp
+HOST-SUFFIX,vine.co
+# > TikTok
+USER-AGENT,TikTok*
+HOST-KEYWORD,-tiktokcdn-com
+HOST-KEYWORD,tiktok
+HOST,p16-tiktokcdn-com.akamaized.net
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,ibyteimg.com
+HOST-SUFFIX,ipstatp.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,sgpstatp.com
+HOST-SUFFIX,tik-tokapi.com
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokv.com
 # > OneDrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
@@ -190,34 +181,6 @@ HOST-SUFFIX,docs.google.com
 HOST-SUFFIX,drive.google.com
 HOST-SUFFIX,googledrive.com
 HOST-SUFFIX,googleusercontent.com
-# > Github 服务
-HOST-KEYWORD,github
-HOST-SUFFIX,atom.io
-HOST-SUFFIX,dependabot.com
-HOST-SUFFIX,ghcr.io
-HOST-SUFFIX,git.io
-HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
-HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
-HOST-SUFFIX,github-cloud.s3.amazonaws.com
-HOST-SUFFIX,github.blog
-HOST-SUFFIX,github.com
-HOST-SUFFIX,github.community
-HOST-SUFFIX,github.dev
-HOST-SUFFIX,github.io
-HOST-SUFFIX,githubapp.com
-HOST-SUFFIX,githubassets.com
-HOST-SUFFIX,githubhackathon.com
-HOST-SUFFIX,githubpreview.dev
-HOST-SUFFIX,githubstatus.com
-HOST-SUFFIX,githubuniverse.com
-HOST-SUFFIX,githubusercontent.com
-HOST-SUFFIX,myoctocat.com
-HOST-SUFFIX,npm.community
-HOST-SUFFIX,npmjs.com
-HOST-SUFFIX,npmjs.org
-HOST-SUFFIX,rawgit.com
-HOST-SUFFIX,rawgithub.com
-HOST-SUFFIX,thegithubshop.com
 # > Facebook
 IP-CIDR,31.13.24.0/21
 IP-CIDR,31.13.64.0/18
