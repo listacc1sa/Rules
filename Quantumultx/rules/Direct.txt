@@ -152,6 +152,18 @@ HOST-SUFFIX,tik-tokapi.com
 HOST-SUFFIX,tiktok.com
 HOST-SUFFIX,tiktokcdn.com
 HOST-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
+DOMAIN,n.sni.global.fastly.net
+DOMAIN,dualstack.com.imgix.map.fastly.net
+DOMAIN,e1315.dsca.akamaiedge.net
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,sift.com
 # > OneDrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
