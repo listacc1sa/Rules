@@ -1,0 +1,76 @@
+# GPT AI (ChatGPT)
+HOST-SUFFIX,ai.com,GPT AI
+HOST-SUFFIX,api.revenuecat.com,GPT AI
+HOST-SUFFIX,browser-intake-datadoghq.com,GPT AI
+HOST-SUFFIX,chatgpt.com,GPT AI
+HOST-SUFFIX,chat.openai.com,GPT AI
+HOST-SUFFIX,auth0.openai.com,GPT AI
+HOST-SUFFIX,cdn.openai.com,GPT AI
+HOST-SUFFIX,oaistatic.com,GPT AI
+HOST-SUFFIX,oaiusercontent.com,GPT AI
+HOST-SUFFIX,openai.com,GPT AI
+HOST-SUFFIX,openaiapi-site.azureedge.net,GPT AI
+HOST-SUFFIX,openaicom.imgix.net,GPT AI
+HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net,GPT AI
+HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,GPT AI
+HOST-SUFFIX,ingest.sentry.io,GPT AI
+HOST-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net,GPT AI
+HOST-SUFFIX,client.crisp.chat,GPT AI
+HOST-SUFFIX,o33249.ingest.sentry.io,GPT AI
+# > ChatGPT
+DOMAIN-SUFFIX,chatgpt.com,GPT AI
+DOMAIN-SUFFIX,oaistatic.com,GPT AI
+DOMAIN-SUFFIX,oaiusercontent.com,GPT AI
+DOMAIN-SUFFIX,openai.com,GPT AI
+DOMAIN,api.statsig.com,GPT AI
+DOMAIN,api-iam.intercom.io,GPT AI
+DOMAIN,chatgpt.livekit.cloud,GPT AI
+DOMAIN,o33249.ingest.sentry.io,GPT AI
+DOMAIN,openaiapi-site.azureedge.net,GPT AI
+DOMAIN,sfo3.turn.livekit.cloud,GPT AI
+DOMAIN-KEYWORD,openaicom,GPT AI
+# Apple Intelligence
+DOMAIN-SUFFIX,smoot.apple.com,GPT AI
+DOMAIN,apple-relay.apple.com,GPT AI
+DOMAIN,apple-relay.cloudflare.com,GPT AI
+DOMAIN,apple-relay.fastly-edge.com,GPT AI
+DOMAIN,cp4.cloudflare.com,GPT AI
+DOMAIN,guzzoni.apple.com,GPT AI
+# Anthropic
+# > Claude
+DOMAIN-SUFFIX,claude.ai,GPT AI
+DOMAIN-SUFFIX,anthropic.com,GPT AI
+DOMAIN-SUFFIX,claudeusercontent.com,GPT AI
+# Google
+# > Gemini
+DOMAIN,ai.google.dev,GOOGLE
+DOMAIN,bard.google.com,GOOGLE
+DOMAIN,gemini.google.com,GOOGLE
+DOMAIN,generativelanguage.googleapis.com,GOOGLE
+# > AI Studio
+DOMAIN,aistudio.google.com,GOOGLE
+DOMAIN,alkalimakersuite-pa.clients6.google.com,GOOGLE
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai,DIRECT
+# MICROSOFT
+# > Copilot
+DOMAIN,copilot.microsoft.com,GOOGLE
+DOMAIN,sydney.bing.com,GOOGLE
+DOMAIN,www.bing.com,GOOGLE
+# Meta
+DOMAIN,imagine.meta.com,DIRECT
+# Bing
+HOST-SUFFIX,msxiaobing.com,MICROSOFT
+HOST-SUFFIX,bing.com,MICROSOFT
+HOST-SUFFIX,bing123.com,MICROSOFT
+HOST-SUFFIX,bing135.com,MICROSOFT
+HOST-SUFFIX,bing4.com,MICROSOFT
+HOST-SUFFIX,bing.com.bo,MICROSOFT
+HOST-SUFFIX,bing.com.co,MICROSOFT
+HOST-SUFFIX,bing.com.cy,MICROSOFT
+HOST-SUFFIX,bing.com.gt,MICROSOFT
+HOST-SUFFIX,bing.jp,MICROSOFT
+HOST-SUFFIX,bing.cn,MICROSOFT
+HOST-SUFFIX,bing.net,MICROSOFT
+HOST-SUFFIX,bingapis.com,MICROSOFT
+HOST-SUFFIX,bingforbusiness.com,MICROSOFT
