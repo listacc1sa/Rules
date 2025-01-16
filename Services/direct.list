@@ -1,3 +1,80 @@
+# Snapchat Chat
+DOMAIN-SUFFIX,chat-gateway-prod.chat.snapchat.com
+# Snapchat Website
+DOMAIN-SUFFIX,www.snapchat.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snap.com
+# Snapchat App
+DOMAIN-SUFFIX,feelinsonice-mvm.l.google.com
+DOMAIN-SUFFIX,feelinsonice-hrd.appspot.com
+DOMAIN-SUFFIX,app.snapchat.com
+DOMAIN-SUFFIX,mvm.snapchat.com
+# Snapchat Login
+DOMAIN-SUFFIX,pro-accounts.snapchat.com
+DOMAIN-SUFFIX,auth.snapchat.com
+# Snapkit
+DOMAIN-SUFFIX,api.snapkit.com
+# Other
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,gcs.sc-cdn.net
+DOMAIN-SUFFIX,jaguar-prod.snapchat.com
+DOMAIN-SUFFIX,st.sc-jpl.com
+DOMAIN-SUFFIX,gtq.sct.sc-prod.net
+DOMAIN-SUFFIX,gtq6.sct.sc-prod.net
+DOMAIN-SUFFIX,am-prod.sc-jpl.com
+DOMAIN-SUFFIX,s.sc-cdn.net
+DOMAIN-SUFFIX,cf-st.sc-cdn.net
+DOMAIN-SUFFIX,bolt-gcdn.sc-cdn.net
+DOMAIN-SUFFIX,gcp.api.snapchat.com
+DOMAIN-SUFFIX,us-east1-aws.api.snapchat.com
+DOMAIN-SUFFIX,us-east4-gcp.api.snapchat.com
+DOMAIN-SUFFIX,europe-west1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,images.bitmoji.com
+DOMAIN-SUFFIX,us-east1-aws.api.snapchat.com
+DOMAIN-SUFFIX,api.snapchat.com
+DOMAIN-SUFFIX,us-east1-aws.api.sc-gw.com
+DOMAIN-SUFFIX,snap-storage-cdn.l.google.com
+DOMAIN-SUFFIX,snap.events.mapbox.com
+DOMAIN-SUFFIX,ms.sc-jpl.com
+DOMAIN-SUFFIX,snap.api.mapbox.com
+DOMAIN-SUFFIX,st-lb.sc-jpl.com
+DOMAIN-SUFFIX,loc.sc-jpl.com
+DOMAIN-SUFFIX,cognac-prod.appspot.com
+DOMAIN-SUFFIX,scm.sc-jpl.com
+DOMAIN-SUFFIX,us-central1-gcp.api.sc-gw.com
+DOMAIN-SUFFIX,us-central1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+DOMAIN-SUFFIX,snapchat.appspot.com
+DOMAIN-SUFFIX,sc-analytics.appspot.com
+DOMAIN-SUFFIX,feelinsonice.appspot.com
+DOMAIN-SUFFIX,feelinsonice-hrd.appspot.com
+DOMAIN-SUFFIX,feelinsonice.com
+DOMAIN-SUFFIX,feelinsonice.appspot.com
+DOMAIN-SUFFIX,appspot.l.google.com
+DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,ase.adserver.snapads.com
+DOMAIN-SUFFIX,euw.adserver.snapads.com
+DOMAIN-SUFFIX,use.adserver.snapads.com
+DOMAIN-SUFFIX,usc.adserver.snapads.com
+DOMAIN-SUFFIX,app-analytics.snapchat.com
+DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
+DOMAIN-SUFFIX,app.snapchat.com
+DOMAIN-SUFFIX,aws.api.snapchat.com
+DOMAIN-SUFFIX,cf-st.sc-cdn.net
+DOMAIN-SUFFIX,chat-gateway-prod.chat.snapchat.com
+DOMAIN-SUFFIX,gtq.sct.sc-prod.ne
+DOMAIN-SUFFIX,tib.snssdk.com
+DOMAIN-SUFFIX,loca.sc-jpl.com
+DOMAIN-SUFFIX,mvm.snapchat.com
+DOMAIN-SUFFIX,us-central1-gcp.api.snapchat.com
+DOMAIN-SUFFIX,webattachments.snapchat.com
+DOMAIN-SUFFIX,d3cwhzzyyewihk.cloudfront.net
+DOMAIN-SUFFIX,aws.duplex.snapchat.com
+DOMAIN-SUFFIX,internal-api.snapkit.com
+DOMAIN-SUFFIX,eu-west1-aws.duplex.sc-gw.com
+DOMAIN-SUFFIX,snapchat-proxy.appspot.com
+DOMAIN-SUFFIX,tr.snapchat.com
+# sub.store 
 HOST-SUFFIX,vercel.app
 HOST-wildcard,vercel.app
 # TikTok
