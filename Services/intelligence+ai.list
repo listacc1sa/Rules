@@ -2,7 +2,10 @@
 # >> ChatGPT
 host-suffix,chatgpt.com
 host-suffix,chat.openai.com
-
+# Perplexity
+HOST-SUFFIX,perplexity.ai
+HOST-SUFFIX,pplx.ai
+HOST-SUFFIX,perplexity.com
 # >> OpenAI Challenge & SSO
 host-suffix,auth0.openai.com
 host,challenges.cloudflare.com
