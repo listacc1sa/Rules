@@ -1,3 +1,160 @@
+# > Tutanota
+host-suffix, tuta.com
+host-suffix, tutanota.com
+# Dropbox
+HOST-SUFFIX,dropbox.com
+HOST-SUFFIX,dropboxapi.com
+HOST-SUFFIX,dropboxusercontent.com
+HOST,imap-mail.outlook.com
+HOST,outlook.office365.com
+HOST,smtp.gmail.com
+HOST,smtp-mail.outlook.com
+HOST-SUFFIX,imap.yandex.com
+HOST,imap.gmail.com
+HOST-SUFFIX,smtp.yandex.com
+HOST,pop.gmail.com
+HOST-SUFFIX,m.hotmail.com
+HOST,apple.smtp.mail.yahoo.com
+HOST,smtp.office365.com
+HOST,apple.imap.mail.yahoo.com
+USER-AGENT,OneDrive*
+USER-AGENT,PayPal*
+USER-AGENT,TikTok*
+USER-AGENT,WhatsApp*
+USER-AGENT,com.apple.trustd*
+# Snapchat
+HOST-SUFFIX,addlive.io
+HOST-SUFFIX,feelinsonice.com
+HOST-SUFFIX,sc-cdn.net
+HOST-SUFFIX,sc-corp.net
+HOST-SUFFIX,sc-gw.com
+HOST-SUFFIX,sc-jpl.com
+HOST-SUFFIX,sc-prod.net
+HOST-SUFFIX,sc-static.net
+HOST-SUFFIX,snap-dev.net
+HOST-SUFFIX,snapads.com
+HOST-SUFFIX,snapchat.com
+HOST-SUFFIX,snapkit.com
+#[Ruleset ApplePushReject]
+HOST-WILDCARD,.push.apple.com
+HOST, identity.apple.com
+IP-CIDR, 17.249.0.0/16
+IP-CIDR, 17.252.0.0/16
+IP-CIDR, 17.57.144.0/22
+IP-CIDR, 17.188.128.0/18
+IP-CIDR, 17.188.20.0/23
+IP6-CIDR, 2620:149:a44::/48
+IP6-CIDR, 2403:300:a42::/48
+IP6-CIDR, 2403:300:a51::/48
+IP6-CIDR, 2a01:b740:a42::/48
+HOST-KEYWORD,gmail,Gmail
+HOST-SUFFIX,api-free.deepl.com
+HOST-SUFFIX,api.deepl.com
+# testflight 
+HOST,beta.apple.com
+HOST,testflight.apple.com
+HOST,acompli.net
+HOST,aspmx.l.google.com
+HOST,baydin.com
+HOST,g-ha-gmx.net
+HOST,gm1.ggpht.com
+HOST,gmail-smtp-in.l.google.com
+HOST,gmail.com
+HOST,gmx.com
+HOST,gmx.net
+HOST,googlemail.com
+HOST,googlemail.l.google.com
+HOST,hotmail.com
+HOST,hushmail.com
+HOST,imap-mail.outlook.com
+HOST,imap.aol.com
+HOST,inbox.google.com
+HOST,mail.bf2.yahoo.com
+HOST,mail.g03.yahoodns.net
+HOST,mail.google.com
+HOST,mail.gq1.yahoo.com
+HOST,mail.live.com
+HOST,mail.ne1.yahoo.com
+HOST,mail.yahoo.com
+HOST,mailws.icloud.com
+HOST,mailyahoo.com
+HOST,me.com
+HOST,mobile-mail.google.com
+HOST,olsvc.com
+HOST,outlook-1.cdn.office.net
+HOST,outlook.com
+HOST,outlook.com
+HOST,outlook.ha.office365.com
+HOST,outlook.live.com
+HOST,outlook.live.net
+HOST,outlook.office365.com
+HOST,outlookmobile.com
+HOST,ow1.res.office365.com
+HOST,ow2.res.office365.com
+HOST,p01-mailws.icloud.com
+host-suffix,imap.aol.com
+host-suffix,mail.am0.yahoodns.net
+host-suffix,mail.aol.com
+host-suffix,mail.bf2.yahoo.com
+host-suffix,mail.g03.yahoodns.net
+host-suffix,mail.global.gm0.yahoodns.net
+host-suffix,mail.gm0.yahoodns.net
+host-suffix,mail.gq1.yahoo.com
+host-suffix,mail.g.yahoo.co.jp
+host-suffix,mail.ne1.yahoo.com
+HOST,smtp.gmail.com
+HOST,smtp-mail.outlook.com
+HOST,smtp.mail.yahoo.com
+HOST,smtp.zoho.com
+HOST,smtp.aol.com
+HOST,smtp.protonmail.com
+HOST,smtp.mail.com
+HOST,smtp.yandex.com
+HOST,smtp.fastmail.com
+HOST,smtpout.secureserver.net 
+HOST,smtp.mail.me.com
+HOST,mail.gandi.net
+HOST,smtp.gmx.com
+HOST,smtp.office365.com
+HOST,smtp.mail.lycos.com
+HOST,smtp.dreamhost.com
+HOST,smtp.ionos.com
+HOST,smtp.emailsrvr.com
+HOST,smtp.hushmail.com
+HOST,imap.gmail.com
+HOST,imap-mail.outlook.com
+HOST,imap.mail.yahoo.com
+HOST,imap.zoho.com
+HOST,imap.aol.com
+HOST,imap.protonmail.com
+HOST,imap.mail.com
+HOST,imap.yandex.com
+HOST,imap.fastmail.com
+HOST,imap.secureserver.net
+HOST,imap.mail.me.com
+HOST,imap.gmx.com
+HOST,outlook.office365.com
+HOST,imap.mail.lycos.com
+HOST,imap.dreamhost.com
+HOST,imap.ionos.com
+HOST,imap.emailsrvr.com
+HOST,imap.hushmail.com
+host-suffix,mail.vip.bf1.yahoo.com
+host-suffix,mail.vip.gq1.yahoo.com
+host-suffix,mail.vip.ne1.yahoo.com
+host-suffix,mail.yahoo.co.jp
+host-suffix,mail.yahoo.com
+host-suffix,mailyahoo.com
+host-suffix,mail.yahoo.com.au
+host-suffix,mail.yahoo.com.tw
+host-suffix,mail.yahoo.co.uk
+host-suffix,pop.att.yahoo.com
+host-suffix,postmaster.yahooinc.com
+host-suffix,yahoomail.com
+host-suffix,yahoomail.co.nz
+host-suffix,ymail.com
+# > Deepl
+host-suffix, deepl.com
 # Snapchat Chat
 DOMAIN-SUFFIX,chat-gateway-prod.chat.snapchat.com
 # Snapchat Website
