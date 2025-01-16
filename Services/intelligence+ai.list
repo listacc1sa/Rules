@@ -134,7 +134,82 @@ HOST-SUFFIX,heypi.com
 HOST-SUFFIX,pi.ai
 HOST-SUFFIX,opera-api.com
 HOST-SUFFIX,acemc.co
-HOST-SUFFIX,webpubsub.azure.com
+# GPT AI (ChatGPT)
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,api.revenuecat.com
+HOST-SUFFIX,browser-intake-datadoghq.com
+HOST-SUFFIX,chatgpt.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,cdn.openai.com
+HOST-SUFFIX,oaistatic.com
+HOST-SUFFIX,oaiusercontent.com
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,openaiapi-site.azureedge.net
+HOST-SUFFIX,openaicom.imgix.net
+HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+HOST-SUFFIX,ingest.sentry.io
+HOST-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net
+HOST-SUFFIX,client.crisp.chat
+HOST-SUFFIX,o33249.ingest.sentry.io
+# > ChatGPT
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaicom
+# Apple Intelligence
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,guzzoni.apple.com
+# Anthropic
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+# Google
+# > Gemini
+DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+# > AI Studio
+DOMAIN,aistudio.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
+# MICROSOFT
+# > Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# Meta
+DOMAIN,imagine.meta.com
+# Bing
+HOST-SUFFIX,msxiaobing.com
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,bing123.com
+HOST-SUFFIX,bing135.com
+HOST-SUFFIX,bing4.com
+HOST-SUFFIX,bing.com.bo
+HOST-SUFFIX,bing.com.co
+HOST-SUFFIX,bing.com.cy
+HOST-SUFFIX,bing.com.gt
+HOST-SUFFIX,bing.jp
+HOST-SUFFIX,bing.cn
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,bingapis.com
+HOST-SUFFIX,bingforbusiness.com
 HOST-SUFFIX,lmarena.ai
 HOST-SUFFIX,lmsys.org
 HOST-SUFFIX,maze.co
