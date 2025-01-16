@@ -1,0 +1,79 @@
+# > Cloudflare
+# >> Main Domain
+host-suffix,cloudflare.com,Cloudflare
+host-suffix,cloudflare.net,Cloudflare
+host-suffix,cloudflare.tv,Cloudflare
+host-suffix,cloudflare-quic.com,Cloudflare
+host-suffix,cloudflareaccess.com,Cloudflare
+host-suffix,cloudflareapps.com,Cloudflare
+host-suffix,cloudflarebolt.com,Cloudflare
+host-suffix,cloudflareclient.com,Cloudflare
+host-suffix,cloudflareinsights.com,Cloudflare
+host-suffix,cloudflareok.com,Cloudflare
+host-suffix,cloudflarepreview.com,Cloudflare
+host-suffix,cloudflareresolve.com,Cloudflare
+host-suffix,cloudflaressl.com,Cloudflare
+host-suffix,cloudflarestatus.com,Cloudflare
+host-suffix,cloudflarestorage.com,Cloudflare
+host-suffix,cloudflarestream.com,Cloudflare
+host-suffix,cloudflaretest.com,Cloudflare
+host-suffix,pacloudflare.com,Cloudflare
+host-suffix,trycloudflare.com,Cloudflare
+host-suffix,videodelivery.net,Cloudflare
+
+# >> DNS & WARP
+host-suffix,warp.plus,Cloudflare
+host-suffix,cloudflarewarp.com,Cloudflare
+host-suffix,cloudflare-dns.com,Cloudflare
+host-suffix,one.one.one,Cloudflare
+host-suffix,every1dns.net,Cloudflare
+
+# >> Pages
+host-suffix,pages.dev,Cloudflare
+
+# >> Workers
+host-suffix,workers.dev,Cloudflare
+
+# >> IPFS
+host-suffix,cf-ipfs.com,Cloudflare
+host-suffix,cloudflare-ipfs.com,Cloudflare
+
+# >> CN Part
+host-suffix,cf-ns.com,Cloudflare
+host-suffix,cf-ns.net,Cloudflare
+host-suffix,cf-ns.site,Cloudflare
+host-suffix,cf-ns.tech,Cloudflare
+host-suffix,cftest5.cn,Cloudflare
+host-suffix,cftest6.cn,Cloudflare
+host-suffix,cftest7.com,Cloudflare
+host-suffix,cftest8.com,Cloudflare
+host-suffix,cloudflare-cn.com,Cloudflare
+host-suffix,cloudflarecn.net,Cloudflare
+host-suffix,cloudflareinsights-cn.com,Cloudflare
+host-suffix,cloudflareprod.com,Cloudflare
+host-suffix,cloudflarestaging.com,Cloudflare
+host-suffix,cloudflarestoragegw.com,Cloudflare
+
+# >> Cloudflare IP-CIDR
+ip-cidr,103.21.244.0/22,Cloudflare
+ip-cidr,103.22.200.0/22,Cloudflare
+ip-cidr,103.31.4.0/22,Cloudflare
+ip-cidr,104.16.0.0/13,Cloudflare
+ip-cidr,104.24.0.0/14,Cloudflare
+ip-cidr,108.162.192.0/18,Cloudflare
+ip-cidr,131.0.72.0/22,Cloudflare
+ip-cidr,141.101.64.0/18,Cloudflare
+ip-cidr,162.158.0.0/15,Cloudflare
+ip-cidr,172.64.0.0/13,Cloudflare
+ip-cidr,173.245.48.0/20,Cloudflare
+ip-cidr,188.114.96.0/20,Cloudflare
+ip-cidr,190.93.240.0/20,Cloudflare
+ip-cidr,197.234.240.0/22,Cloudflare
+ip-cidr,198.41.128.0/17,Cloudflare
+ip6-cidr,2400:cb00::/32,Cloudflare
+ip6-cidr,2606:4700::/32,Cloudflare
+ip6-cidr,2803:f800::/32,Cloudflare
+ip6-cidr,2405:b500::/32,Cloudflare
+ip6-cidr,2405:8100::/32,Cloudflare
+ip6-cidr,2a06:98c0::/29,Cloudflare
+ip6-cidr,2c0f:f248::/32,Cloudflare
