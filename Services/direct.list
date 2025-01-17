@@ -305,36 +305,7 @@ IP-CIDR,199.96.56.0/21,Twitter
 IP-CIDR,202.160.128.0/22,Twitter
 IP-CIDR,209.237.192.0/19,Twitter
 IP-CIDR,69.195.160.0/19,Twitter
-# ,GitHub: 30
-HOST-SUFFIX,atom.io
-HOST-SUFFIX,dependabot.com
-HOST-SUFFIX,ghcr.io
-HOST-SUFFIX,git.io
-HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
-HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
-HOST-SUFFIX,github-cloud.s3.amazonaws.com
-HOST-SUFFIX,github.blog
-HOST-SUFFIX,github.com
-HOST-SUFFIX,github.community
-HOST-SUFFIX,github.dev
-HOST-SUFFIX,github.io
-HOST-SUFFIX,githubapp.com
-HOST-SUFFIX,githubassets.com
-HOST-SUFFIX,githubhackathon.com
-HOST-SUFFIX,githubnext.com
-HOST-SUFFIX,githubpreview.dev
-HOST-SUFFIX,githubstatus.com
-HOST-SUFFIX,githubuniverse.com
-HOST-SUFFIX,githubusercontent.com
-HOST-SUFFIX,myoctocat.com
-HOST-SUFFIX,npm.community
-HOST-SUFFIX,npmjs.com
-HOST-SUFFIX,npmjs.org
-HOST-SUFFIX,opensource.guide
-HOST-SUFFIX,rawgit.com
-HOST-SUFFIX,rawgithub.com
-HOST-SUFFIX,repo.new
-HOST-SUFFIX,thegithubshop.com
+
 # Letter box
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,mail.infomaniak.com
@@ -358,39 +329,3 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
-
-# >> Github Main
-host-keyword,github,Github
-host-suffix,github.blog,Github
-host-suffix,github.com,Github
-host-suffix,github.community,Github
-host-suffix,githubstatus.com,Github
-host-suffix,githubuniverse.com,Github
-
-# >> Github Assets
-host-suffix,githubusercontent.com,Github
-host-suffix,githubassets.com,Github
-
-# >> Github Features
-host-suffix,dependabot.com,Github
-host-suffix,atom.io,Github
-host-suffix,ghcr.io,Github
-host-suffix,git.io,Github
-host-suffix,github.io,Github
-host-suffix,github.dev,Github
-host-suffix,githubapp.com,Github
-host-suffix,githubpreview.dev,Github
-
-# >> Github CDN
-host-suffix,github-atom-io-herokuapp-com.freetls.fastly.net,Github
-host-suffix,github-avatars.oss-cn-hongkong.aliyuncs.com,Github
-host-suffix,github-cloud.s3.amazonaws.com,Github
-
-# >> Github Other
-host-suffix,thegithubshop.com,Github
-host-suffix,githubuniverse.com,Github
-host-suffix,githubnext.com,Github
-host-suffix,githubhackathon.com,Github
-host-suffix,myoctocat.com,Github
-host-suffix,opensource.guide,Github
-host-suffix,repo.new,Github
