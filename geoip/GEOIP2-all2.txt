@@ -1,0 +1,371 @@
+# Google Voice 相关域名
+HOST,voice.telephony.goog,PROXY
+HOST,lens.l.google.com,PROXY
+HOST,sub-store.vercel.app,DIRECT
+HOST-SUFFIX,voice.google.com,PROXY
+HOST-SUFFIX,challenges.cloudflare.com,Cloudflare
+HOST-KEYWORD,www.google.,GOOGLE 
+HOST-KEYWORD,github,Cloudflare
+HOST-SUFFIX,-github.com,Cloudflare
+HOST-WILDCARD,-github.com,Cloudflare
+# > geoip countries
+geoip,PRIVATE,Cloudflare
+geoip,n/a,Cloudflare
+host-wildcard, *.sa,DIRECT 
+host-wildcard, *.cn, DIRECT 
+GEOIP,twitter,DIRECT 
+GEOIP,FACEBOOK,DIRECT 
+GEOIP,cloudflare,Cloudflare
+geoip,telegram,DIRECT 
+GEOIP,FACEBOOK,DIRECT 
+HOST-SUFFIX,m.inftab.com,DIRECT 
+HOST-WILDCARD,m.inftab.com,DIRECT 
+#⬇️ specify region
+IP-ASN,53667,Cloudflare
+IP-ASN,21859,DIRECT //🇨🇳inftab
+
+
+
+# GEOIP SITE
+#IP-ASN,209242,Cloudflare //🌥️Cloudflare
+#IP-ASN,62014,DIRECT  // 🚀TELEGRAM
+#IP-ASN,62041,DIRECT // 🌎TELEGRAM
+#IP-ASN,44907,DIRECT // 🌎TELEGRAM
+#IP-ASN,59930,DIRECT // 🌎TELEGRAM
+#IP-ASN,211157,DIRECT // 🌎TELEGRAM
+#IP-ASN,43766,DIRECT // 🇸🇦 saudi Arabia
+#IP-ASN,204957,DIRECT //🇸🇦 saudi Arabia 
+#IP-ASN,45102,IP-ASN // 🇺🇸Alibaba (US)
+#IP-ASN,134963,PROXY //🇺🇸Alibaba-Singapore
+#IP-ASN,6185,DIRECT // 🇺🇸 APPLE-AUSTIN
+#IP-ASN,199524,DIRECT // 🇺🇸OPEN AI
+#IP-ASN,1239,DIRECT // 🇸🇦archive
+#IP-ASN,714,DIRECT //🇺🇸Apple Inc.
+#IP-ASN,2914,DIRECT //🇺🇸NTT America, Inc
+#IP-ASN,3462,DIRECT //🇼🇸Data Communication 
+#IP-ASN,4230,DIRECT //🇧🇷CLARO S.A.
+#IP-ASN,8068,MICROSOFT //🇺🇸Microsoft 
+#IP-ASN,8075,MICROSOFT //🇺🇸Microsoft 
+#IP-ASN,9009,IP-ASN //🇷🇴M247 Europe
+#IP-ASN,13333,Cloudflare //🇺🇸Consolidated 
+#IP-ASN,13335,Cloudflare //🌥️Cloudflare
+#IP-ASN,13414,DIRECT //🇺🇸Twitter Inc.
+#IP-ASN,63179,DIRECT //🇺🇸Twitter Inc.
+#IP-ASN,35995,DIRECT //🇺🇸Twitter Inc.
+#IP-ASN,63194,DIRECT //🇺🇸Twitter Inc.
+#IP-ASN,14061,IP-ASN //🇺🇸DigitalOcean
+#IP-ASN,14618,AMAZON //🇺🇸Amazon.com, Inc.
+#IP-ASN,15133,IP-ASN //🇺🇸EdgeCast  Inc.
+#IP-ASN,15169,IP-ASN //🇺🇸Google LLC
+#IP-ASN,16509,IP-ASN //🇺🇸Amazon.com, Inc.
+#IP-ASN,16625,IP-ASN //🇺🇸Akamai , Inc.
+#IP-ASN,19679,DIRECT //🇺🇸Dropbox, Inc.
+#IP-ASN,20940,IP-ASN //🇳🇱Akamai  B.V.
+#IP-ASN,24940,IP-ASN //🇩🇪Hetzner Online 
+#IP-ASN,29423,IP-ASN //🇩🇪gridscale GmbH
+#IP-ASN,32934,DIRECT //🇺🇸whatsapp, Inc.
+#IP-ASN,32934,DIRECT //🇺🇸whatsapp, Inc.
+#IP-ASN,11917,DIRECT //🇺🇸whatsapp, Inc.
+#IP-ASN,54115,DIRECT //🇺🇸whatsapp, Inc.
+#IP-ASN,63293,DIRECT //🇺🇸whatsapp, Inc.
+#IP-ASN,36351,DIRECT //🇺🇸SoftLayer  Inc.
+#IP-ASN,40065,DIRECT //🇺🇸CNSERVERS LLC
+#IP-ASN,48447,DIRECT //🇬🇧Sectigo Limited
+#IP-ASN,54113,DIRECT //🇺🇸Fastly, Inc.
+#IP-ASN,54600,DNS //🇺🇸PEG TECH INC
+#IP-ASN,54994,IP-ASN //🇺🇸QUANTIL  INC
+#IP-ASN,58722,DIRECT //🇸🇬51 JALAN LANJUT
+#IP-ASN,59507,DIRECT //🇩🇪terralink  GmbH
+#IP-ASN,60068,DIRECT //🇬🇧Datacamp Limited
+#IP-ASN,63949,IP-ASN//🇸🇬Akamai  Cloud
+#IP-ASN,64050,DIRECT //🇸🇬BGPNET Global ASN
+#IP-ASN,136907,DIRECT //🇭🇰HUAWEI CLOUDS
+#IP-ASN,142403,DIRECT //🇭🇰YISU CLOUD LTD
+#IP-ASN,197019,DIRECT //🇨🇿WEDOS Internet
+#IP-ASN,200019,DIRECT //🇲🇩ALEXHOST SRL#
+#IP-ASN,396982,GOOGLE //🇺🇸Google LLC
+#IP-ASN,35819,DIRECT //🇸🇦Etihad Etisalat 
+#IP-ASN,20473,GPT AI // 🇺🇸OPEN AI
+#IP-ASN,2635,IP-ASN // 🇺🇸AUTOMÁTICA
+#IP-ASN,63018,DIRECT // reddit🚀
+#IP-ASN,20278,PROXY //🇺🇸Nexeon
+#IP-ASN,60068,PROXY //🇺🇸Datacamp Limited
+#IP-ASN,212238,PROXY //🇺🇸Datacamp Limited
+#IP-ASN,51852,PROXY //🇺🇸Private Layer INC
+#IP-ASN,50304,PROXY //🇺🇸Blix Solutions
+#IP-ASN,4785,PROXY //🇺🇸xTom
+#IP-ASN,6233,PROXY //🇺🇸xTom
+#IP-ASN,9312,PROXY //🇺🇸xTom
+#IP-ASN,199524,PROXY //🇺🇸G-Core Labs S.A.
+#IP-ASN,205119,PROXY //🇺🇸TELEKS DOOEL
+#IP-ASN,46562,PROXY//🇺🇸Performive LLC
+#IP-ASN,8100,PROXY //🇺🇸QuadraNet  LLC
+#IP-ASN,7185,PROXY//🇺🇸QuadraNet  Services
+#IP-ASN,13213,PROXY //🇺🇸UK-2 Limited
+#IP-ASN,46844,PROXY //🇺🇸Sharktech
+#IP-ASN,14197,Cloudflare //🇺🇸STRIPE 
+#IP-ASN,36459,DIRECT //🇺🇸 GITHUB 
+#IP-ASN,139879,DIRECT //🇨🇳INFINITE TAP
+#IP-ASN,62371,PROXY //🇺🇸protonAG
+#IP-ASN,834,IP-ASN // 🇺🇸IPXO.COM
+#IP-ASN,212772,IP-ASN // 🇺🇸ADGUARD VPN
+#IP-ASN,906,YouTube PREMIUM // 🇺🇸YOUTUBE
+#IP-ASN,13768,GOOGLE  //🇺🇸Google LLC
+#IP-ASN,53334,IP-ASN
+#IP-ASN,31898,IP-ASN
+#IP-ASN,37963,DIRECT
+
+
+GEOIP,US,DNS       // 🇺🇸 United States
+GEOIP,BR,IP-ASN    // 🇧🇷 Brazil
+GEOIP,CN,IP-ASN    // 🇨🇳 China
+GEOIP,RU,IP-ASN    // 🇷🇺 Russia
+GEOIP,IN,IP-ASN    // 🇮🇳 India
+GEOIP,GB,IP-ASN    // 🇬🇧 United Kingdom
+GEOIP,DE,IP-ASN    // 🇩🇪 Germany
+GEOIP,ID,IP-ASN    // 🇮🇩 Indonesia
+GEOIP,AU,IP-ASN    // 🇦🇺 Australia
+GEOIP,PL,IP-ASN    // 🇵🇱 Poland
+GEOIP,CA,IP-ASN    // 🇨🇦 Canada
+GEOIP,UA,IP-ASN    // 🇺🇦 Ukraine
+GEOIP,FR,DNS       // 🇫🇷 France
+GEOIP,BD,IP-ASN    // 🇧🇩 Bangladesh
+GEOIP,NL,IP-ASN    // 🇳🇱 Netherlands
+GEOIP,IT,IP-ASN    // 🇮🇹 Italy
+GEOIP,RO,IP-ASN    // 🇷🇴 Romania
+GEOIP,HK,DIRECT    // 🇭🇰 Hong Kong
+GEOIP,ES,IP-ASN    // 🇪🇸 Spain
+GEOIP,AR,IP-ASN    // 🇦🇷 Argentina
+GEOIP,JP,IP-ASN    // 🇯🇵 Japan
+GEOIP,KR,IP-ASN    // 🇰🇷 Korea, 
+GEOIP,CH,IP-ASN    // 🇨🇭 Switzerland
+GEOIP,TR,IP-ASN    // 🇹🇷 Turkey
+GEOIP,SE,IP-ASN    // 🇸🇪 Sweden
+GEOIP,ZA,IP-ASN    // 🇿🇦 South Africa
+GEOIP,BG,IP-ASN    // 🇧🇬 Bulgaria
+GEOIP,IR,IP-ASN    // 🇮🇷 Iran
+GEOIP,AT,IP-ASN    // 🇦🇹 Austria
+GEOIP,VN,IP-ASN    // 🇻🇳 Vietnam
+GEOIP,NZ,IP-ASN    // 🇳🇿 New Zealand
+GEOIP,CZ,IP-ASN    // 🇨🇿 Czech 
+GEOIP,SG,IP-ASN    // 🇸🇬 Singapore
+GEOIP,MX,DNS       // 🇲🇽 Mexico
+GEOIP,TH,IP-ASN    // 🇹🇭 Thailand
+GEOIP,PH,IP-ASN    // 🇵🇭 Philippines
+GEOIP,DK,IP-ASN    // 🇩🇰 Denmark
+GEOIP,TW,DIRECT    // 🇨🇳 Taiwan, China
+GEOIP,CO,IP-ASN    // 🇨🇴 Colombia
+GEOIP,BE,IP-ASN    // 🇧🇪 Belgium
+GEOIP,CL,IP-ASN    // 🇨🇱 Chile
+GEOIP,NO,IP-ASN    // 🇳🇴 Norway
+GEOIP,FI,IP-ASN    // 🇫🇮 Finland
+GEOIP,IL,IP-ASN    // 🇮🇱 Israel
+GEOIP,MY,IP-ASN    // 🇲🇾 Malaysia
+GEOIP,PK,IP-ASN    // 🇵🇰 Pakistan
+GEOIP,LV,IP-ASN    // 🇱🇻 Latvia
+GEOIP,HU,IP-ASN    // 🇭🇺 Hungary
+GEOIP,IE,IP-ASN    // 🇮🇪 Ireland
+GEOIP,NG,IP-ASN    // 🇳🇬 Nigeria
+GEOIP,SI,IP-ASN    // 🇸🇮 Slovenia
+GEOIP,GR,IP-ASN    // 🇬🇷 Greece
+GEOIP,EC,IP-ASN    // 🇪🇨 Ecuador
+GEOIP,SK,IP-ASN    // 🇸🇰 Slovakia
+GEOIP,KE,IP-ASN    // 🇰🇪 Kenya
+GEOIP,LT,IP-ASN    // 🇱🇹 Lithuania
+GEOIP,IQ,IP-ASN    // 🇮🇶 Iraq
+GEOIP,EE,IP-ASN    // 🇪🇪 Estonia
+GEOIP,MD,IP-ASN    // 🇲🇩 Moldova, 
+GEOIP,RS,IP-ASN    // 🇷🇸 Serbia
+GEOIP,VE,IP-ASN    // 🇻🇪 Venezuela,   
+GEOIP,KZ,IP-ASN    // 🇰🇿 Kazakhstan
+GEOIP,NP,IP-ASN    // 🇳🇵 Nepal
+GEOIP,SA,DIRECT    // 🇸🇦 Saudi Arabia
+GEOIP,LB,IP-ASN    // 🇱🇧 Lebanon
+GEOIP,PE,IP-ASN    // 🇵🇪 Peru
+GEOIP,HR,IP-ASN    // 🇭🇷 Croatia
+GEOIP,CY,IP-ASN    // 🇨🇾 Cyprus
+GEOIP,PA,IP-ASN    // 🇵🇦 Panama
+GEOIP,MM,IP-ASN    // 🇲🇲 Myanmar
+GEOIP,GE,IP-ASN    // 🇬🇪 Georgia
+GEOIP,PT,IP-ASN    // 🇵🇹 Portugal
+GEOIP,KH,IP-ASN    // 🇰🇭 Cambodia
+GEOIP,DO,IP-ASN    // 🇩🇴 Dominican 
+GEOIP,AE,DIRECT    // 🇦🇪 UAE
+GEOIP,BY,IP-ASN    // 🇧🇾 Belarus
+GEOIP,LU,IP-ASN    // 🇱🇺 Luxembourg
+GEOIP,AM,IP-ASN    // 🇦🇲 Armenia
+GEOIP,GH,IP-ASN    // 🇬🇭 Ghana
+GEOIP,AL,IP-ASN    // 🇦🇱 Albania
+GEOIP,TZ,IP-ASN    // 🇹🇿 Tanzania, United  
+GEOIP,CR,IP-ASN    // 🇨🇷 Costa Rica
+GEOIP,EG,IP-ASN    // 🇪🇬 Egypt
+GEOIP,HN,IP-ASN    // 🇭🇳 Honduras
+GEOIP,PR,IP-ASN    // 🇵🇷 Puerto Rico
+GEOIP,UZ,IP-ASN    // 🇺🇿 Uzbekistan
+GEOIP,PY,IP-ASN    // 🇵🇾 Paraguay
+GEOIP,SC,IP-ASN    // 🇸🇨 Seychelles
+GEOIP,IS,IP-ASN    // 🇮🇸 Iceland
+GEOIP,AZ,IP-ASN    // 🇦🇿 Azerbaijan
+GEOIP,KW,DIRECT    // 🇰🇼 Kuwait
+GEOIP,GT,IP-ASN    // 🇬🇹 Guatemala
+GEOIP,AO,IP-ASN    // 🇦🇴 Angola
+GEOIP,MN,IP-ASN    // 🇲🇳 Mongolia
+GEOIP,AF,IP-ASN    // 🇦🇫 Afghanistan
+GEOIP,PS,IP-ASN    // 🇵🇸 Palestine
+GEOIP,UG,IP-ASN    // 🇺🇬 Uganda
+GEOIP,KG,IP-ASN    // 🇰🇬 Kyrgyzstan
+GEOIP,BO,IP-ASN    // 🇧🇴 Bolivia
+GEOIP,MK,IP-ASN    // 🇲🇰 Macedoni
+GEOIP,MU,IP-ASN    // 🇲🇺 Mauritius
+GEOIP,MT,IP-ASN    // 🇲🇹 Malta
+GEOIP,BA,IP-ASN    // 🇧🇦 Bosnia and 
+GEOIP,CD,IP-ASN    // 🇨🇩 Congo, The 
+GEOIP,JO,IP-ASN    // 🇯🇴 Jordan
+GEOIP,SV,IP-ASN    // 🇸🇻 El Salvador
+GEOIP,BZ,IP-ASN    // 🇧🇿 Belize
+GEOIP,VG,IP-ASN    // 🇻🇬 Virgin Islands
+GEOIP,UY,IP-ASN    // 🇺🇾 Uruguay
+GEOIP,ZW,IP-ASN    // 🇿🇼 Zimbabwe
+GEOIP,LA,IP-ASN    // 🇱🇦 Lao PeopleGEOIP
+GEOIP,PG,IP-ASN    // 🇵🇬 Papua New Guinea
+GEOIP,CW,IP-ASN    // 🇨🇼 Curaçao
+GEOIP,MZ,IP-ASN    // 🇲🇿 Mozambique
+GEOIP,CM,IP-ASN    // 🇨🇲 Cameroon
+GEOIP,BW,IP-ASN    // 🇧🇼 Botswana
+GEOIP,RW,IP-ASN    // 🇷🇼 Rwanda
+GEOIP,NI,IP-ASN    // 🇳🇮 Nicaragua
+GEOIP,BT,IP-ASN    // 🇧🇹 Bhutan
+GEOIP,GI,IP-ASN    // 🇬🇮 Gibraltar
+GEOIP,TN,IP-ASN    // 🇹🇳 Tunisia
+GEOIP,MW,IP-ASN    // 🇲🇼 Malawi
+GEOIP,LY,IP-ASN    // 🇱🇾 Libya
+GEOIP,CI,IP-ASN    // 🇨🇮 Côte,Ivoire
+GEOIP,BF,IP-ASN    // 🇧🇫 Burkina Faso
+GEOIP,ZM,IP-ASN    // 🇿🇲 Zambia
+GEOIP,TJ,IP-ASN    // 🇹🇯 Tajikistan
+GEOIP,BH,DIRECT    // 🇧🇭 Bahrain
+GEOIP,LK,IP-ASN    // 🇱🇰 Sri Lanka
+GEOIP,ME,IP-ASN    // 🇲🇪 Montenegro
+GEOIP,MA,IP-ASN    // 🇲🇦 Morocco
+GEOIP,LI,IP-ASN    // 🇱🇮 Liechtenstein
+GEOIP,IM,IP-ASN    // 🇮🇲 Isle of Man
+GEOIP,SS,IP-ASN    // 🇸🇸 South Sudan
+GEOIP,SL,IP-ASN    // 🇸🇱 Sierra Leone
+GEOIP,SO,IP-ASN    // 🇸🇴 Somalia
+GEOIP,BM,IP-ASN    // 🇧🇲 Bermuda
+GEOIP,BJ,IP-ASN    // 🇧🇯 Benin
+GEOIP,QA,IP-ASN    // 🇶🇦 Qatar
+GEOIP,OM,IP-ASN    // 🇴🇲 Oman
+GEOIP,FJ,IP-ASN    // 🇫🇯 Fiji
+GEOIP,TD,IP-ASN    // 🇹🇩 Chad
+GEOIP,NC,IP-ASN    // 🇳🇨 New Caledonia
+GEOIP,NA,IP-ASN    // 🇳🇦 Namibia
+GEOIP,GN,IP-ASN    // 🇬🇳 Guinea
+GEOIP,GA,IP-ASN    // 🇬🇦 Gabon
+GEOIP,DZ,IP-ASN    // 🇩🇿 Algeria
+GEOIP,CG,IP-ASN    // 🇨🇬 Congo
+GEOIP,MV,IP-ASN    // 🇲🇻 Maldives
+GEOIP,SN,IP-ASN    // 🇸🇳 Senegal
+GEOIP,LR,IP-ASN    // 🇱🇷 Liberia
+GEOIP,TT,IP-ASN    // 🇹🇹 Trinidad  
+GEOIP,SZ,IP-ASN    // 🇸🇿 Swaziland
+GEOIP,MO,IP-ASN    // 🇲🇴 Macao, China
+GEOIP,HT,IP-ASN    // 🇭🇹 Haiti
+GEOIP,AG,IP-ASN    // 🇦🇬 Antigua 
+GEOIP,VU,IP-ASN    // 🇻🇺 Vanuatu
+GEOIP,SD,IP-ASN    // 🇸🇩 Sudan
+GEOIP,JM,IP-ASN    // 🇯🇲 Jamaica
+GEOIP,BS,IP-ASN    // 🇧🇸 Bahamas
+GEOIP,VI,IP-ASN    // 🇻🇮 Virgin U.S
+GEOIP,TL,IP-ASN    // 🇹🇱 Timor-Leste
+GEOIP,MG,IP-ASN    // 🇲🇬 Madagascar
+GEOIP,KY,IP-ASN    // 🇰🇾 Cayman Islands
+GEOIP,JE,IP-ASN    // 🇯🇪 Jersey
+GEOIP,GM,IP-ASN    // 🇬🇲 Gambia
+GEOIP,SM,IP-ASN    // 🇸🇲 San Marino
+GEOIP,SB,IP-ASN    // 🇸🇧 Solomon Islands
+GEOIP,BI,IP-ASN    // 🇧🇮 Burundi
+GEOIP,WS,IP-ASN    // 🇼🇸 Samoa
+GEOIP,ML,IP-ASN    // 🇲🇱 Mali
+GEOIP,LS,IP-ASN    // 🇱🇸 Lesotho
+GEOIP,GG,IP-ASN    // 🇬🇬 Guernsey
+GEOIP,CV,IP-ASN    // 🇨🇻 Cape Verde
+GEOIP,TG,IP-ASN    // 🇹🇬 Togo
+GEOIP,RE,IP-ASN    // 🇷🇪 Réunion
+GEOIP,NE,IP-ASN    // 🇳🇪 Niger
+GEOIP,GU,IP-ASN    // 🇬🇺 Guam
+GEOIP,GD,IP-ASN    // 🇬🇩 Grenada
+GEOIP,BN,IP-ASN    // 🇧🇳 Brunei 
+GEOIP,BB,IP-ASN    // 🇧🇧 Barbados
+GEOIP,MR,IP-ASN    // 🇲🇷 Mauritania
+GEOIP,KN,IP-ASN    // 🇰🇳 Saint Kitts and 
+GEOIP,GP,IP-ASN    // 🇬🇵 Guadeloupe
+GEOIP,FO,IP-ASN    // 🇫🇴 Faroe Islands
+GEOIP,SR,IP-ASN    // 🇸🇷 Suriname
+GEOIP,GQ,IP-ASN    // 🇬🇶 Equatorial 
+GEOIP,ET,IP-ASN    // 🇪🇹 Ethiopia
+GEOIP,DM,IP-ASN    // 🇩🇲 Dominica
+GEOIP,TM,IP-ASN    // 🇹🇲 Turkmenistan
+GEOIP,MF,IP-ASN    // 🇲🇫  Martin 
+GEOIP,LC,IP-ASN    // 🇱🇨 Saint Lucia
+GEOIP,GY,IP-ASN    // 🇬🇾 Guyana
+GEOIP,GF,IP-ASN    // 🇬🇫 French Guiana
+GEOIP,CU,IP-ASN    // 🇨🇺 Cuba
+GEOIP,YE,IP-ASN    // 🇾🇪 Yemen
+GEOIP,PF,IP-ASN    // 🇵🇫 French Polynesia
+GEOIP,MQ,IP-ASN    // 🇲🇶 Martinique
+GEOIP,MH,IP-ASN    // 🇲🇭 Marshall Islands
+GEOIP,FM,IP-ASN    // 🇫🇲 Micronesia,
+GEOIP,DJ,IP-ASN    // 🇩🇯 Djibouti
+GEOIP,BQ,IP-ASN    // 🇧🇶 Bonaire
+GEOIP,TO,IP-ASN    // 🇹🇴 Tonga
+GEOIP,SY,IP-ASN    // 🇸🇾 Syrian Arab 
+GEOIP,AW,IP-ASN    // 🇦🇼 Aruba
+GEOIP,AI,IP-ASN    // 🇦🇮 Anguilla
+GEOIP,VC,IP-ASN    // 🇻🇨 Saint Vincent 
+GEOIP,SX,IP-ASN    // 🇸🇽 Sint Maarten
+GEOIP,PW,IP-ASN    // 🇵🇼 Palau
+GEOIP,NR,IP-ASN    // 🇳🇷 Nauru
+GEOIP,KI,IP-ASN    // 🇰🇮 Kiribati
+GEOIP,CF,IP-ASN    // 🇨🇫 Central African 
+GEOIP,BL,IP-ASN    // 🇧🇱 Saint Barthélemy
+GEOIP,VA,IP-ASN    // 🇻🇦 Holy See
+GEOIP,TV,IP-ASN    // 🇹🇻 Tuvalu
+GEOIP,TK,IP-ASN    // 🇹🇰 Tokelau
+GEOIP,MC,IP-ASN    // 🇲🇨 Monaco
+GEOIP,CK,IP-ASN    // 🇨🇰 Cook Islands
+GEOIP,AS,IP-ASN    // 🇦🇸 American Samoa
+GEOIP,AD,IP-ASN    // 🇦🇩 Andorra
+GEOIP,TC,IP-ASN    // 🇹🇨 Turks
+GEOIP,ST,IP-ASN    // 🇸🇹 Sao Tome and 
+GEOIP,NF,IP-ASN    // 🇳🇫 Norfolk Island
+GEOIP,MP,IP-ASN    // 🇲🇵 Northern Mariana 
+GEOIP,KM,IP-ASN    // 🇰🇲 Comoros
+GEOIP,GW,IP-ASN    // 🇬🇼 Guinea-Bissau
+GEOIP,FK,IP-ASN    // 🇫🇰 Falkland Islands 
+GEOIP,AP,IP-ASN    // 🌏 AP
+GEOIP,YT,IP-ASN    // 🇾🇹 Mayotte
+GEOIP,WF,IP-ASN    // 🇼🇫 Wallis and 
+GEOIP,PM,IP-ASN    // 🇵🇲 Saint Pierre 
+GEOIP,NU,IP-ASN    // 🇳🇺 Niue
+GEOIP,MS,IP-ASN    // 🇲🇸 Montserrat
+GEOIP,KP,IP-ASN    // 🇰🇵 Korea
+GEOIP,IO,IP-ASN    // 🇮🇴 British Indian 
+GEOIP,GL,IP-ASN    // 🇬🇱 Greenland
+GEOIP,ER,IP-ASN    // 🇪🇷 Eritrea
+GEOIP,AX,IP-ASN    // 🇦🇽 Åland Islands
+GEOIP,AQ,IP-ASN    // 🇦🇶 Antarctica
+
+
+#geoip SITE
+GEOIP,Lan,DIRECT 
+Geoip,Cloudfront,Cloudflare
+Geoip,MICROSOFT,IP-ASN
+Geoip,MSN,IP-ASN
+geoip,whatsapp,DIRECT 
+GEOIP,FACEBOOK,DIRECT //geoip SITE
+GEOIP,GOOGLE,GOOGLE //geoip SITE
+GEOIP,TELEGRAM,DIRECT //geoip SITE
+GEOIP,TWITTER,DIRECT //geoip SITE
+GEOIP,FASTLY,DIRECT //geoip SITE
+GEOIP,CLOUDFRONT,Cloudflare //geoip SITE
