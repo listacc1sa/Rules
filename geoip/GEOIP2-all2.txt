@@ -1,4 +1,21 @@
-# GEOIP country code
+#geoip SITE⏬
+# ☁️ CLOUDFLARE 
+Geoip,Cloudfront,Cloudflare
+GEOIP,CLOUDFRONT,Cloudflare
+#🇺🇸 MICROSOFT 
+Geoip,MICROSOFT,IP-ASN
+Geoip,MSN,IP-ASN
+#🇺🇸 GOOGLE.COM 
+GEOIP,GOOGLE,GOOGLE
+#🇸🇦 WHATSAPP 
+GEOIP,whatsapp,DIRECT 
+GEOIP,FACEBOOK,DIRECT
+GEOIP,TELEGRAM,DIRECT
+GEOIP,TWITTER,DIRECT
+GEOIP,FASTLY,DIRECT
+
+# GEOIP country code⏬
+
 # 🇺🇸 United States
 GEOIP,US,DNS
 
@@ -715,7 +732,10 @@ GEOIP,AX,IP-ASN
 
 # 🇦🇶 Antarctica
 GEOIP,AQ,IP-ASN
-# GEOIP SITE
+
+
+# GEOIP SITE⏬
+
 # 🌥️Cloudflare
 IP-ASN,209242,Cloudflare
 
