@@ -8,8 +8,6 @@ HOST-SUFFIX,pplx.ai
 HOST-SUFFIX,perplexity.com
 # >> OpenAI Challenge & SSO
 host-suffix,auth0.openai.com
-host,challenges.cloudflare.com
-
 # >> OpenAI Related
 host-suffix,ai.com
 host-suffix,openai.com
@@ -17,15 +15,12 @@ host-suffix,apps.openai.com
 host-suffix,sentry.io
 host-suffix,intercom.io
 host-suffix,identrust.com
-
 # >> OpenAI Static Files
 host-wildcard,*.oaistatic.com
 host-wildcard,*.oaiusercontent.com
-
 # >> OpenAI CDN
 host-suffix,chat.openai.com.cdn.cloudflare.net
 host-suffix,openaiapi-site.azureedge.net
-
 # >> OpenAI Other
 host-suffix,challenges.cloudflare.com
 host-suffix,invoice.stripe.com
