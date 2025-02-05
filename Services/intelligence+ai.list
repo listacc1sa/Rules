@@ -22,9 +22,6 @@ host-wildcard,*.oaiusercontent.com
 host-suffix,chat.openai.com.cdn.cloudflare.net
 host-suffix,openaiapi-site.azureedge.net
 # >> OpenAI Other
-host-suffix,challenges.cloudflare.com
-host-suffix,invoice.stripe.com
-host-suffix,stripe.com
 host-suffix,poe.com
 HOST-SUFFIX,openai.com
 HOST-SUFFIX,openai.fund
@@ -33,7 +30,6 @@ HOST-SUFFIX,chatgpt.com
 HOST-SUFFIX,sora.com
 HOST-SUFFIX,chat.com
 HOST-SUFFIX,openai.nooc.ink
-HOST-SUFFIX,challenges.cloudflare.com
 HOST-SUFFIX,openai.com.cdn.cloudflare.net
 HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net
@@ -49,7 +45,6 @@ HOST-SUFFIX,openai-models-public.s3.us-west-2.amazonaws.com
 HOST-SUFFIX,openaicom.imgix.net
 HOST-SUFFIX,statsigapi.net
 HOST-SUFFIX,sentry.io
-HOST-SUFFIX,stripe.com
 HOST-SUFFIX,intercomcdn.com
 HOST-SUFFIX,intercom.io
 HOST-SUFFIX,intercomassets.com
