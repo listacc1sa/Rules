@@ -1,7 +1,7 @@
 # GOOGLE
 # Update: 2024-04-12
 
-#🔶 GOOGLE Basic
+# GOOGLE Basic
 HOST,clientservices.googleapis.com,GOOGLE
 HOST,crl.pki.goog,GOOGLE
 HOST,mtalk.google.com,GOOGLE
@@ -10,9 +10,9 @@ HOST,redirector.c.bigcache.googleapis.com,GOOGLE
 HOST,redirector.gvt1.com,GOOGLE
 HOST,safebrowsing-cache.google.com,GOOGLE
 HOST,safebrowsing.googleapis.com,GOOGLE
-HOST,translate.googleapis.com,GOOGLE
+HOST,translate.googleapis.com,YouTube PREMIUM
 HOST,voice.telephony.goog,GOOGLE
-HOST,www.googleapis.com,GOOGLE
+HOST,www.googleapis.com,YouTube PREMIUM
 HOST,lens.l.google.com,GOOGLE
 # note: Does not contain YouTube.
 # 注意: 不包含YouTube
@@ -30,9 +30,9 @@ HOST-SUFFIX,firebase-settings.crashlytics.com,GOOGLE
 HOST-SUFFIX,firebaseio.com,GOOGLE
 HOST-SUFFIX,gmodules.com,GOOGLE
 HOST-SUFFIX,google.com,GOOGLE
-HOST-SUFFIX,googletagmanager.com,GOOGLE
-HOST-SUFFIX,googleusercontent.com,GOOGLE
-HOST-SUFFIX,gstatic.com,GOOGLE
+HOST-SUFFIX,googletagmanager.com,YouTube PREMIUM
+HOST-SUFFIX,googleusercontent.com,YouTube PREMIUM
+HOST-SUFFIX,gstatic.com,YouTube PREMIUM
 HOST-SUFFIX,gv.com,GOOGLE
 HOST-SUFFIX,gvt0.com,GOOGLE
 HOST-SUFFIX,gvt1.com,GOOGLE
@@ -45,7 +45,7 @@ HOST-KEYWORD,chromium,GOOGLE
 HOST-KEYWORD,google,GOOGLE
 IP-CIDR,173.194.0.0/16,GOOGLE
 IP-CIDR,74.125.0.0/16,GOOGLE
-USER-AGENT,GOOGLE.Drive*,GOOGLE
+USER-AGENT,GOOGLE.Drive*,YouTube PREMIUM
 IP-CIDR,172.110.32.0/21,GOOGLE
 IP-CIDR,173.194.0.0/16,GOOGLE
 IP-CIDR,216.73.80.0/20,GOOGLE
