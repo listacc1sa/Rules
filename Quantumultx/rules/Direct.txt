@@ -2,29 +2,6 @@
 # These have been include in the Microsoft
 HOST-SUFFIX,assets-yammer.com
 HOST-SUFFIX,footprintdns.com
-HOST-SUFFIX,microsoft.com
-HOST-SUFFIX,live.com
-HOST-SUFFIX,live.com.au
-HOST-SUFFIX,live.eu
-HOST-SUFFIX,live.net
-HOST-SUFFIX,storage.live.com
-HOST-SUFFIX,livefilestore.com
-HOST-SUFFIX,microsoftonline.com
-HOST-SUFFIX,microsoftonline-p.com
-HOST-SUFFIX,o365filtering.com
-HOST-SUFFIX,msocsp.com
-HOST-SUFFIX,msocdn.com
-HOST-SUFFIX,office.com
-HOST-SUFFIX,office.de
-HOST-SUFFIX,office.microsoft
-HOST-SUFFIX,office.net
-HOST-SUFFIX,office365.com
-HOST-SUFFIX,office365.us
-HOST-SUFFIX,office365love.com
-HOST-SUFFIX,office365tw.com
-HOST-SUFFIX,officedev.cn
-HOST-SUFFIX,renovacionoffice.com
-HOST-SUFFIX,onmicrosoft.com
 HOST-SUFFIX,svc.ms
 HOST-SUFFIX,yammer.com
 # > whaysapp
@@ -79,34 +56,6 @@ HOST-SUFFIX,cdninstagram.com
 HOST-SUFFIX,instagr.am
 HOST-SUFFIX,instagram.com
 HOST-KEYWORD,instagram
-# > Github 服务
-HOST-KEYWORD,github
-HOST-SUFFIX,atom.io
-HOST-SUFFIX,dependabot.com
-HOST-SUFFIX,ghcr.io
-HOST-SUFFIX,git.io
-HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
-HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
-HOST-SUFFIX,github-cloud.s3.amazonaws.com
-HOST-SUFFIX,github.blog
-HOST-SUFFIX,github.com
-HOST-SUFFIX,github.community
-HOST-SUFFIX,github.dev
-HOST-SUFFIX,github.io
-HOST-SUFFIX,githubapp.com
-HOST-SUFFIX,githubassets.com
-HOST-SUFFIX,githubhackathon.com
-HOST-SUFFIX,githubpreview.dev
-HOST-SUFFIX,githubstatus.com
-HOST-SUFFIX,githubuniverse.com
-HOST-SUFFIX,githubusercontent.com
-HOST-SUFFIX,myoctocat.com
-HOST-SUFFIX,npm.community
-HOST-SUFFIX,npmjs.com
-HOST-SUFFIX,npmjs.org
-HOST-SUFFIX,rawgit.com
-HOST-SUFFIX,rawgithub.com
-HOST-SUFFIX,thegithubshop.com
 # Facebook
 HOST-SUFFIX,acconunkit.com
 HOST-SUFFIX,atdmt.com
@@ -192,7 +141,6 @@ USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 HOST-SUFFIX,docs.google.com
 HOST-SUFFIX,drive.google.com
 HOST-SUFFIX,googledrive.com
-HOST-SUFFIX,googleusercontent.com
 # > Facebook
 IP-CIDR,31.13.24.0/21
 IP-CIDR,31.13.64.0/18
@@ -364,12 +312,6 @@ HOST,down.filen-4.net
 HOST,down.filen-5.net
 HOST,down.filen.io
 HOST-SUFFIX,fuwamofu.com
-HOST,cache.pack.google.com
-HOST,dl.google.com
-HOST,dl.l.google.com
-HOST,update.googleapis.com
-HOST,download.mlcc.google.com
-HOST,download.tensorflow.google.com
 HOST,edgedl.me.gvt1.com
 HOST-SUFFIX,catbox.moe
 HOST,share.riseup.net
