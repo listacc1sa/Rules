@@ -51,8 +51,6 @@ HOST-KEYWORD,gmail,Gmail
 HOST-SUFFIX,api-free.deepl.com
 HOST-SUFFIX,api.deepl.com
 # testflight 
-HOST,beta.apple.com
-HOST,testflight.apple.com
 HOST,acompli.net
 HOST,aspmx.l.google.com
 HOST,baydin.com
