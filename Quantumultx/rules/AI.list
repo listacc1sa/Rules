@@ -1,0 +1,402 @@
+# > OpenAI.list（智能助理服务规则集）
+# - 分类：智能助理 / AI 服务平台 / 云端推理接口
+# - 来源：主流服务域名抓包 / 社区整理 / 手动校验
+# - 特征：涵盖 OpenAI、Claude、Gemini、Copilot、Perplexity、HuggingFace 等主流 AI 服务域名
+# - 用途：本规则集用于防御性安全研究，禁止用于任何非法用途
+# - 维护：https://github.com/Thoseyearsbrian/Aegis
+# - 更新时间：2026-01-27
+# > OpenAI Chat 系列
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
+DOMAIN-SUFFIX,ws.chatgpt.com
+DOMAIN-SUFFIX,ab.chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,persistent.oaistatic.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+IP-CIDR,59.188.250.54/32
+IP-CIDR,31.13.95.18/32
+IP-CIDR,108.160.163.112/32
+IP-CIDR,31.13.95.169/32
+IP-CIDR,108.160.166.61/32
+IP-CIDR,108.160.167.156/32
+IP-CIDR,128.242.240.189/32
+IP-CIDR,185.45.7.189/32
+IP-CIDR,173.255.209.47/32
+IP-CIDR,104.244.46.63/32
+IP-CIDR,69.171.247.32/32
+IP-CIDR,173.236.212.42/32
+IP-CIDR,69.171.242.11/32
+IP-CIDR,104.18.39.21/32
+IP-CIDR,128.121.146.235/32
+IP-CIDR,172.64.148.171/32
+IP-CIDR,199.96.63.177/32
+# > Sora — OpenAI 视频生成 / AI 服务主域名
+DOMAIN-SUFFIX,sora.com
+# > Grok（xAI / Elon Musk）AI 服务相关域名
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,chat.grok.x.ai
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,xusercontent.com
+DOMAIN-SUFFIX,api.grok.x.ai
+DOMAIN-SUFFIX,cdn.x.ai
+DOMAIN-SUFFIX,grok.com
+# > Meta AI 相关域名
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,ai.meta.com
+DOMAIN-SUFFIX,llama.meta.com
+DOMAIN-SUFFIX,meta-llama.com
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,llama.dev
+DOMAIN-SUFFIX,facebookai.com
+DOMAIN-SUFFIX,fbai.net
+DOMAIN-SUFFIX,ai.facebook.com
+DOMAIN-SUFFIX,research.fb.com
+DOMAIN-SUFFIX,about.fb.com
+DOMAIN-SUFFIX,developers.facebook.com
+# > Claude 相关域名
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,api.claude.ai
+DOMAIN-SUFFIX,api.claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,assets.claude.ai
+DOMAIN-SUFFIX,cdn.claude.ai
+DOMAIN-SUFFIX,events.claude.ai
+DOMAIN-SUFFIX,console.anthropic.com
+DOMAIN-SUFFIX,developer.anthropic.com
+DOMAIN-SUFFIX,docs.anthropic.com
+DOMAIN-SUFFIX,status.anthropic.com
+DOMAIN-SUFFIX,claude.io
+DOMAIN-SUFFIX,anthropicstatus.com
+DOMAIN-SUFFIX,claude.site
+# > Anthropic 相关域名（信任 / 文档 / 状态 / 控制台）
+DOMAIN-SUFFIX,trust.anthropic.com
+DOMAIN-SUFFIX,legal.anthropic.com
+DOMAIN-SUFFIX,privacy.anthropic.com
+DOMAIN-SUFFIX,status.anthropic.com
+DOMAIN-SUFFIX,console.anthropic.com
+DOMAIN-SUFFIX,developer.anthropic.com
+DOMAIN-SUFFIX,docs.anthropic.com
+DOMAIN-SUFFIX,resources.anthropic.com
+DOMAIN-SUFFIX,assets.anthropic.com
+DOMAIN-SUFFIX,cdn.anthropic.com
+# > Gemini / Bard（Google AI）
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generative-language.googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,palm.googleapis.com
+DOMAIN-SUFFIX,proto.googleapis.com
+DOMAIN-SUFFIX,staging-bard.google.com
+DOMAIN-SUFFIX,ai.googleblog.com
+DOMAIN-SUFFIX,deepmind.google
+# > Copilot 系列（Microsoft）
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.azureedge.net
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,bingcopilot.microsoft.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,api.bing.microsoft.com
+DOMAIN-SUFFIX,assets.msn.com
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onerev.microsoft.com
+DOMAIN-SUFFIX,contoso.com
+# > Perplexity AI
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,api.perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexitylabs.ai
+DOMAIN-SUFFIX,perplexitychat.ai
+DOMAIN-SUFFIX,pplx-res.cloudinary.com
+# > HuggingFace
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,inference-api.com
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-SUFFIX,huggingface.tech
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,api.endpoints.huggingface.cloud
+DOMAIN-SUFFIX,assets.huggingface.co
+DOMAIN-SUFFIX,models.huggingface.co
+DOMAIN-SUFFIX,datasets.huggingface.co
+DOMAIN-SUFFIX,spaces.huggingface.co
+# > Poe（Quora）
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,api.poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,poeusercontent.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+# > Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,api.mistral.ai
+DOMAIN-SUFFIX,console.mistral.ai
+DOMAIN-SUFFIX,docs.mistral.ai
+DOMAIN-SUFFIX,cdn.mistral.ai
+DOMAIN-SUFFIX,mistral-embed.run
+DOMAIN-SUFFIX,mistral-medium.run
+# > Haruka AI
+DOMAIN-SUFFIX,haruka.ai
+DOMAIN-SUFFIX,ai.haruka.cloud
+DOMAIN-SUFFIX,api.ai.haruka.cloud
+DOMAIN-SUFFIX,cdn.ai.haruka.cloud
+DOMAIN-SUFFIX,assets.ai.haruka.cloud
+DOMAIN-SUFFIX,haruka.cloud
+# > Cohere AI
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,api.cohere.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,os.cohere.ai
+DOMAIN-SUFFIX,coral.cohere.com
+DOMAIN-SUFFIX,studio.cohere.com
+DOMAIN-SUFFIX,docs.cohere.com
+# > Voyage AI
+DOMAIN-SUFFIX,voyageai.com
+DOMAIN-SUFFIX,api.voyageai.com
+DOMAIN-SUFFIX,cdn.voyageai.com
+DOMAIN-SUFFIX,docs.voyageai.com
+DOMAIN-SUFFIX,console.voyageai.com
+# > AI21 Labs
+DOMAIN-SUFFIX,ai21.com
+DOMAIN-SUFFIX,api.ai21.com
+DOMAIN-SUFFIX,studio.ai21.com
+DOMAIN-SUFFIX,docs.ai21.com
+DOMAIN-SUFFIX,platform.ai21.com
+DOMAIN-SUFFIX,cdn.ai21.com
+# > Midjourney（AI 图像生成）
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,cdn.midjourney.com
+DOMAIN-SUFFIX,midjourney.ghost.io
+# > Runway（Gen-2 / Gen-3 视频生成平台）
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,app.runwayml.com
+DOMAIN-SUFFIX,api.runwayml.com
+DOMAIN-SUFFIX,cdn.runwayml.com
+DOMAIN-SUFFIX,assets.runwayml.com
+DOMAIN-SUFFIX,media.runwayml.com
+DOMAIN-SUFFIX,files.runwayml.com
+DOMAIN-SUFFIX,genmo.runwayml.com
+DOMAIN-SUFFIX,render.runwayml.com
+# > Stability AI（Stable Diffusion 官方）
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,api.stability.ai
+DOMAIN-SUFFIX,platform.stability.ai
+DOMAIN-SUFFIX,stability.dev
+DOMAIN-SUFFIX,cdn.stability.ai
+DOMAIN-SUFFIX,stablediffusionapi.com
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,api.clipdrop.co
+# > Pika（AI 视频生成）
+DOMAIN-SUFFIX,pika.art
+DOMAIN-SUFFIX,api.pika.art
+DOMAIN-SUFFIX,cdn.pika.art
+DOMAIN-SUFFIX,assets.pika.art
+DOMAIN-SUFFIX,pika-realtime-prod.onrender.com
+# > Leonardo AI（AI 图像生成）
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,api.leonardo.ai
+DOMAIN-SUFFIX,cloud.leonardo.ai
+DOMAIN-SUFFIX,cdn.leonardo.ai
+DOMAIN-SUFFIX,static.leonardo.ai
+DOMAIN-SUFFIX,files.leonardo.ai
+# > Krea AI（AI 图像 / 视频生成）
+DOMAIN-SUFFIX,krea.ai
+DOMAIN-SUFFIX,api.krea.ai
+DOMAIN-SUFFIX,cdn.krea.ai
+DOMAIN-SUFFIX,assets.krea.ai
+DOMAIN-SUFFIX,files.krea.ai
+# > Luma AI（AI 视频生成 / 3D 建模）
+DOMAIN-SUFFIX,luma.com
+DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,app.lumalabs.ai
+DOMAIN-SUFFIX,api.lumalabs.ai
+DOMAIN-SUFFIX,cdn.lumalabs.ai
+DOMAIN-SUFFIX,assets.lumalabs.ai
+DOMAIN-SUFFIX,files.lumalabs.ai
+DOMAIN-SUFFIX,static.cdn-luma.com
+DOMAIN-SUFFIX,storage.cdn-luma.com
+DOMAIN-SUFFIX,cdn.lu.ma
+DOMAIN-SUFFIX,images.lumacdn.com
+# > Together AI（开源模型推理 / API 平台）
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,api.together.ai
+DOMAIN-SUFFIX,app.together.ai
+DOMAIN-SUFFIX,cdn.together.ai
+DOMAIN-SUFFIX,assets.together.ai
+DOMAIN-SUFFIX,togethercomputer.com
+DOMAIN-SUFFIX,togetherlabs.com
+DOMAIN-SUFFIX,prod-api.together.ai
+DOMAIN-SUFFIX,static.together.ai
+# > Groq（LPU 推理加速 / R1 推理服务）
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqcloud.ai
+DOMAIN-SUFFIX,api.groq.com
+DOMAIN-SUFFIX,console.groq.com
+DOMAIN-SUFFIX,docs.groq.com
+DOMAIN-SUFFIX,cdn.groq.com
+DOMAIN-SUFFIX,assets.groq.com
+DOMAIN-SUFFIX,status.groq.com
+DOMAIN-SUFFIX,phte.groq.io
+# > Modal（AI 无服务器推理 / 云端计算平台）
+DOMAIN-SUFFIX,modal.com
+DOMAIN-SUFFIX,modal.run
+DOMAIN-SUFFIX,api.modal.com
+DOMAIN-SUFFIX,modal-labs.com
+DOMAIN-SUFFIX,assets.modal.com
+DOMAIN-SUFFIX,cdn.modal.com
+DOMAIN-SUFFIX,console.modal.com
+DOMAIN-SUFFIX,modal-cdn.com
+# > Replicate（模型托管 / 云端推理服务）
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,api.replicate.com
+DOMAIN-SUFFIX,replicate.delivery
+DOMAIN-SUFFIX,replicatecdn.com
+DOMAIN-SUFFIX,cdn.replicate.com
+DOMAIN-SUFFIX,objects.replicate.com
+DOMAIN-SUFFIX,r8y.io
+DOMAIN-SUFFIX,replicate-fileupload.com
+DOMAIN-SUFFIX,static.replicateassets.com
+DOMAIN-SUFFIX,replicatestatus.com
+DOMAIN-SUFFIX,fonts.replicateassets.com
+# > RunPod（GPU 推理算力 / 模型部署平台）
+DOMAIN-SUFFIX,runpod.io
+DOMAIN-SUFFIX,api.runpod.ai
+DOMAIN-SUFFIX,runpod.ai
+DOMAIN-SUFFIX,imgs.runpod.io
+DOMAIN-SUFFIX,cdn.runpod.io
+DOMAIN-SUFFIX,runpodusercontent.com
+DOMAIN-SUFFIX,files.runpod.io
+# > Suno（AI 音乐生成平台）
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,app.suno.ai
+DOMAIN-SUFFIX,api.suno.ai
+DOMAIN-SUFFIX,cdn.suno.ai
+DOMAIN-SUFFIX,assets.suno.ai
+DOMAIN-SUFFIX,media.suno.ai
+DOMAIN-SUFFIX,files.suno.ai
+DOMAIN-SUFFIX,content.suno.run
+# > ElevenLabs（AI 语音生成 / 文本转语音平台）
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,app.elevenlabs.io
+DOMAIN-SUFFIX,api.elevenlabs.io
+DOMAIN-SUFFIX,cdn.elevenlabs.io
+DOMAIN-SUFFIX,assets.elevenlabs.io
+DOMAIN-SUFFIX,voices.elevenlabs.io
+DOMAIN-SUFFIX,media.elevenlabs.io
+# > HeyGen（AI 视频生成 / 数字人 Avatar 平台）
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,app.heygen.com
+DOMAIN-SUFFIX,api.heygen.com
+DOMAIN-SUFFIX,cdn.heygen.com
+DOMAIN-SUFFIX,assets.heygen.com
+DOMAIN-SUFFIX,media.heygen.com
+DOMAIN-SUFFIX,files.heygen.com
+DOMAIN-SUFFIX,render.heygen.com
+DOMAIN-SUFFIX,static.heygen.ai
+# > PlayHT（AI 语音生成 / TTS / 语音克隆平台）
+DOMAIN-SUFFIX,play.ht
+DOMAIN-SUFFIX,play.ai
+DOMAIN-SUFFIX,app.play.ht
+DOMAIN-SUFFIX,api.play.ht
+DOMAIN-SUFFIX,cdn.play.ht
+DOMAIN-SUFFIX,assets.play.ht
+DOMAIN-SUFFIX,media.play.ht
+DOMAIN-SUFFIX,files.play.ht
+# > LOVO.ai / Revoice（AI 语音生成 / 语音克隆平台）
+DOMAIN-SUFFIX,lovo.ai
+DOMAIN-SUFFIX,app.lovo.ai
+DOMAIN-SUFFIX,api.lovo.ai
+DOMAIN-SUFFIX,cdn.lovo.ai
+DOMAIN-SUFFIX,assets.lovo.ai
+DOMAIN-SUFFIX,media.lovo.ai
+DOMAIN-SUFFIX,files.lovo.ai
+# Revoice 相关域名
+DOMAIN-SUFFIX,revoicer.com
+DOMAIN-SUFFIX,revoice.ai
+DOMAIN-SUFFIX,app.revoice.ai
+DOMAIN-SUFFIX,api.revoice.ai
+DOMAIN-SUFFIX,cdn.revoice.ai
+DOMAIN-SUFFIX,assets.revoice.ai
+DOMAIN-SUFFIX,media.revoice.ai
+DOMAIN-SUFFIX,files.revoice.ai
+# > Synthesia（AI 数字人视频生成 / 企业级虚拟主播平台）
+DOMAIN-SUFFIX,synthesia.io
+DOMAIN-SUFFIX,app.synthesia.io
+DOMAIN-SUFFIX,api.synthesia.io
+DOMAIN-SUFFIX,cdn.synthesia.io
+DOMAIN-SUFFIX,assets.synthesia.io
+DOMAIN-SUFFIX,media.synthesia.io
+DOMAIN-SUFFIX,files.synthesia.io
+DOMAIN-SUFFIX,render.synthesia.io
+# > Fable Studio / Showrunner（AI 剧集生成 / AI 角色驱动内容）
+DOMAIN-SUFFIX,fable-studio.com
+DOMAIN-SUFFIX,fable.app
+DOMAIN-SUFFIX,app.fable.app
+DOMAIN-SUFFIX,api.fable.app
+DOMAIN-SUFFIX,cdn.fable.app
+DOMAIN-SUFFIX,assets.fable.app
+DOMAIN-SUFFIX,media.fable.app
+DOMAIN-SUFFIX,files.fable.app
+DOMAIN-SUFFIX,showrunner.ai
+DOMAIN-SUFFIX,app.showrunner.ai
+DOMAIN-SUFFIX,api.showrunner.ai
+# > Dola AI（第三方 AI 对话平台 / 多模型聚合）- 好像仅限新加坡地区可正常访问，其他地区可能存在访问限制
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,app.dola.com
+DOMAIN-SUFFIX,api.dola.com
+DOMAIN-SUFFIX,cdn.dola.com
+# > Ciciai（丝西 AI / 生数科技）相关域名 - 好像仅限新加坡地区可正常访问，其他地区可能存在访问限制
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,sf-sf-flow-web-cdn-nontt.ciciaicdn.com
+DOMAIN-SUFFIX,sf-flow-web-cdn.ciciaicdn.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,opt-i18n.ciciai.com
+DOMAIN-SUFFIX,vmweb-sg.ciciai.com
+DOMAIN-SUFFIX,mcs-sg.ciciai.com
+# > aibusiness.com（AI Business — AI 行业新闻 / 报告 / 内容分发站点）
+DOMAIN-SUFFIX,aibusiness.com
+# > Fireworks AI（大模型推理加速 / LLM 托管平台）
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,api.fireworks.ai
+DOMAIN-SUFFIX,app.fireworks.ai
+DOMAIN-SUFFIX,docs.fireworks.ai
+DOMAIN-SUFFIX,cdn.fireworks.ai
+DOMAIN-SUFFIX,assets.fireworks.ai
+DOMAIN-SUFFIX,platform.fireworks.ai
+DOMAIN-SUFFIX,studio.fireworks.ai
+DOMAIN-SUFFIX,chat.fireworks.ai
+DOMAIN-SUFFIX,status.fireworks.ai
+# > Tia AI 官方主站与服务域名
+DOMAIN-SUFFIX,tia-ai.com
+DOMAIN-SUFFIX,fast.tia-ai.com
+# > OpenRouter 大模型 API 聚合与路由服务平台
+DOMAIN-SUFFIX,openrouter.ai
+# > Speechify AI 语音朗读平台、Hydro Protocol 去中心化交易协议与 EXMO 加密货币交易所
+DOMAIN-SUFFIX,speechify.com
+# > Palantir 人工智能与数据分析平台（企业级数据整合与决策系统,被广泛应用于政府与大型机构的数据分析与决策场景）
+DOMAIN-SUFFIX,palantir.com
+DOMAIN-SUFFIX,ai.palantir.com
+# > Nrich.ai 智能推荐 / AI 服务平台
+DOMAIN-SUFFIX,serve.nrich.ai
+# > Clawd Bot 项目官网
+DOMAIN-SUFFIX,clawd.bot
