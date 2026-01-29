@@ -1,0 +1,14 @@
+#!name= 𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
+#!desc= 支持所有使用RevenueCat的App
+
+[Header Rewrite]
+http-request ^https?://api.revenuecat.com/.+/(receipts$|subscribers/?(.*?)*$) header-del 'X-RevenueCat-ETag'
+http-request ^https?://api.revenuecat.com/.+/(receipts$|subscribers/?(.*?)*$) header-del 'x-revenuecat-etag'
+
+[Script]
+revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://github.com/osinx/Script/raw/refs/heads/main/vip/revenuecat.js, requires-body=true, timeout=60
+
+RevenueCat = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/subscribers\/[^/]+/(offerings|attributes)$, script-path=https://raw.githubusercontent.com/rjansng/usjs/refs/heads/main/_loon_mitm/revenuecat/RevenueCatHeaders.js, timeout=20
+
+[MITM]
+hostname = api.revenuecat.com
