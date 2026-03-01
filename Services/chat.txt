@@ -1,0 +1,282 @@
+# ============================================================
+# MESSAGING & CHAT SERVICES BLOCKLIST
+# Corporate DLP - Data Exfiltration Prevention
+# Generated: 2026-01-29
+# ============================================================
+
+# ============================================================
+# https://github.com/TwoTwo-me/blockList/blob/master/list/03_messaging_chat.txt
+# ============================================================
+web.whatsapp.com
+whatsapp.com
+wa.me
+web.telegram.org
+webk.telegram.org
+webz.telegram.org
+telegram.org
+t.me
+discord.com
+discordapp.com
+discord.gg
+discord.com
+web.skype.com
+skype.com
+web.snapchat.com
+snapchat.com
+web.threema.ch
+threema.ch
+signal.org
+web.signal.org
+viber.com
+viber.rakuten.com
+messenger.com
+www.messenger.com
+m.me
+
+# ============================================================
+# SOCIAL MEDIA MESSAGING
+# ============================================================
+facebook.com
+instagram.com
+x.com
+twitter.com
+reddit.com
+reddit.com
+old.reddit.com
+threads.net
+pinterest.com
+
+# ============================================================
+# KOREA (한국)
+# ============================================================
+talk.kakao.com
+open.kakao.com
+story.kakao.com
+band.us
+band.naver.com
+linecorp.com
+line.me
+cafe.naver.com
+
+# ============================================================
+# CHINA (中国)
+# ============================================================
+web.wechat.com
+wechat.com
+weixin.qq.com
+wx.qq.com
+im.qq.com
+work.weixin.qq.com
+qzone.qq.com
+weibo.com
+t.sina.com.cn
+
+# ============================================================
+# JAPAN (日本)
+# ============================================================
+line.me
+line-apps.com
+linecorp.com
+mixi.jp
+
+# ============================================================
+# VIETNAM
+# ============================================================
+chat.zalo.me
+zalo.me
+
+# ============================================================
+# RUSSIA & CIS
+# ============================================================
+web.icq.com
+icq.com
+ok.ru
+vk.com
+vk.me
+my.mail.ru
+
+# ============================================================
+# TEAM COLLABORATION PLATFORMS
+# ============================================================
+app.slack.com
+slack.com
+*.slack.com
+teams.microsoft.com
+teams.live.com
+chat.google.com
+hangouts.google.com
+meet.google.com
+rocket.chat
+open.rocket.chat
+mattermost.com
+zulip.com
+app.element.io
+element.io
+matrix.org
+app.wire.com
+wire.com
+web.flock.com
+flock.com
+twist.com
+workplace.com
+workplace.facebook.com
+ryver.com
+chanty.com
+glip.com
+flowdock.com
+hipchat.com
+dingtalk.com
+lark.suite.com
+larksuite.com
+feishu.cn
+zoho.com
+cliq.zoho.com
+pumble.com
+webex.com
+web.webex.com
+whereby.com
+jitsi.org
+meet.jit.si
+8x8.vc
+
+# ============================================================
+# ANONYMOUS CHAT SERVICES
+# ============================================================
+omegle.com
+omegle.me
+chatroulette.com
+chatrandom.com
+emeraldchat.com
+tinychat.com
+bazoocam.org
+camsurf.com
+chatspin.com
+coomeet.com
+monkey.app
+houseparty.com
+azar.com
+holla.world
+chatous.com
+connected2.me
+stranger.cam
+randomchat.com
+y99.in
+wireclub.com
+chat-avenue.com
+chatiw.com
+anonychat.com
+voidchat.org
+anonchat.com
+
+# ============================================================
+# IRC WEB CLIENTS
+# ============================================================
+irccloud.com
+kiwiirc.com
+mibbit.com
+web.libera.chat
+webchat.freenode.net
+webchat.quakenet.org
+webchat.esper.net
+chat.efnet.org
+demo.thelounge.chat
+
+# ============================================================
+# GAMING CHAT PLATFORMS
+# ============================================================
+steamcommunity.com
+steam.chat
+twitch.tv
+guilded.gg
+teamspeak.com
+mumble.info
+roblox.com
+epicgames.com
+
+# ============================================================
+# VIDEO CONFERENCING WITH CHAT
+# ============================================================
+zoom.us
+app.zoom.us
+meet.google.com
+meet.google.com
+webex.com
+web.webex.com
+bluejeans.com
+gotomeeting.com
+join.me
+appear.in
+whereby.com
+daily.co
+around.co
+tandem.chat
+tuple.app
+pop.com
+loom.com
+mmhmm.app
+
+# ============================================================
+# DATING APPS WITH MESSAGING
+# ============================================================
+tinder.com
+bumble.com
+hinge.co
+match.com
+okcupid.com
+pof.com
+badoo.com
+happn.com
+grindr.com
+scruff.com
+her.app
+taimi.com
+feeld.co
+hily.com
+
+# ============================================================
+# FORUM & COMMUNITY PLATFORMS WITH PM
+# ============================================================
+discourse.org
+disqus.com
+spectrum.chat
+circleci.community
+dev.to
+hashnode.com
+lemmy.ml
+mastodon.social
+mastodon.online
+joinmastodon.org
+misskey.io
+pleroma.social
+kbin.social
+tildes.net
+lobste.rs
+news.ycombinator.com
+
+# ============================================================
+# BUSINESS COMMUNICATION
+# ============================================================
+intercom.com
+intercom.io
+crisp.chat
+freshdesk.com
+zendesk.com
+drift.com
+livechat.com
+olark.com
+tawk.to
+helpscout.com
+front.com
+missiveapp.com
+
+# ============================================================
+# CRYPTO/WEB3 MESSAGING
+# ============================================================
+status.im
+session.org
+keybase.io
+briar.app
+jami.net
+tox.chat
+retroshare.cc
+berty.tech
