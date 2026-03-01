@@ -1,0 +1,317 @@
+# ============================================================
+# CLOUD STORAGE & FILE SHARING BLOCKLIST
+# Corporate DLP - Data Exfiltration Prevention
+# Generated: 2026-01-29
+# ============================================================
+
+# ============================================================
+# https://github.com/TwoTwo-me/blockList/blob/master/list/02_cloud_storage.txt
+# ============================================================
+drive.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+sites.google.com
+dropbox.com
+www.dropbox.com
+onedrive.live.com
+onedrive.com
+1drv.ms
+icloud.com
+www.icloud.com
+mega.nz
+mega.io
+mega.co.nz
+box.com
+app.box.com
+pcloud.com
+my.pcloud.com
+icedrive.net
+mediafire.com
+www.mediafire.com
+degoo.com
+sync.com
+www.sync.com
+spideroak.com
+tresorit.com
+web.tresorit.com
+idrive.com
+backblaze.com
+carbonite.com
+crashplan.com
+egnyte.com
+sharefile.com
+citrixsharefile.com
+
+# ============================================================
+# KOREA (한국)
+# ============================================================
+mybox.naver.com
+ndrive.naver.com
+drive.kakao.com
+cloud.kt.com
+ucloud.kt.com
+cloud.olleh.com
+tcloud.sktelecom.com
+cloud.lguplus.com
+
+# ============================================================
+# CHINA (中国)
+# ============================================================
+pan.baidu.com
+yun.baidu.com
+weiyun.com
+cloud.tencent.com
+115.com
+pan.115.com
+lanzou.com
+lanzoui.com
+lanzoup.com
+lanzoux.com
+pan.quark.cn
+alipan.com
+yunpan.360.cn
+jianguoyun.com
+nutstore.net
+ctdisk.com
+cowtransfer.com
+feimaoyun.com
+ctfile.com
+520.be
+
+# ============================================================
+# JAPAN (日本)
+# ============================================================
+infinicloud.com
+teracloud.jp
+firestorage.jp
+cloud.nifty.com
+data.co.jp
+
+# ============================================================
+# RUSSIA (Россия)
+# ============================================================
+disk.yandex.com
+disk.yandex.ru
+cloud.mail.ru
+selectel.ru
+4shared.com
+
+# ============================================================
+# FILE TRANSFER SERVICES (Large File Sharing)
+# ============================================================
+wetransfer.com
+we.tl
+send-anywhere.com
+sendspace.com
+transfernow.net
+fromsmash.com
+smash.gg
+filemail.com
+hightail.com
+yousendit.com
+terabox.com
+teraboxapp.com
+jumpshare.com
+massive.io
+filetransfer.io
+swisstransfer.com
+transferxl.com
+filelink.to
+plustransfer.com
+uploadfiles.io
+
+# ============================================================
+# TEMPORARY FILE HOSTING
+# ============================================================
+gofile.io
+file.io
+transfer.sh
+anontransfer.com
+filebin.net
+nofile.io
+nofile.ink
+tempsend.com
+upload.ee
+krakenfiles.com
+catbox.moe
+litterbox.catbox.moe
+tmpfile.link
+workupload.com
+oxy.st
+oxycloud.com
+anonfiles.com
+bayfiles.com
+uploadhaven.com
+zippyshare.com
+solidfiles.com
+userscloud.com
+uptobox.com
+uploaded.net
+rapidshare.com
+turbobit.net
+hitfile.net
+fastclick.ru
+keep2share.cc
+uploadgig.com
+nitroflare.com
+filesfm.com
+files.fm
+filedropper.com
+filefactory.com
+
+# ============================================================
+# P2P & WEBRTC FILE SHARING
+# ============================================================
+snapdrop.net
+sharedrop.io
+pairdrop.net
+instant.io
+toffeeshare.com
+wormhole.app
+blaze.now.sh
+justbeamit.com
+volafile.org
+webwormhole.io
+drop.lol
+filepizza.github.io
+onionshare.org
+
+# ============================================================
+# DEVELOPER-CENTRIC FILE SHARING
+# ============================================================
+0x0.st
+bashupload.com
+vtransfer.io
+put.re
+uguu.se
+pomf.cat
+mixtape.moe
+a.pomf.cat
+safe.moe
+void.cat
+anonfile.com
+
+# ============================================================
+# IMAGE HOSTING (Can hide data in images)
+# ============================================================
+imgur.com
+i.imgur.com
+imgbb.com
+postimg.cc
+postimages.org
+tinypic.com
+imageshack.us
+photobucket.com
+flickr.com
+500px.com
+imgbox.com
+cubeupload.com
+pasteboard.co
+prnt.sc
+prntscr.com
+lightshot.prntscr.com
+snipboard.io
+gyazo.com
+ibb.co
+freeimage.host
+upload.cc
+imageban.ru
+
+# ============================================================
+# VIDEO HOSTING (Can be used for file exfiltration)
+# ============================================================
+vimeo.com
+player.vimeo.com
+dailymotion.com
+streamable.com
+gfycat.com
+vidyard.com
+wistia.com
+loom.com
+screencast.com
+screencastify.com
+videy.co
+streamja.com
+streamgg.com
+streamwo.com
+mixdrop.co
+fembed.com
+
+# ============================================================
+# DOCUMENT SHARING PLATFORMS
+# ============================================================
+scribd.com
+slideshare.net
+issuu.com
+calameo.com
+flipsnack.com
+anyflip.com
+slideplayer.com
+prezi.com
+docdroid.net
+slideshare.com
+speakerdeck.com
+zoho.com
+coda.io
+notion.so
+app.notion.so
+airtable.com
+basecamp.com
+clickup.com
+
+# ============================================================
+# NOTE TAKING APPS WITH SHARING
+# ============================================================
+evernote.com
+www.evernote.com
+onenote.com
+www.onenote.com
+keep.google.com
+simplenote.com
+bear.app
+notion.so
+notesnook.com
+standardnotes.com
+joplinapp.org
+
+# ============================================================
+# ENTERPRISE FILE SHARING (Personal accounts possible)
+# ============================================================
+sugarsync.com
+filecloud.com
+kiteworks.com
+accellion.com
+owncloud.com
+nextcloud.com
+seafile.com
+syncthing.net
+resilio.com
+
+# ============================================================
+# EMAIL-BASED FILE SHARING
+# ============================================================
+mailbigfile.com
+pcloud.com
+dropsend.com
+sendthisfile.com
+bigtransfer.com
+
+# ============================================================
+# REGION-SPECIFIC SERVICES
+# ============================================================
+# Taiwan
+xuite.net
+# Vietnam
+fshare.vn
+# Indonesia
+ziddu.com
+# Brazil
+minhateca.com.br
+# Poland
+chomikuj.pl
+# Czech
+uloz.to
+ulozto.net
+# Turkey
+turbobit.net
