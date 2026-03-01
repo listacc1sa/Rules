@@ -1,0 +1,361 @@
+# ============================================================
+# WEBMAIL SERVICES BLOCKLIST
+# Corporate DLP - Data Exfiltration Prevention
+# Generated: 2026-01-29
+# ============================================================
+# Format: One domain per line
+# Block these to prevent email-based data exfiltration
+# ============================================================
+
+# ============================================================
+# https://github.com/TwoTwo-me/blockList/blob/master/list/01_webmail.txt
+# ============================================================
+mail.google.com
+gmail.com
+outlook.live.com
+outlook.office.com
+outlook.office365.com
+mail.yahoo.com
+mail.aol.com
+www.icloud.com
+icloud.com
+mail.com
+www.mail.com
+
+# ============================================================
+# KOREA (한국)
+# ============================================================
+mail.naver.com
+mail.daum.net
+hanmail.net
+mail.kakao.com
+
+# ============================================================
+# CHINA (中国)
+# ============================================================
+mail.qq.com
+mail.163.com
+mail.126.com
+mail.sina.com.cn
+mail.sohu.com
+mail.139.com
+mail.189.cn
+mail.wo.cn
+mail.10086.cn
+mail.21cn.com
+mail.tom.com
+mail.yeah.net
+mail.aliyun.com
+qiye.aliyun.com
+
+# ============================================================
+# JAPAN (日本)
+# ============================================================
+mail.yahoo.co.jp
+mail.goo.ne.jp
+mail.excite.co.jp
+mail.infoseek.co.jp
+mail.biglobe.ne.jp
+mail.nifty.com
+webmail.so-net.ne.jp
+mail.ocn.ne.jp
+
+# ============================================================
+# RUSSIA & CIS (Россия)
+# ============================================================
+e.mail.ru
+mail.yandex.ru
+mail.yandex.com
+mail.rambler.ru
+mail.bk.ru
+mail.inbox.ru
+mail.list.ru
+webmail.ukr.net
+mail.i.ua
+mail.meta.ua
+
+# ============================================================
+# GERMANY (Deutschland)
+# ============================================================
+mail.gmx.net
+mail.gmx.com
+mail.gmx.de
+webmail.web.de
+email.t-online.de
+mail.freenet.de
+mail.arcor.de
+mail.1und1.de
+
+# ============================================================
+# FRANCE (France)
+# ============================================================
+messagerie.orange.fr
+mail.orange.fr
+messagerie.sfr.fr
+webmail.laposte.net
+mail.free.fr
+webmail.numericable.fr
+mail.club-internet.fr
+webmail.wanadoo.fr
+
+# ============================================================
+# ITALY (Italia)
+# ============================================================
+mail.libero.it
+mail.virgilio.it
+mail.alice.it
+mail.tiscali.it
+mail.tin.it
+mail.fastwebnet.it
+
+# ============================================================
+# SPAIN (España)
+# ============================================================
+mail.terra.es
+correo.movistar.es
+mail.orange.es
+webmail.telefonica.net
+mail.ya.com
+
+# ============================================================
+# PORTUGAL (Portugal)
+# ============================================================
+mail.sapo.pt
+webmail.clix.pt
+mail.iol.pt
+webmail.netcabo.pt
+
+# ============================================================
+# POLAND (Polska)
+# ============================================================
+poczta.onet.pl
+poczta.wp.pl
+poczta.interia.pl
+poczta.o2.pl
+poczta.gazeta.pl
+
+# ============================================================
+# UK (United Kingdom)
+# ============================================================
+mail.btinternet.com
+mail.bt.com
+webmail.o2.co.uk
+mail.sky.com
+mail.virginmedia.com
+mail.talktalk.net
+mail.plusnet.com
+
+# ============================================================
+# NETHERLANDS (Nederland)
+# ============================================================
+mail.ziggo.nl
+webmail.kpn.com
+mail.xs4all.nl
+webmail.hetnet.nl
+
+# ============================================================
+# BELGIUM (België)
+# ============================================================
+mail.telenet.be
+mail.proximus.be
+mail.skynet.be
+webmail.pandora.be
+
+# ============================================================
+# INDIA (भारत)
+# ============================================================
+mail.rediff.com
+mail.rediffmail.com
+in.mail.yahoo.com
+mail.sify.com
+mail.indiatimes.com
+
+# ============================================================
+# BRAZIL (Brasil)
+# ============================================================
+mail.uol.com.br
+mail.bol.com.br
+mail.terra.com.br
+webmail.globo.com
+mail.ig.com.br
+
+# ============================================================
+# MEXICO & LATIN AMERICA
+# ============================================================
+mail.prodigy.net.mx
+correo.telmex.net.mx
+mail.terra.com.mx
+mail.hotmail.com.ar
+
+# ============================================================
+# TURKEY (Türkiye)
+# ============================================================
+mail.mynet.com
+mail.turk.net
+mail.superonline.com
+e-posta.ttnet.com.tr
+
+# ============================================================
+# ISRAEL (ישראל)
+# ============================================================
+mail.walla.co.il
+mail.nana.co.il
+webmail.bezeqint.net
+
+# ============================================================
+# MIDDLE EAST
+# ============================================================
+mail.maktoob.com
+mail.emirates.net.ae
+
+# ============================================================
+# AUSTRALIA & NEW ZEALAND
+# ============================================================
+mail.optusnet.com.au
+webmail.bigpond.com
+mail.iinet.net.au
+webmail.xtra.co.nz
+
+# ============================================================
+# SOUTH AFRICA
+# ============================================================
+mail.webmail.co.za
+webmail.mweb.co.za
+mail.vodamail.co.za
+
+# ============================================================
+# VIETNAM
+# ============================================================
+mail.vnn.vn
+mail.fpt.vn
+
+# ============================================================
+# THAILAND
+# ============================================================
+mail.sanook.com
+mail.thaimail.com
+
+# ============================================================
+# INDONESIA
+# ============================================================
+mail.plasa.com
+mail.telkom.net
+
+# ============================================================
+# PRIVACY-FOCUSED EMAIL (HIGH PRIORITY)
+# ============================================================
+mail.proton.me
+mail.protonmail.com
+protonmail.com
+proton.me
+app.tuta.com
+mail.tuta.com
+tutanota.com
+tutanota.de
+tutamail.com
+mailfence.com
+mailfence.com
+posteo.de
+posteo.de
+mail.startmail.com
+startmail.com
+app.fastmail.com
+fastmail.com
+mailbox.org
+mail.disroot.org
+mail.riseup.net
+ctemplar.com
+countermail.com
+hushmail.com
+runbox.com
+kolabnow.com
+lavabit.com
+
+# ============================================================
+# BUSINESS EMAIL PORTALS (Personal Use)
+# ============================================================
+mail.zoho.com
+mail.zoho.eu
+workplace.zoho.com
+mail.rackspace.com
+webmail.hostgator.com
+webmail.godaddy.com
+webmail.bluehost.com
+webmail.dreamhost.com
+webmail.namecheap.com
+webmail.siteground.com
+webmail.a2hosting.com
+webmail.hostinger.com
+webmail.ionos.com
+webmail.ovh.com
+webmail.gandi.net
+
+# ============================================================
+# US ISP EMAIL
+# ============================================================
+mail.comcast.net
+webmail.cox.net
+webmail.att.net
+webmail.verizon.net
+webmail.spectrum.net
+webmail.centurylink.net
+webmail.frontier.com
+webmail.earthlink.net
+mail.juno.com
+
+# ============================================================
+# CANADA ISP EMAIL
+# ============================================================
+webmail.shaw.ca
+webmail.rogers.com
+webmail.bell.ca
+webmail.telus.net
+webmail.videotron.ca
+webmail.sympatico.ca
+
+# ============================================================
+# SWISS PRIVACY EMAIL
+# ============================================================
+mail.infomaniak.com
+mail.gmx.ch
+webmail.bluewin.ch
+
+# ============================================================
+# NORDIC COUNTRIES
+# ============================================================
+webmail.telia.com
+mail.tele2.se
+webmail.spray.se
+mail.dnb.no
+webmail.telenor.no
+mail.sonera.fi
+mail.elisa.fi
+
+# ============================================================
+# EASTERN EUROPE
+# ============================================================
+mail.centrum.cz
+mail.seznam.cz
+mail.atlas.sk
+mail.azet.sk
+webmail.freemail.hu
+mail.citromail.hu
+mail.abv.bg
+mail.dir.bg
+mail.yahoo.ro
+webmail.romtelecom.ro
+
+# ============================================================
+# GREECE
+# ============================================================
+webmail.otenet.gr
+mail.forthnet.gr
+mail.in.gr
+
+# ============================================================
+# GENERIC WEBMAIL SUBDOMAINS (Wildcard Patterns)
+# ============================================================
+# Note: These are pattern suggestions for proxy/firewall rules
+HOST-KEYWORD,webmail
+HOST-KEYWORD,mail
+HOST-KEYWORD,email
