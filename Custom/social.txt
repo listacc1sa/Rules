@@ -80,7 +80,6 @@ host,forum.telegram.org
 host,fragment.com
 host,fr.telegram.org
 host,ftp.telegram.org
-host,graph.org
 host,groups.telegram.org
 host,hades.telegram.org
 host,health.telegram.org
@@ -140,8 +139,6 @@ host,system.telegram.org
 host,tdesktop.com
 host,tdesktop.telegram.org
 host,tdlib.telegram.org
-host,telega.one
-host,teleg.xyz
 host,telegram.ai
 host,telegram.asia
 host,telegram.biz
@@ -175,8 +172,6 @@ host,telegram.website
 host,telegram.xyz
 host,telegramapp.org
 host,telegramdownload.com
-host,telegra.ph
-host,telesco.pe
 host,test.telegram.org
 host,testing.telegram.org
 host,tg.dev
@@ -184,7 +179,6 @@ host,tg.org
 host,tgandroid.telegram.org
 host,tgios.telegram.org
 host,tgram.org
-host,tgraph.telegram.org
 host,torg.org
 host,translate.telegram.org
 host,translations.telegram.org
