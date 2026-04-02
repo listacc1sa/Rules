@@ -1,0 +1,736 @@
+# App Store
+host, amp-api-edge.apps.apple.com
+host, amp-api-search-edge.apps.apple.com
+host, api.apps.apple.com
+host, apps.apple.com
+host, apps.mzstatic.com
+host, apps.itunes-nocookie.com
+host, buy.itunes.apple.com
+host, entitlements.itunes.apple.com
+host, fpinit.itunes.apple.com
+host, iosapps.itunes.apple.com
+host, is1-ssl.mzstatic.com
+host, osxapps.itunes.apple.com
+host, p59-buy.itunes.apple.com
+host, pd.itunes.apple.com
+host, play.itunes.apple.com
+host, sandbox.itunes.apple.com
+host, search.itunes.apple.com
+## CNAME from amp-api-edge.apps.apple.com
+host, amp-api-edge.apps.apple.com.edgekey.net
+host, amp-api-edge-lb.itunes-apple.com.akadns.net
+## CNAME from amp-api-search-edge.apps.apple.com
+host, amp-api-search-edge.apps.apple.com.edgekey.net
+host, amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
+## CNAME from api.apps.apple.com
+host, api.apps.apple.com.edgekey.net
+host, api-apps-lb.itunes-apple.com.akadns.net
+## CNAME from apps.apple.com
+host, apps-cdn.itunes-apple.com.akadns.net
+## CNAME from apps.mzstatic.com
+host, apps.mzstatic.com.edgekey.net
+host, apps-mzstatic-cdn.itunes-apple.com.akadns.net
+## CNAME from apps.itunes-nocookie.com
+host, apps.itunes.apple.com.edgekey.net
+## CNAME from buy.itunes.apple.com
+host, buy.itunes-apple.com.akadns.net
+## CNAME from entitlements.itunes.apple.com
+host, entitlements.edge-itunes-apple.com.akadns.net
+## CNAME from fpinit.itunes.apple.com
+host, commerce.itunes.apple.com.edgesuite.net
+host, fpinit.edge-itunes-apple.com.akadns.net
+host, fpinit-us.edge-itunes-apple.com.akadns.net
+host, fpinit-us-w.edge-itunes-apple.com.akadns.net
+## CNAME from iosapps.itunes.apple.com
+host, iosapps.itunes.g.aaplimg.com
+## CNAME from is1-ssl.mzstatic.com
+host, is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+## CNAME from osxapps.itunes.apple.com
+host, osxapps.itunes.g.aaplimg.com
+## CNAME from p59-buy.itunes.apple.com
+host, p59-buy.itunes-apple.com.akadns.net
+host, p59-buy-lb.itunes-apple.com.akadns.net
+## CNAME from pd.itunes.apple.com
+host, pd-cdn.itunes-apple.com.akadns.net
+## CNAME from play.itunes.apple.com
+host, play.itunes.apple.com.edgesuite.net
+host, play-cdn.itunes-apple.com.akadns.net
+## CNAME from sandbox.itunes.apple.com
+host, sandbox.itunes-apple.com.akadns.net
+## CNAME from search.itunes.apple.com
+host, search-cdn.itunes-apple.com.akadns.net
+# Apple ID Authentication
+host, auth.itunes.apple.com
+host, ax.init.itunes.apple.com
+host, gsa.apple.com
+host, gsas.apple.com
+host, identity.apple.com
+host, idmsa.apple.com
+host, init.itunes.apple.com
+host, setup.icloud.com
+## CNAME from auth.itunes.apple.com
+host, auth.v.aaplimg.com
+## CNAME from ax.init.itunes.apple.com
+host, ax.init.itunes.apple.com.edgesuite.net
+host, ax.init-cdn.itunes-apple.com.akadns.net
+## CNAME from gsa.apple.com
+host, gsa.apple.com.akadns.net
+## CNAME from gsas.apple.com
+host, gsas.apple.com.akadns.net
+## CNAME from identity.apple.com
+host, identity.apple.com.akadns.net
+## CNAME From idmsa.apple.com
+host, idms-apple.com.akadns.net
+host, idmsa.idms-apple.com.akadns.net
+## CNAME from init.itunes.apple.com
+host, init.itunes.apple.com.edgesuite.net
+host, init-cdn.itunes-apple.com.akadns.net
+## CNAME from setup.icloud.com
+host, setup.fe.apple-dns.net
+# Apple Music
+## Required for ex. account settings
+host, amp-api.music.apple.com
+### CNAME from amp-api.music.apple.com
+host, amp-api.music-akam.apple.com.akadns.net
+host, amp-api-music-lb.itunes-apple.com.akadns.net
+## Required for ex. radio
+host, amp-api-edge.music.apple.com
+### CNAME from amp-api-edge.music.apple.com
+host, amp-api-edge.music-lb.itunes-apple.com.akadns.net
+host, amp-api-edge-music-akam.itunes-apple.com.akadns.net
+# Carrier bundle updates
+host, carrierbundle.itunes.apple.com
+host, carrierbundle.itunes-apple.com.akadns.net
+host, iphonediags.apple.com
+## CNAME from carrierbundle.itunes.apple.com
+host, carrierbundle.itunes.apple.com.edgesuite.net
+host, carrierbundle-cdn.itunes-apple.com.akadns.net
+# Device Activation
+host, activateiphone.apple.com
+host, activateiphone1.apple.com
+host, activateiphone2.apple.com
+host, activateiphone3.apple.com
+host, activateiphone4.apple.com
+host, activateiphone5.apple.com
+host, activateiphone6.apple.com
+host, activateiphone7.apple.com
+host, activateiphone8.apple.com
+host, activateiphone9.apple.com
+host, activateiphone10.apple.com
+host, activateiphone-usw2-cx01.apple.com
+host, albert.apple.com
+host, albert-so.apple.com
+host, humb.apple.com
+host, static.ips.apple.com
+host, tbsc.apple.com
+## CNAME from activateiphone.apple.com
+host, activateiphone.v.aaplimg.com
+host, activateiphone-usw2-cx03.apple.com
+## CNAME from albert.apple.com
+host, albert.v.aaplimg.com
+## CNAME from humb.apple.com
+host, humb.v.aaplimg.com
+## CNAME from static.ips.apple.com
+host, static.ips-geo.gcsis-apple.com.akadns.net
+host, static2.ips.apple.com.edgekey.net
+## CNAME from tbsc.apple.com
+host, tbsc.apple.com.v.aaplimg.com
+# DeviceCheck/Attestation
+host, appattest.apple.com
+host, appattest.v.aaplimg.com
+host, data.appattest.apple.com
+host, data-development.appattest.apple.com
+host, register.appattest.apple.com
+host, register-development.appattest.apple.com
+## CNAME From data.appattest.apple.com
+host, data.appattest.v.aaplimg.com
+host, usw2-data-appattest-aws-prod.apple.com
+## CNAME from data-development.appattest.apple.com
+host, data-development.appattest.v.aaplimg.com
+host, usw2-data-development-appattest-prod.apple.com
+## CNAME from register.appattest.apple.com
+host, register.appattest.v.aaplimg.com
+host, usw2-register-appattest-prod-aws-prod.apple.com
+## CNAME from register-development.appattest.apple.com
+host, register-development.appattest.v.aaplimg.com
+host, usw2-register-development-appattest-prod.apple.com
+# eSIM Activation
+host, sq-device.apple.com
+## CNAME from sq-device.apple.com
+host, rn-sq-device.apple.com
+host, sq-device.v.aaplimg.com
+# Software updates
+host, appldnld.apple.com
+host, configuration.apple.com
+host, download.apple.map.fastly.net
+host, downloaddispatch.itunes.apple.com
+host, fcs-keys-pub-prod.cdn-apple.com
+host, gdmf.apple.com
+host, gdmf-ados.apple.com
+host, gg.apple.com
+host, gs.apple.com
+host, gsra.apple.com
+host, ig.apple.com
+host, mesu.apple.com
+host, ns.itunes.apple.com
+host, oscdn.apple.com
+host, osrecovery.apple.com
+host, qa2-int-swscan.apple.com
+host, s.mzstatic.com
+host, se-edge.itunes.apple.com
+host, skl.apple.com
+host, su.itunes.apple.com
+host, swcdn.apple.com
+host, swcdnlocator.apple.com
+host, swdist.apple.com
+host, swdownload.apple.com
+host, swquery.apple.com
+host, swscan.apple.com
+host, updates.cdn-apple.com
+host, updates-http.cdn-apple.com
+host, wkms-public.apple.com
+## CNAME from appldnld.apple.com
+host, appldnld.apple.com.edgesuite.net
+host, appldnld.apple.com.akadns.net
+host, appldnld.g.aaplimg.com
+## CNAME from configuration.apple.com
+host, configuration.apple.com.akadns.net
+host, configuration.apple.com.edgekey.net
+## CNAME from downloaddispatch.itunes.apple.com
+host, downloaddispatch.itunes.apple.com.edgesuite.net
+host, downloaddispatch-cdn.itunes-apple.com.akadns.net
+## CNAME from fcs-keys-pub-prod.cdn-apple.com
+host, fcs-keys.g.aaplimg.com
+## CNAME from gdmf.apple.com
+host, gdmf.v.aaplimg.com
+## CNAME from gdmf-ados.apple.com
+host, gdmf-ados.v.aaplimg.com
+## CNAME from gg.apple.com
+host, gg.apple.com.v.aaplimg.com
+## CNAME from gs.apple.com
+host, gs.apple.com.v.aaplimg.com
+## CNAME from grsa.apple.com
+host, gsra.apple.com.v.aaplimg.com
+## CNAME from ig.apple.com
+host, ig.apple.com.v.aaplimg.com
+## CNAME from mesu.apple.com
+host, mesu-cdn.apple.com.akadns.net
+host, mesu-cdn.origin-apple.com.akadns.net
+host, mesu.g.aaplimg.com
+## CNAME from ns.itunes.apple.com
+host, ns.itunes-apple.com.akadns.net
+## CNAME from oscdn.apple.com
+host, oscdn.apple.com.edgesuite.net
+host, oscdn.origin-apple.com.akadns.net
+## CNAME from osrecovery.apple.com
+host, osrecovery.swu-apple.com.akadns.net
+## CNAME from s.mzstatic.com
+host, s.mzstatic.itunes-apple.com.akadns.net
+host, s-mzstatic-applak.itunes-apple.com.akadns.net
+## CNAME from se-edge.itunes.apple.com
+host, se-edge.itunes.apple.com.edgekey.net
+host, se-edge.itunes-apple.com.akadns.net
+## CNAME from skl.apple.com
+host, skl.apple.com.v.aaplimg.com
+## CNAME from su.itunes.apple.com
+host, su.itunes.apple.com.edgekey.net
+host, su-applak.itunes-apple.com.akadns.net
+host, su-cdn.itunes-apple.com.akadns.net
+## CNAME from swcdn.apple.com
+host, swcdn.g.aaplimg.com
+## CNAME from swcdnlocator.apple.com
+host, swcdnlocator.swu-apple.com.akadns.net
+host, st11p01su-swcdnlocator.swu-apple.com.akadns.net
+## CNAME from swdist.apple.com
+host, swdist.apple.com.akadns.net
+host, swdist.apple.com.edgekey.net
+## CNAME from swdownload.apple.com
+host, p01-swdownload.swu-apple.com.akadns.net
+## CNAME from swscan.apple.com
+host, swscan-cdn.apple.com.akadns.net
+## CNAME from updates.cdn-apple.com
+host, updates.cdn-apple.com.akadns.net
+host, updates.g.aaplimg.com
+## CNAME from updates-http.cdn-apple.com
+host, updates-http.cdn-apple.com.akadns.net
+host, updates-http.g.aaplimg.com
+## CNAME from wkms-public.apple.com
+host, wkms-public.v.aaplimg.com
+host, wkms-public-prod.msc.sbz.apple.com
+# Misc.
+# CDN
+host, docs-assets.developer.apple.com
+host, publicassets.cdn-apple.com
+host, sf-saas.cdn-apple.com
+host, sfss.cdn-apple.com
+## CNAME from publicassets.cdn-apple.com
+host, publicassets.cdn-apple.v.aaplimg.com
+## CNAME from sfss.cdn-apple.com
+host, sfss.v.aaplimg.com
+# GarageBand downloadable content
+host, audiocontentdownload.apple.com
+## CNAME from audiocontentdownload.apple.com
+host, audiocontentdownload.g.aaplimg.com
+host, audiocontentdownload-lb.apple.com.akadns.net
+host, audiocontentdownload-row-lb.apple.com.akadns.net
+# "Installing apps from websites & alternative marketplaces"
+host, apps-marketplace.apple.com
+# Safari's Tracking Protection/Blocklist updates
+host, wps.apple.com
+## CNAME from wps.apple.com
+host, wps.v.aaplimg.com
+host, use1-wps-prod.apple.com
+# Translations
+host, sequoia.cdn-apple.com
+# Xcode downloadable components
+host, devimages-cdn.apple.com
+host, download.developer.apple.com
+## CNAME from devimages-cdn.apple.com
+host, devimages-cdn.origin-apple.com.akadns.net
+## CNAME from download.developer.apple.com
+host, dd-cdn.origin-apple.com.akadns.net
+host, download-developer.g.aaplimg.com
+# THIRD PARTY
+# AltStore
+host, cdn.altstore.io
+# Feather
+## Used for online signing of apps
+host, api.palera.in
+# Homebrew
+host, formulae.brew.sh
+host, homebrew.github.io
+# KravaSign
+## Used for signing apps
+host, sign.kravasign.com
+# Aer Lingus
+host, aerlingus-wifi.com
+host, www.aerlingus-wifi.com
+# Air Canada In-flight Entertainment & Connectivity
+host, acwifi.com
+host, aircanadawifi.com
+host, rougewifi.com
+host, www.acwifi.com
+host, www.aircanadawifi.com
+host, www.rougewifi.com
+# AirAsia Inflight Wifi & Internet
+host, wifi.airasia.com
+# Alaska Airlines
+host, alaskawifi.com
+host, www.alaskawifi.com
+# Alcadis
+host, central.access.network
+host, controller.access.network
+# All Nippon Airways (ANA) Wi-Fi Service
+host, ana-inflight-wifi.com
+host, www.ana-inflight-wifi.com
+# Amazon
+host, fireoscaptiveportal.com
+host, spectrum.s3.amazonaws.com
+# American Airlines Inflight Wi-Fi
+host, aa.entertainment.viasat.com
+host, aa.viasat.com
+host, aainflight.com
+host, checkout.aa.com
+host, files.aa.entertainment.viasat.com
+host, www.aainflight.com
+# American Airlines Lounge Wi-Fi
+host, lounge.aa.com
+# American Express
+host, wirelessportal.americanexpress.com
+## CNAME from wirelessportal.americanexpress.com
+host, wirelessportal.americanexpress.com.akadns.net
+host, wirelessportal2.americanexpress.com.akadns.net
+# Amtrak
+host, amtrakconnect.com
+host, amtrakwifi.com
+host, login.amtrakwifi.com
+host, www.amtrakconnect.com
+# Apple
+host, attwifi.apple.com
+host, captive.apple.com
+host, netcts.cdn-apple.com
+## CNAME from captive.apple.com
+host, captive.g.aaplimg.com
+host, captive-cdn.origin-apple.com.akadns.net
+host, captive-cidr.origin-apple.com.akadns.net
+## CNAME from netcts.cdn-apple.com
+host, netcts.cdn-apple.com.edgesuite.net
+# Arch Linux
+host, ping.archlinux.org
+## CNAME from ping.archlinux.org
+host, redirect.archlinux.org
+# AT&T Business Wi-Fi
+host, login.attwifi.com
+host, login-awe-cluster.attwifi.com
+host, lpv.attwifi.com
+host, secure.wayport.net
+host, secure-login.attwifi.com
+host, vgw1-03.phl-philly-iap.lpv.attwifi.com
+## CNAME from attwifi.apple.com
+host, rsc.wayport.net
+# Arkose Labs
+host, arkoselabs.com
+host, arkoselabs.com.cdn.cloudflare.net
+host, arkoselabs.roblox.com
+# Cloudflare Challenges
+host, challenges.cloudflare.com
+host, cloudflarechallenge.com
+# Cutcaptcha
+host, cutcaptcha.net
+host, v2.cutcaptcha.net
+# DDoS-Guard
+## (Credit to levin)
+host, check.ddos-guard.net
+# Google reCAPTCHA
+host, recaptcha.net
+host, recaptcha.net.cn
+host, recaptcha-cn.net
+host, recaptchaenterprise.clients6.google.com
+host, recaptchaenterprise.googleapis.com
+host, recaptchaenterprise.mtls.googleapis.com
+# hCaptcha
+host, api.hcaptcha.com
+host, assets.hcaptcha.starlink.com
+host, dashboard.hcaptcha.com
+host, hcaptcha.starlink.com
+host, imgs3.hcaptcha.com
+host, js.hcaptcha.com
+host, newassets.hcaptcha.com
+# MTCaptcha
+host, mtcaptcha.com
+# Yandex
+host, captcha-backgrounds.s3.yandex.net
+# Misc.
+# APPLE
+host, ads.apple.com
+host, ads.apple.com.akadns.net
+host, ads.apple.com.edgesuite.net
+host, advertising.apple.com
+host, advp.apple.com
+host, api-adservices.apple.com
+host, ca.iadsdk.apple.com
+host, cf.iadsdk.apple.com
+host, iad.apple.com
+host, iad-apple.com.akadns.net
+host, iadcontent.apple.com
+host, iadcontent-lb.apple.com.akadns.net
+host, iadmoo.apple.com
+host, iadsdk.apple.com
+host, iadsdk.apple.com.akadns.net
+host, iadsdk.apple.com.edgekey.net
+host, iadworkbench.apple.com
+host, images-mercury.mzstatic.com
+host, images-mercury.v.aaplimg.com
+host, launch.apple.com
+host, livepage.apple.com
+host, partiality.itunes.apple.com
+host, partiality.itunes.apple.com.edgekey.net
+host, partiality.itunes-apple.com.akadns.net
+host, prd-usw2-requestattribution-iad.apple.com
+host, proxy-skadnetwork.apple.com
+host, qa-iad.apple.com
+host, qwapi.com
+host, sdkintg-iad.apple.com
+host, sdkintgiad.apple.com
+host, searchads.apple.com
+host, searchads.apple.com.edgesuite.net
+host, searchads.lb-apple.com.akadns.net
+host, skadnetwork.iad-apple.com.akadns.net
+host, stg-iad.apple.com
+host, survey.apple.com
+host, survey.origin-apple.com.akadns.net
+host, tr.iadsdk.apple.com
+host, uxintg-iad.apple.com
+host, uxintgiad.apple.com
+host, www.qwapi.com
+# CNAMEs to skadnetwork.iad-apple.com.akadns.net
+host, proxy-skadnetwork.apple.com
+# iAd Workbench, seems targetted at developers using iAd
+host, iadworkbench.apple.com
+host, partiality.itunes.apple.com
+host, partiality.itunes.apple.com.edgekey.net
+host, partiality.itunes-apple.com.akadns.net
+# CNAME from iadcontent.apple.com
+host, iadcontent-lb.apple.com.akadns.net
+# CNAME from iadsdk.apple.com
+host, iadsdk.apple.com.akadns.net
+host, iadsdk.apple.com.edgekey.net
+# CNAME from iadworkbench.apple.com
+host, iad-apple.com.akadns.net
+# AdServices
+host, api-adservices.apple.com
+# CNAME from api-adservices.apple.com
+host, prd-usw2-requestattribution-iad.apple.com
+# Apple Search Ads
+host, ads.apple.com
+host, searchads.apple.com
+## CNAME from ads.apple.com
+host, ads.apple.com.akadns.net
+host, ads.apple.com.edgesuite.net
+## CNAME from searchads.apple.com
+host, searchads.apple.com.edgesuite.net
+host, searchads.lb-apple.com.akadns.net
+# iTunes "InAppMessages"
+host, se2.itunes.apple.com
+## CNAME from se2.itunes.apple.com
+host, se2.itunes.apple.com.edgesuite.net
+host, se2-cdn.itunes-apple.com.akadns.net
+# iTunes "MZPersonalizer" Recommendations
+host, my.itunes.apple.com
+## CNAME from my.itunes.apple.com
+host, my.itunes-apple.com.akadns.net
+# "Personalized" Store Platform lookup
+host, sp.itunes.apple.com
+## CNAME from sp.itunes.apple.com
+host, sp.itunes.apple.com.edgekey.net
+host, sp-cdn.itunes-apple.com.akadns.net
+# Promotional images/banners
+## Seen in ex. App Store & Apple Music
+host, images-mercury.mzstatic.com
+## CNAME from images-mercury.mzstatic.com
+host, images-mercury.v.aaplimg.com
+# Quatro Wireless API, ad company bought by Apple
+host, qwapi.com
+# Apple "Services Toolboxes" & the "Performance Partners Affiliate Program"
+host, applemediaservices.com
+host, marketing.services.apple
+host, performance-partners.apple.com
+## Likely related to Apple Media Services
+### referred to as "dynamic-ui-bundle-gdpr-url" & "marketingItemDynamicUIUrl"
+host, amsui.apple.com
+# ANALYTICS/TELEMETRY
+# A/B Testing
+host, experiments.apple.com
+# CNAME from experiments.apple.com
+host, ab.apple.com.akadns.net
+host, experiments.apple.com.edgekey.net
+# Web Metrics
+host, securemetrics.apple.com
+host, securemetrics.apple.com.cn
+## CNAME from securemetrics.apple.com
+host, securemetrics.v.aaplimg.com
+host, securemvt.apple.com
+host, securemvt.apple.com.cn
+## CNAME from securemvt.apple.com
+host, securemvt.v.aaplimg.com
+host, supportmetrics.apple.com
+## CNAME from supportmetrics.apple.com
+host, supportmetrics.v.aaplimg.com
+host, supportmetrics-uat.apple.com
+host, metrics.apple.com
+## Seen on account.apple.com
+host, appleid-ut.corp.apple.com
+# Diagnostic Data
+# "Used by Apple devices to help detect possible hardware issues"
+host, diagassets.apple.com
+# CNAME from diagassets.apple.com
+host, diagassets.g.aaplimg.com
+host, diagassets-lb.apple.com.akadns.net
+host, diagnostics.apple.com
+# CNAME from diagnostics.apple.com
+host, diagnostics.apple.com.akadns.net
+host, idiagnostics.apple.com
+# CNAME from idiagnostics.apple.com
+host, idiagnostics.apple.com.akadns.net
+host, idiagnostics-devices-mdn.apple.com
+host, idiagnostics-devices-qa.apple.com
+host, idiagnostics-devices-reno.apple.com
+host, idiagnostics-ft.apple.com
+host, idiagnostics-mdn1.apple.com
+host, idiagnostics-qa.apple.com
+host, idiagnostics-reno.apple.com
+# Possibly related to cstat domains?
+host, odin-signals.apple.com
+# CNAME from odin-signals.apple.com
+host, idv-signals-pommery-prod.v.aaplimg.com
+# App Analytics/Telemetry
+# Apple Pay
+host, phonesubmissions.apple.com
+# Books
+host, books-analytics-events.apple.com
+host, prod-event-relay-books-api.v.aaplimg.com
+# Compressor
+host, compressor-events.apple.com
+## (CNAME from compressor-events.apple.com)
+host, prod-compressor-event-gateway.v.aaplimg.com
+# iWork
+## (ex. Seen from Pages on OS X)
+host, iwork-events.apple.com
+## (CNAME from iwork-events.apple.com)
+host, prod-iwork-events.v.aaplimg.com
+# Maps
+host, gsp10.apple-mapkit.com
+host, gsp10-ssl.apple.com
+## CNAME from gsp10.apple-mapkit.com & gsp10-ssl.apple.com
+host, gsp10-ssl.ls-apple.com.akadns.net
+# News
+host, news-app-events.apple.com
+host, news-events.apple.com
+host, news-notification-events.apple.com
+host, news-sports-events.apple.com
+host, prod-event-relay-api.v.aaplimg.com
+host, prod-event-relay-sports-api.v.aaplimg.com
+# Notes
+host, notes-analytics-events.apple.com
+host, prod-event-relay-notes-api.v.aaplimg.com
+# Shazam
+host, beacon.shazam.com
+host, shazam-events.cdn-apple.com
+host, shazam-insights.cdn-apple.com
+## (CNAME from shazam-events.cdn-apple.com)
+host, shazam-events.v.aaplimg.com
+## (CNAME from shazam-insights.cdn-apple.com)
+host, shazam-insights.g.aaplimg.com
+host, shazam-insights-lb.apple.com.akadns.net
+# Stocks
+host, stocks-analytics-events.apple.com
+host, prod-event-relay-stocks-api.v.aaplimg.com
+# Weather
+host, weather-analytics-events.apple.com
+host, prod-event-relay-weather-api.v.aaplimg.com
+# Beta Updates & Feedback Assistant
+host, bpapi.apple.com
+# CNAME from bpapi.apple.com
+host, bpapi.v.aaplimg.com
+host, beta.apple.com
+# CNAME from beta.v.aaplimg.com
+host, beta.v.aaplimg.com
+host, fba.apple.com
+# CNAME from fba.apple.com
+host, fba.v.aaplimg.com
+# Misc.
+# General telemetry for various Apple apps & services
+# It has also been used for updates, but updates seem to still work without issue with this blocked.
+host, xp.apple.com
+# CNAME from xp.apple.com
+host, xp.apple.com.edgekey.net
+host, xp.itunes-apple.com.akadns.net
+host, xp.v.aaplimg.com
+host, xp-cdn-lb.itunes-apple.com.akadns.net
+# CNAME from daf.xp.apple.com
+host, xp-daf.apple.com.edgekey.net
+host, xp-daf.itunes-apple.com.akadns.net
+host, xp-qa.apple.com
+# Similar to xp.apple.com, except Apple officially admits this is used for "Reporting".
+host, xp-cdn.apple.com
+# CNAME from xp-cdn.apple.com
+host, cdn-xp-ingest.edge.apple
+host, cdn-xp-ingest-ab.v.aaplimg.com
+# Appears to be used for telemetry, very frequently called by the "rtcreportingd" process
+# Some users have claimed this causes issues with family sharing, so if you use that functionality, you may have to allow these.
+# Also appears to include a lot of references to xp.apple.com? (See first link below)
+host, pancake.apple.com
+# CNAME from pancake.apple.com
+host, pancake.apple.com.edgekey.net
+host, pancake.cdn-apple.com.akadns.net
+# CNAME from pancake.cdn-apple.com.akadns.net
+host, pancake.g.aaplimg.com
+# CNAME from fbs.smoot.apple.com
+host, smoot-feedback.v.aaplimg.com
+host, cstat.apple.com
+host, cstat.cdn-apple.com
+host, cstat-origin.apple.com
+# CNAME from cstat.apple.com & cstat.cdn-apple.com
+host, cstat-lb.apple.com.akadns.net
+# CNAME from cstat.apple.com
+host, cstat.apple.com.edgesuite.net
+# CNAME from cstat.cdn-apple.com
+host, cstat.g.aaplimg.com
+# CNAME from cstat-origin.apple.com
+host, cstat.g.apple.com
+host, databeacon.apple.com
+host, datacollection.apple.com
+# CNAME from datacollection.apple.com
+host, msc-dct-prod.msc.apple.com
+# Appears to be related to various metrics & crash reporting
+host, internalcheck.apple.com
+# General telemetry, diagnostic & usage data
+host, radarsubmissions.apple.com
+host, radarsubmissions.apple.com.akadns.net
+# Crash Reporting
+host, iphonesubmissions.apple.com
+host, iphonesubmissions.apple.com.akadns.net
+# CNAME from iphonesubmissions.apple.com
+host, iphonesubmissions.v.aaplimg.com
+host, iphonesubmissions-old.apple.com
+host, speedtracer.apple.com
+# iCloud
+host, acfeedbackws.icloud.com
+host, feedbackws.fe.apple-dns.cn
+host, feedbackws.fe.apple-dns.net
+# CNAME from acfeedbackws.icloud.com
+host, feedbackws.fe2.apple-dns.net
+host, feedbackws.icloud.com
+host, feedbackws.icloud.com.cn
+host, metrics.icloud.com
+# CNAME from metrics.icloud.com
+host, me.apple-dns.net
+## iTunes
+### Genius Analytics & Personalized Recommendations
+host, genius.apps-apple.com.akadns.net
+host, genius.itunes.apple.com
+host, genius.itunes-apple.com.akadns.net
+host, genius-2.apps-apple.com.akadns.net
+host, genius-2.itunes.apple.com
+host, genius-2.itunes-apple.com.akadns.net
+host, genius-3.itunes.apple.com
+host, genius-3.itunes.apple.com.edgekey.net
+host, genius-3-cdn.lb-apple.com.akadns.net
+host, genius-upload.apps-apple.com.akadns.net
+host, genius-upload.itunes.apple.com
+host, genius-upload.itunes-apple.com.akadns.net
+host, metrics.mzstatic.com
+# Misc. Analytics/Telemetry
+host, camfx-analytics-events.apple.com
+# SIRI
+host, dejavu.apple.com
+host, diatryma.apple.com
+host, guzzoni.apple.com
+host, guzzoni-apple.com.akadns.net
+# CNAME from guzzoni.apple.com
+host, guzzoni-apple-com.v.aaplimg.com
+host, guzzoni-apple-com-edge.v.aaplimg.com
+host, sequoia.apple.com
+host, siri.apple.com
+host, swallow.apple.com
+# CNAME from seed.siri.apple.com
+host, seed-siri-apple-com.v.aaplimg.com
+# CNAME from swallow.apple.com
+host, swallow-apple-com.v.aaplimg.com
+# MISC.
+# Safari Start/Homepage
+host, apple.netscape.com
+host, livepage.apple.com
+# Apple "Content Caching" Service - "finds Apple caching servers on the local network."
+host, lcdn-locator.apple.com
+host, lcdn-locator.apple.com.akadns.net
+host, lcdn-locator-usuqo.apple.com.akadns.net
+host, lcdn-registration.apple.com
+host, lcdn-registration.apple.com.akadns.net
+host, st11p01su-lcdnreg.isu.apple.com.akadns.net
+host, serverstatus.apple.com
+host, serverstatus.apple.com.akadns.net
+host, suconfig.apple.com
+host, suconfig.apple.com.edgesuite.net
+# "Back to my Mac" - service is dead, but domain still appears active
+host, hello.connectivity.me.com
+## CNAME from hello.connectivity.me.com
+host, hello.connectivity.me.com.akadns.net
+# Spotlight Search/Suggestions
+host, bag-smoot.v.aaplimg.com
+host, parsec.apple.com
+host, smoot.apple.cn
+host, smoot.apple.com
+host, smoot.apple.com.cn
+host, smoot.g.aaplimg.com
+host, smoot.v.aaplimg.com
+host, smoot-api-safari-ause1a.v.aaplimg.com
+host, smoot-apple.com.akadns.net
+## CNAME from api.smoot.apple.com.cn & api-glb.smoot.apple.com 
+host, smoot-api-glb.v.aaplimg.com
+## CNAME from cdn2.smoot.apple.com
+host, smoot-searchv2-ause1c.v.aaplimg.com
+# Surveys from Apple
+host, survey.apple.com
+## CNAME from survey.apple.com
+host, survey.origin-apple.com.akadns.net
