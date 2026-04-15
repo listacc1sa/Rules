@@ -40,4 +40,154 @@ HOST-SUFFIX,s3.amazonaws.com,DIRECT
 HOST-SUFFIX,init.push.apple.com,DIRECT
 HOST-SUFFIX, push.apple.com,DIRECT
 HOST-SUFFIX,.push.apple.com,DIRECT
-HOST,api.push.apple.com,DIRECT
+# === Meta & Big Tech Chat ===
+HOST-SUFFIX, messenger.com
+HOST-SUFFIX, web.whatsapp.com
+HOST-SUFFIX, whatsapp.com
+HOST-SUFFIX, facebook.com
+HOST-SUFFIX, hangouts.google.com
+HOST-SUFFIX, chat.google.com
+HOST-SUFFIX, messages.google.com
+HOST-SUFFIX, imessage.apple.com
+HOST-SUFFIX, facetime.apple.com
+# === Cross-Platform Chat Apps ===
+HOST-SUFFIX, telegram.org
+HOST-SUFFIX, web.telegram.org
+HOST-SUFFIX, signal.org
+HOST-SUFFIX, signal.org
+HOST-SUFFIX, viber.com
+HOST-SUFFIX, line.me
+HOST-SUFFIX, kakaocorp.com
+HOST-SUFFIX, kakaotalk.com
+HOST-SUFFIX, snapchat.com
+HOST-SUFFIX, discord.com
+HOST-SUFFIX, discordapp.com
+# === Business Chat Tools ===
+HOST-SUFFIX, slack.com
+HOST-SUFFIX, teams.microsoft.com
+HOST-SUFFIX, mattermost.com
+HOST-SUFFIX, zoho.com
+HOST-SUFFIX, rocket.chat
+HOST-SUFFIX, webex.com
+HOST-SUFFIX, chatwork.com
+HOST-SUFFIX, fleep.io
+# === Gaming & Niche Chat ===
+HOST-SUFFIX, steamcommunity.com
+HOST-SUFFIX, roblox.com
+HOST-SUFFIX, twitch.tv
+HOST-SUFFIX, guilded.gg
+# === Open Source & Decentralized Chat ===
+HOST-SUFFIX, matrix.org
+HOST-SUFFIX, element.io
+HOST-SUFFIX, riot.im
+HOST-SUFFIX, delta.chat
+HOST-SUFFIX, wire.com
+HOST-SUFFIX, tox.chat
+HOST-SUFFIX, threema.ch
+# === Dating Apps with Chat (Optional Block) ===
+HOST-SUFFIX, tinder.com
+HOST-SUFFIX, bumble.com
+HOST-SUFFIX, okcupid.com
+HOST-SUFFIX, hinge.co
+HOST-SUFFIX, plentyoffish.com
+HOST-SUFFIX, coffeemeetsbagel.com
+HOST-SUFFIX, match.com
+# === Cloud Storage / Drive Services ===
+HOST-SUFFIX, drive.google.com
+HOST-SUFFIX, onedrive.live.com
+HOST-SUFFIX, sharepoint.com
+HOST-SUFFIX, dropbox.com
+HOST-SUFFIX, mega.nz
+HOST-SUFFIX, box.com
+HOST-SUFFIX, icloud.com
+HOST-SUFFIX, sync.com
+HOST-SUFFIX, pcloud.com
+HOST-SUFFIX, mediafire.com
+HOST-SUFFIX, zippyshare.com
+HOST-SUFFIX, yandex.disk
+HOST-SUFFIX, tresorit.com
+HOST-SUFFIX, internxt.com
+HOST-SUFFIX, filen.io
+HOST-SUFFIX, idrive.com
+HOST-SUFFIX, koofr.eu
+HOST-SUFFIX, openload.co
+HOST-SUFFIX, filemail.com
+HOST-SUFFIX, nextcloud.com
+HOST-SUFFIX, seafile.com
+HOST-SUFFIX, cubbit.io
+HOST-SUFFIX, storj.io
+HOST-SUFFIX, terabox.com
+HOST-SUFFIX, degoo.com
+HOST-SUFFIX, blomp.com
+HOST-SUFFIX, spideroak.com
+HOST-SUFFIX, resilio.com
+HOST-SUFFIX, sendspace.com
+HOST-SUFFIX, 4shared.com
+HOST-SUFFIX, wetransfer.com
+HOST-SUFFIX, transfernow.net
+HOST-SUFFIX, myairbridge.com
+# Global free webmail
+HOST-SUFFIX,gmail.com
+HOST-SUFFIX,mail.google.com
+HOST-SUFFIX,outlook.com
+HOST-SUFFIX,outlook.live.com
+HOST-SUFFIX,hotmail.com
+HOST-SUFFIX,hotmail.co.uk
+HOST-SUFFIX,yahoo.com
+HOST-SUFFIX,yahoo.co.uk
+HOST-SUFFIX,yahoo.fr
+HOST-SUFFIX,yahoo.de
+HOST-SUFFIX,aol.com
+HOST-SUFFIX,icloud.com
+HOST-SUFFIX,me.com
+HOST-SUFFIX,protonmail.com
+HOST-SUFFIX,zoho.com
+HOST-SUFFIX,yandex.com
+HOST-SUFFIX,mail.ru
+HOST-SUFFIX,gmx.com
+HOST-SUFFIX,gmx.de
+HOST-SUFFIX,tutanota.com
+HOST-SUFFIX,fastmail.com
+HOST-SUFFIX,hushmail.com
+HOST-SUFFIX,runbox.com
+HOST-SUFFIX,posteo.de
+HOST-SUFFIX,mailfence.com
+# Corporate / business webmail
+HOST-SUFFIX,office.com
+HOST-SUFFIX,exchange.microsoft.com
+HOST-SUFFIX,office365.com
+HOST-SUFFIX,mail.zoho.com
+HOST-SUFFIX,mail.protonmail.com
+HOST-SUFFIX,protonmail.ch
+HOST-SUFFIX,protonmail.com
+# Regional / popular in certain countries
+HOST-SUFFIX,qq.com
+HOST-SUFFIX,163.com
+HOST-SUFFIX,126.com
+HOST-SUFFIX,sina.com
+HOST-SUFFIX,sina.cn
+HOST-SUFFIX,163.net
+HOST-SUFFIX,mail.ru
+HOST-SUFFIX,bk.ru
+HOST-SUFFIX,list.ru
+HOST-SUFFIX,inbox.ru
+HOST-SUFFIX,rediffmail.com
+HOST-SUFFIX,india.com
+HOST-SUFFIX,orange.fr
+HOST-SUFFIX,laposte.net
+HOST-SUFFIX,web.de
+HOST-SUFFIX,t-online.de
+HOST-SUFFIX,alice.it
+HOST-SUFFIX,virgilio.it
+HOST-SUFFIX,libero.it
+HOST-SUFFIX,terra.com.br
+HOST-SUFFIX,uol.com.br
+HOST-SUFFIX,globomail.com
+HOST-SUFFIX,bol.com.br
+# Other miscellaneous
+HOST-SUFFIX,fastmail.fm
+HOST-SUFFIX,lavabit.com
+HOST-SUFFIX,countermail.com
+HOST-SUFFIX,posteo.at
+HOST-SUFFIX,mailbox.org
+HOST-SUFFIX,runbox.com
